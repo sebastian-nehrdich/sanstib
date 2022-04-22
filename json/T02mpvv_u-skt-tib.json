@@ -1,0 +1,2191 @@
+[
+    {
+        "score": 59,
+        "id": "T02mpvv_u-skt-tib:0",
+        "par_pos_beg": 0,
+        "par_pos_end": 0,
+        "root_pos_beg": 0,
+        "root_pos_end": 0,
+        "par_offset_beg": 0,
+        "par_offset_end": 38,
+        "root_offset_beg": 24,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:0",
+            "T02mpvv_u:1",
+            "T02mpvv_u:2",
+            "T02mpvv_u:3"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-0",
+            "T02D3125:224b-1",
+            "T02D3125:224b-2",
+            "T02D3125:224b-3",
+            "T02D3125:224b-4",
+            "T02D3125:224b-5",
+            "T02D3125:224b-6",
+            "T02D3125:224b-7"
+        ],
+        "par_segtext": [
+            "@224b # // rgya gar skad du /",
+            "a'arya ma h'a pra ti s'a r'a yee bidy'a bi dhi n'a ma /",
+            "bod skad du /",
+            "'phags ma so sor 'brang ma chen mo'i rig pa'i cho ga zhes bya ba /",
+            "'phags ma so sor 'brang ma chen mo la phyag 'tshal lo //",
+            "sangs rgyas thams cad mngon dga' ba'i //",
+            "phyag 'tshal so sor 'brang ma bshad //",
+            "sems can thams cad rnam 'byung ba'i //"
+        ],
+        "root_segtext": [
+            " Mahāpratisarāvidyāvidhi",
+            " namo bhagavatyai āryamahāpratisarāyai //",
+            " natvā pratisarāṃ bhaktyā sarvabuddhābhinanditām /",
+            " vibhūtyai sarvasattvānāṃ taccakraṃ likhyate mayā //"
+        ],
+        "root_string": " namo bhagavatyai āryamahāpratisarāyai // natvā pratisarāṃ bhaktyā sarvabuddhābhinanditām /",
+        "par_string": "@224b # // rgya gar skad du / a'arya ma h'a pra ti s'a r'a yee bidy'a bi dhi n'a ma / bod skad du / 'phags ma so sor 'brang ma chen mo'i rig pa'i cho ga zhes bya ba / 'phags ma so sor 'brang ma chen mo la phyag 'tshal lo // sangs rgyas thams cad mngon dga' ba'i // phyag 'tshal so sor 'brang ma bshad // sems can thams cad rnam 'byung ba'i //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 71,
+        "id": "T02mpvv_u-skt-tib:1",
+        "par_pos_beg": 1,
+        "par_pos_end": 1,
+        "root_pos_beg": 1,
+        "root_pos_end": 1,
+        "par_offset_beg": 0,
+        "par_offset_end": 30,
+        "root_offset_beg": 50,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:2",
+            "T02mpvv_u:3",
+            "T02mpvv_u:4"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-8"
+        ],
+        "par_segtext": [
+            "de yi 'khor lo bdag gis bri //"
+        ],
+        "root_segtext": [
+            " natvā pratisarāṃ bhaktyā sarvabuddhābhinanditām /",
+            " vibhūtyai sarvasattvānāṃ taccakraṃ likhyate mayā //",
+            " śuciḥ samāhitaḥ san balyādikaṃ dattvā nirmuṣṭihastapramāṇāṃ bhūrjatvacaṃ vastraṃ vā samādāya prathamaṃ tāvac caturaṅgulapramāṇaṃ puṭam ekaṃ likhet //"
+        ],
+        "root_string": " vibhūtyai sarvasattvānāṃ taccakraṃ likhyate mayā //",
+        "par_string": "de yi 'khor lo bdag gis bri //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "T02mpvv_u-skt-tib:2",
+        "par_pos_beg": 2,
+        "par_pos_end": 2,
+        "root_pos_beg": 2,
+        "root_pos_end": 2,
+        "par_offset_beg": 0,
+        "par_offset_end": 86,
+        "root_offset_beg": 52,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:3",
+            "T02mpvv_u:4",
+            "T02mpvv_u:5",
+            "T02mpvv_u:6"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-9",
+            "T02D3125:224b-10",
+            "T02D3125:224b-11",
+            "T02D3125:224b-12"
+        ],
+        "par_segtext": [
+            "gtsang ma mnyam par gzhag cing gtor ma la sogs byin la /",
+            "bskum khru gang gi tshad kyi gro ga'am ras la sogs pa'i gzhi la /",
+            "dang po re zhig sor bzhi'i tshad kyi rim pa gcig bri'o //",
+            "de'i dbus su zla tshes thig les brgyan pa'i h'um brgyad kyis bskor ba'i pram yig go //"
+        ],
+        "root_segtext": [
+            " vibhūtyai sarvasattvānāṃ taccakraṃ likhyate mayā //",
+            " śuciḥ samāhitaḥ san balyādikaṃ dattvā nirmuṣṭihastapramāṇāṃ bhūrjatvacaṃ vastraṃ vā samādāya prathamaṃ tāvac caturaṅgulapramāṇaṃ puṭam ekaṃ likhet //",
+            " tanmadhye 'rdhendubindubhūṣitaṃ hūṃkārāṣṭakaveṣṭitaṃ praiṃkāram /",
+            " tanmadhye mantram /"
+        ],
+        "root_string": " śuciḥ samāhitaḥ san balyādikaṃ dattvā nirmuṣṭihastapramāṇāṃ bhūrjatvacaṃ vastraṃ vā samādāya prathamaṃ tāvac caturaṅgulapramāṇaṃ puṭam ekaṃ likhet // tanmadhye 'rdhendubindubhūṣitaṃ hūṃkārāṣṭakaveṣṭitaṃ praiṃkāram /",
+        "par_string": "gtsang ma mnyam par gzhag cing gtor ma la sogs byin la / bskum khru gang gi tshad kyi gro ga'am ras la sogs pa'i gzhi la / dang po re zhig sor bzhi'i tshad kyi rim pa gcig bri'o // de'i dbus su zla tshes thig les brgyan pa'i h'um brgyad kyis bskor ba'i pram yig go //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 74,
+        "id": "T02mpvv_u-skt-tib:3",
+        "par_pos_beg": 3,
+        "par_pos_end": 3,
+        "root_pos_beg": 3,
+        "root_pos_end": 3,
+        "par_offset_beg": 0,
+        "par_offset_end": 21,
+        "root_offset_beg": 66,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:5",
+            "T02mpvv_u:6",
+            "T02mpvv_u:7"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-13"
+        ],
+        "par_segtext": [
+            "de'i nang du sngags /"
+        ],
+        "root_segtext": [
+            " tanmadhye 'rdhendubindubhūṣitaṃ hūṃkārāṣṭakaveṣṭitaṃ praiṃkāram /",
+            " tanmadhye mantram /",
+            " oṃ maṇidhari vajriṇi mahāpratisare dhārakasya rakṣaṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " tanmadhye mantram /",
+        "par_string": "de'i nang du sngags /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T02mpvv_u-skt-tib:4",
+        "par_pos_beg": 4,
+        "par_pos_end": 4,
+        "root_pos_beg": 4,
+        "root_pos_end": 4,
+        "par_offset_beg": 0,
+        "par_offset_end": 38,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:6",
+            "T02mpvv_u:7",
+            "T02mpvv_u:8",
+            "T02mpvv_u:9",
+            "T02mpvv_u:10"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-14",
+            "T02D3125:224b-15",
+            "T02D3125:224b-16",
+            "T02D3125:224b-17",
+            "T02D3125:224b-18",
+            "T02D3125:224b-19"
+        ],
+        "par_segtext": [
+            "aom ma ni dha ri badzri ni ma h'a pra",
+            "ti s'a re dha re kasyam raksham ku ru sh'anti",
+            "pushtim ku ru h'um h'um phat phat sv'a h'a /",
+            "de'i phyir sor phyed kyi rim pa gnyis la /",
+            "de la dang po rim pa gcig gi sngags ni /",
+            "aom ma ni zhes pa sngar gyi gcig go //"
+        ],
+        "root_segtext": [
+            " tanmadhye mantram /",
+            " oṃ maṇidhari vajriṇi mahāpratisare dhārakasya rakṣaṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " tato bāhye 'rdhāṅgulapuṭadvayam //",
+            " tatra prathame puṭe mantram oṃ maṇītipūrvakam eva /",
+            " dvitīye tathaiva dvidhā /"
+        ],
+        "root_string": " oṃ maṇidhari vajriṇi mahāpratisare dhārakasya rakṣaṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā // tato bāhye 'rdhāṅgulapuṭadvayam // tatra prathame puṭe mantram oṃ maṇītipūrvakam eva /",
+        "par_string": "aom ma ni dha ri badzri ni ma h'a pra ti s'a re dha re kasyam raksham ku ru sh'anti pushtim ku ru h'um h'um phat phat sv'a h'a / de'i phyir sor phyed kyi rim pa gnyis la / de la dang po rim pa gcig gi sngags ni / aom ma ni zhes pa sngar gyi gcig go //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 74,
+        "id": "T02mpvv_u-skt-tib:5",
+        "par_pos_beg": 5,
+        "par_pos_end": 5,
+        "root_pos_beg": 5,
+        "root_pos_end": 5,
+        "par_offset_beg": 0,
+        "par_offset_end": 36,
+        "root_offset_beg": 52,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:9",
+            "T02mpvv_u:10",
+            "T02mpvv_u:11"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-20"
+        ],
+        "par_segtext": [
+            "gnyis ba ni de ltar rim par bya'o //"
+        ],
+        "root_segtext": [
+            " tatra prathame puṭe mantram oṃ maṇītipūrvakam eva /",
+            " dvitīye tathaiva dvidhā /",
+            " tato bāhye tryaṅgulapuṭam ekam /"
+        ],
+        "root_string": " dvitīye tathaiva dvidhā /",
+        "par_string": "gnyis ba ni de ltar rim par bya'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 69,
+        "id": "T02mpvv_u-skt-tib:6",
+        "par_pos_beg": 6,
+        "par_pos_end": 6,
+        "root_pos_beg": 6,
+        "root_pos_end": 6,
+        "par_offset_beg": 0,
+        "par_offset_end": 47,
+        "root_offset_beg": 26,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:10",
+            "T02mpvv_u:11",
+            "T02mpvv_u:12"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-21"
+        ],
+        "par_segtext": [
+            "de'i phyi rol du sor gsum gyi rim pa gcig go //"
+        ],
+        "root_segtext": [
+            " dvitīye tathaiva dvidhā /",
+            " tato bāhye tryaṅgulapuṭam ekam /",
+            " tatra caturdikṣu catuḥpadmadale rekhādvitaya saṃdhau pūrvādidikkrameṇa mantraṃ likhet //"
+        ],
+        "root_string": " tato bāhye tryaṅgulapuṭam ekam /",
+        "par_string": "de'i phyi rol du sor gsum gyi rim pa gcig go //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T02mpvv_u-skt-tib:7",
+        "par_pos_beg": 7,
+        "par_pos_end": 7,
+        "root_pos_beg": 7,
+        "root_pos_end": 7,
+        "par_offset_beg": 0,
+        "par_offset_end": 42,
+        "root_offset_beg": 33,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:11",
+            "T02mpvv_u:12",
+            "T02mpvv_u:13"
+        ],
+        "par_segnr": [
+            "T02D3125:224b-22",
+            "T02D3125:224b-23",
+            "T02D3125:224b-24"
+        ],
+        "par_segtext": [
+            "de la phyogs bzhir ri mo gnyis pa padma 'dab",
+            "ma bzhi pa'i mdun la sogs pa'i phyogs kyi rim",
+            "par ri mo gnyis kyi mtshams su sngags ni /"
+        ],
+        "root_segtext": [
+            " tato bāhye tryaṅgulapuṭam ekam /",
+            " tatra caturdikṣu catuḥpadmadale rekhādvitaya saṃdhau pūrvādidikkrameṇa mantraṃ likhet //",
+            " oṃ vimale vipule jayavare amṛte dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " tatra caturdikṣu catuḥpadmadale rekhādvitaya saṃdhau pūrvādidikkrameṇa mantraṃ likhet //",
+        "par_string": "de la phyogs bzhir ri mo gnyis pa padma 'dab ma bzhi pa'i mdun la sogs pa'i phyogs kyi rim par ri mo gnyis kyi mtshams su sngags ni /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T02mpvv_u-skt-tib:8",
+        "par_pos_beg": 8,
+        "par_pos_end": 8,
+        "root_pos_beg": 8,
+        "root_pos_end": 8,
+        "par_offset_beg": 0,
+        "par_offset_end": 33,
+        "root_offset_beg": 89,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:12",
+            "T02mpvv_u:13",
+            "T02mpvv_u:14",
+            "T02mpvv_u:15"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-0",
+            "T02D3125:225a-1",
+            "T02D3125:225a-2"
+        ],
+        "par_segtext": [
+            "@225a * // aom bi ma le bi pu le dza ya ba",
+            "re aa mri te dha ra raksha sh'antim pushtim ku",
+            "ru h'um h'um phat phat sv'a h'a /"
+        ],
+        "root_segtext": [
+            " tatra caturdikṣu catuḥpadmadale rekhādvitaya saṃdhau pūrvādidikkrameṇa mantraṃ likhet //",
+            " oṃ vimale vipule jayavare amṛte dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " dakṣiṇe //",
+            " oṃ amṛtavilokini garbhasaṃrakṣaṇi ākarṣaṇi dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā /"
+        ],
+        "root_string": " oṃ vimale vipule jayavare amṛte dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // dakṣiṇe //",
+        "par_string": "@225a * // aom bi ma le bi pu le dza ya ba re aa mri te dha ra raksha sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 76,
+        "id": "T02mpvv_u-skt-tib:9",
+        "par_pos_beg": 9,
+        "par_pos_end": 9,
+        "root_pos_beg": 9,
+        "root_pos_end": 9,
+        "par_offset_beg": 0,
+        "par_offset_end": 16,
+        "root_offset_beg": 11,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:14",
+            "T02mpvv_u:15",
+            "T02mpvv_u:16",
+            "T02mpvv_u:17",
+            "T02mpvv_u:18"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-3",
+            "T02D3125:225a-4",
+            "T02D3125:225a-5",
+            "T02D3125:225a-6",
+            "T02D3125:225a-7",
+            "T02D3125:225a-8",
+            "T02D3125:225a-9",
+            "T02D3125:225a-10",
+            "T02D3125:225a-11"
+        ],
+        "par_segtext": [
+            "g-yas su aom aa mri te bi lo ki ni",
+            "garbha sam raksha ni a'a karsha ni dha ra ra",
+            "ka sya raksha sh'antim pushtim ku ru h'um h'um phat",
+            "phat sv'a h'a / rgyab tu /",
+            "aom bh'a ra bh'a ra /",
+            "sam bh'a ra sam bh'a ra /",
+            "aindr'i ya ba la bi sho dha ni dha ra",
+            "ka sya raksham sh'antim pushtim ku ru h'um h'um phat",
+            "phat sv'a h'a / g-yon du aom aa mri ta"
+        ],
+        "root_segtext": [
+            " dakṣiṇe //",
+            " oṃ amṛtavilokini garbhasaṃrakṣaṇi ākarṣaṇi dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā /",
+            " [Mpvv, Page 477]",
+            " paścime //",
+            " oṃ bhara 2 saṃbhara 2 indriyabalaviśodhani dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 ruru cale svāhā //"
+        ],
+        "root_string": " oṃ amṛtavilokini garbhasaṃrakṣaṇi ākarṣaṇi dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā / [Mpvv, Page 477] paścime //",
+        "par_string": "g-yas su aom aa mri te bi lo ki ni garbha sam raksha ni a'a karsha ni dha ra ra ka sya raksha sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a / rgyab tu / aom bh'a ra bh'a ra / sam bh'a ra sam bh'a ra / aindr'i ya ba la bi sho dha ni dha ra ka sya raksham sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 59,
+        "id": "T02mpvv_u-skt-tib:10",
+        "par_pos_beg": 10,
+        "par_pos_end": 10,
+        "root_pos_beg": 10,
+        "root_pos_end": 10,
+        "par_offset_beg": 16,
+        "par_offset_end": 25,
+        "root_offset_beg": 11,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:17",
+            "T02mpvv_u:18",
+            "T02mpvv_u:19",
+            "T02mpvv_u:20",
+            "T02mpvv_u:21"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-11",
+            "T02D3125:225a-12",
+            "T02D3125:225a-13",
+            "T02D3125:225a-14"
+        ],
+        "par_segtext": [
+            "phat sv'a h'a / g-yon du aom aa mri ta",
+            "ba re ba ra ba ra pra ba ra bi",
+            "shuddhe ra ka sya raksha sh'antim pushtim ku ru h'am",
+            "h'um phat phat sv'a h'a /"
+        ],
+        "root_segtext": [
+            " paścime //",
+            " oṃ bhara 2 saṃbhara 2 indriyabalaviśodhani dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 ruru cale svāhā //",
+            " uttare //",
+            " oṃ amṛtavare vara vara pravaraviśuddhe dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " dalānāṃ madhye hūṃkārāṣṭakaveṣṭitapraiṃkāramadhye maṇidharītyādi mantraṃ likhet //"
+        ],
+        "root_string": " oṃ bhara 2 saṃbhara 2 indriyabalaviśodhani dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 ruru cale svāhā // uttare // oṃ amṛtavare vara vara pravaraviśuddhe dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+        "par_string": "g-yon du aom aa mri ta ba re ba ra ba ra pra ba ra bi shuddhe ra ka sya raksha sh'antim pushtim ku ru h'am h'um phat phat sv'a h'a /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 76,
+        "id": "T02mpvv_u-skt-tib:11",
+        "par_pos_beg": 11,
+        "par_pos_end": 11,
+        "root_pos_beg": 11,
+        "root_pos_end": 11,
+        "par_offset_beg": 0,
+        "par_offset_end": 79,
+        "root_offset_beg": 96,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:20",
+            "T02mpvv_u:21",
+            "T02mpvv_u:22"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-15"
+        ],
+        "par_segtext": [
+            "'dab ma rnams kyi dbus su h'um yig brgyad kyis bskor ba'i pram yig gi nang du /"
+        ],
+        "root_segtext": [
+            " oṃ amṛtavare vara vara pravaraviśuddhe dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " dalānāṃ madhye hūṃkārāṣṭakaveṣṭitapraiṃkāramadhye maṇidharītyādi mantraṃ likhet //",
+            " caturvidikṣu catustriśūkavajrārdhagarbhe āgneyādikoṇakrameṇa mantraṃ likhet //"
+        ],
+        "root_string": " dalānāṃ madhye hūṃkārāṣṭakaveṣṭitapraiṃkāramadhye maṇidharītyādi mantraṃ likhet //",
+        "par_string": "'dab ma rnams kyi dbus su h'um yig brgyad kyis bskor ba'i pram yig gi nang du /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 81,
+        "id": "T02mpvv_u-skt-tib:12",
+        "par_pos_beg": 12,
+        "par_pos_end": 12,
+        "root_pos_beg": 12,
+        "root_pos_end": 12,
+        "par_offset_beg": 0,
+        "par_offset_end": 16,
+        "root_offset_beg": 83,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:21",
+            "T02mpvv_u:22",
+            "T02mpvv_u:23"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-16",
+            "T02D3125:225a-17",
+            "T02D3125:225a-18",
+            "T02D3125:225a-19"
+        ],
+        "par_segtext": [
+            "aom ma ni dhu ri zhes pa la sogs pa'i sngags bri bar bya'o ;",
+            "/ phyogs bral bzhir rtse gsum pa'i rdo rje phyed",
+            "pa'i nang gi me la sogs pa'i mtshams kyi rim",
+            "par sngags ni / aom bi spho ta badzri ni"
+        ],
+        "root_segtext": [
+            " dalānāṃ madhye hūṃkārāṣṭakaveṣṭitapraiṃkāramadhye maṇidharītyādi mantraṃ likhet //",
+            " caturvidikṣu catustriśūkavajrārdhagarbhe āgneyādikoṇakrameṇa mantraṃ likhet //",
+            " oṃ visphoṭavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " caturvidikṣu catustriśūkavajrārdhagarbhe āgneyādikoṇakrameṇa mantraṃ likhet //",
+        "par_string": "aom ma ni dhu ri zhes pa la sogs pa'i sngags bri bar bya'o ; / phyogs bral bzhir rtse gsum pa'i rdo rje phyed pa'i nang gi me la sogs pa'i mtshams kyi rim par sngags ni / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T02mpvv_u-skt-tib:13",
+        "par_pos_beg": 13,
+        "par_pos_end": 13,
+        "root_pos_beg": 13,
+        "root_pos_end": 13,
+        "par_offset_beg": 16,
+        "par_offset_end": 14,
+        "root_offset_beg": 79,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:22",
+            "T02mpvv_u:23",
+            "T02mpvv_u:24",
+            "T02mpvv_u:25"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-19",
+            "T02D3125:225a-20",
+            "T02D3125:225a-21",
+            "T02D3125:225a-22"
+        ],
+        "par_segtext": [
+            "par sngags ni / aom bi spho ta badzri ni",
+            "dha ra ka sya raksha sh'intam pushtim ku ru h'um",
+            "h'um phat phat sv'a h'a /",
+            "bden bral du /"
+        ],
+        "root_segtext": [
+            " caturvidikṣu catustriśūkavajrārdhagarbhe āgneyādikoṇakrameṇa mantraṃ likhet //",
+            " oṃ visphoṭavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " nairṛtye //",
+            " oṃ amṛtavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " oṃ visphoṭavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // nairṛtye //",
+        "par_string": "aom bi spho ta badzri ni dha ra ka sya raksha sh'intam pushtim ku ru h'um h'um phat phat sv'a h'a / bden bral du /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T02mpvv_u-skt-tib:14",
+        "par_pos_beg": 14,
+        "par_pos_end": 14,
+        "root_pos_beg": 14,
+        "root_pos_end": 14,
+        "par_offset_beg": 0,
+        "par_offset_end": 16,
+        "root_offset_beg": 12,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:24",
+            "T02mpvv_u:25",
+            "T02mpvv_u:26",
+            "T02mpvv_u:27"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-23",
+            "T02D3125:225a-24",
+            "T02D3125:225a-25"
+        ],
+        "par_segtext": [
+            "aom aa mri ta b'a re dha ra ka sya",
+            "raksham sh'antim pushti ku ru h'um h'um phat phat sv'a",
+            "h'a / rlung du /"
+        ],
+        "root_segtext": [
+            " nairṛtye //",
+            " oṃ amṛtavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " vāyavye /",
+            " oṃ vimale dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " oṃ amṛtavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // vāyavye /",
+        "par_string": "aom aa mri ta b'a re dha ra ka sya raksham sh'antim pushti ku ru h'um h'um phat phat sv'a h'a / rlung du /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T02mpvv_u-skt-tib:15",
+        "par_pos_beg": 15,
+        "par_pos_end": 15,
+        "root_pos_beg": 15,
+        "root_pos_end": 15,
+        "par_offset_beg": 0,
+        "par_offset_end": 15,
+        "root_offset_beg": 10,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:26",
+            "T02mpvv_u:27",
+            "T02mpvv_u:28",
+            "T02mpvv_u:29"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-26",
+            "T02D3125:225a-27"
+        ],
+        "par_segtext": [
+            "aom bi ma le dha ra ka sya raksham sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a /",
+            "dbang ldan du /"
+        ],
+        "root_segtext": [
+            " vāyavye /",
+            " oṃ vimale dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " aiśāne /",
+            " oṃ jayavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " oṃ vimale dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // aiśāne /",
+        "par_string": "aom bi ma le dha ra ka sya raksham sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a / dbang ldan du /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 80,
+        "id": "T02mpvv_u-skt-tib:16",
+        "par_pos_beg": 16,
+        "par_pos_end": 16,
+        "root_pos_beg": 16,
+        "root_pos_end": 16,
+        "par_offset_beg": 0,
+        "par_offset_end": 35,
+        "root_offset_beg": 9,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:28",
+            "T02mpvv_u:29",
+            "T02mpvv_u:30",
+            "T02mpvv_u:31",
+            "T02mpvv_u:32"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-28",
+            "T02D3125:225a-29",
+            "T02D3125:225a-30",
+            "T02D3125:225a-31"
+        ],
+        "par_segtext": [
+            "aom dza ya b'a re dha ra ka sya raksham",
+            "sh'intam pushtim ku ru h'um h'um phat phat sv'a h'a",
+            "/ padma'i 'dab ma dang rdo rje phyed ma rnams kyi mtshams brgyad rnams su /",
+            "me'i phyogs kyi rim par sngags ni /"
+        ],
+        "root_segtext": [
+            " aiśāne /",
+            " oṃ jayavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " padmadalatriśūkavajrārdhayor aṣṭasaṃdhiṣu āgneyādidikkrameṇa /",
+            " oṃ niśumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " oṃ śumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //"
+        ],
+        "root_string": " oṃ jayavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // padmadalatriśūkavajrārdhayor aṣṭasaṃdhiṣu āgneyādidikkrameṇa / oṃ niśumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+        "par_string": "aom dza ya b'a re dha ra ka sya raksham sh'intam pushtim ku ru h'um h'um phat phat sv'a h'a / padma'i 'dab ma dang rdo rje phyed ma rnams kyi mtshams brgyad rnams su / me'i phyogs kyi rim par sngags ni /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T02mpvv_u-skt-tib:17",
+        "par_pos_beg": 17,
+        "par_pos_end": 17,
+        "root_pos_beg": 17,
+        "root_pos_end": 17,
+        "par_offset_beg": 0,
+        "par_offset_end": 58,
+        "root_offset_beg": 64,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:31",
+            "T02mpvv_u:32",
+            "T02mpvv_u:33",
+            "T02mpvv_u:34"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-32",
+            "T02D3125:225a-33",
+            "T02D3125:225a-34"
+        ],
+        "par_segtext": [
+            "aom sum bha badzri ni dha ra ka sya raksham",
+            "sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a",
+            "/ zhes pa'i sngags gnyis sam gcig nang du bri bar bya'o //"
+        ],
+        "root_segtext": [
+            " oṃ niśumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " oṃ śumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
+            " iti mantradvayam ekāntaritaṃ likhet //",
+            " tato bāhye 'rdhāṅgulapramāṇapuṭacatuṣṭayaṃ kuryāt /"
+        ],
+        "root_string": " oṃ śumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // iti mantradvayam ekāntaritaṃ likhet //",
+        "par_string": "aom sum bha badzri ni dha ra ka sya raksham sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a / zhes pa'i sngags gnyis sam gcig nang du bri bar bya'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 75,
+        "id": "T02mpvv_u-skt-tib:18",
+        "par_pos_beg": 18,
+        "par_pos_end": 18,
+        "root_pos_beg": 18,
+        "root_pos_end": 18,
+        "par_offset_beg": 0,
+        "par_offset_end": 66,
+        "root_offset_beg": 39,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:33",
+            "T02mpvv_u:34",
+            "T02mpvv_u:35"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-35"
+        ],
+        "par_segtext": [
+            "de'i phyi ru sor phyed dang gsum gyi tshad la rim pa bzhi bya'o //"
+        ],
+        "root_segtext": [
+            " iti mantradvayam ekāntaritaṃ likhet //",
+            " tato bāhye 'rdhāṅgulapramāṇapuṭacatuṣṭayaṃ kuryāt /",
+            " tataḥ prathame puṭe hrīḥkārapaṅktim ekāṃ likhet // //"
+        ],
+        "root_string": " tato bāhye 'rdhāṅgulapramāṇapuṭacatuṣṭayaṃ kuryāt /",
+        "par_string": "de'i phyi ru sor phyed dang gsum gyi tshad la rim pa bzhi bya'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "T02mpvv_u-skt-tib:19",
+        "par_pos_beg": 19,
+        "par_pos_end": 19,
+        "root_pos_beg": 19,
+        "root_pos_end": 19,
+        "par_offset_beg": 0,
+        "par_offset_end": 40,
+        "root_offset_beg": 52,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:34",
+            "T02mpvv_u:35",
+            "T02mpvv_u:36",
+            "T02mpvv_u:37",
+            "T02mpvv_u:38",
+            "T02mpvv_u:39",
+            "T02mpvv_u:40"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-36",
+            "T02D3125:225a-37",
+            "T02D3125:225a-38"
+        ],
+        "par_segtext": [
+            "de la rim pa dang po la hr'i: yi ge phreng gcig bri'o //",
+            "de'i phyi'i rim pa la /",
+            "aom aa pa r'a dzi te ma h'a de bi trat /"
+        ],
+        "root_segtext": [
+            " tato bāhye 'rdhāṅgulapramāṇapuṭacatuṣṭayaṃ kuryāt /",
+            " tataḥ prathame puṭe hrīḥkārapaṅktim ekāṃ likhet // //",
+            " dvitīye /",
+            " [Mpvv, Page 478]",
+            " oṃ aparājite mahādevi traṭ /",
+            " oṃ kālakarṇi kṛt /",
+            " oṃ padmakuṇḍali paṃ /"
+        ],
+        "root_string": " tataḥ prathame puṭe hrīḥkārapaṅktim ekāṃ likhet // // dvitīye / [Mpvv, Page 478] oṃ aparājite mahādevi traṭ / oṃ kālakarṇi kṛt /",
+        "par_string": "de la rim pa dang po la hr'i: yi ge phreng gcig bri'o // de'i phyi'i rim pa la / aom aa pa r'a dzi te ma h'a de bi trat /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:20",
+        "par_pos_beg": 20,
+        "par_pos_end": 20,
+        "root_pos_beg": 20,
+        "root_pos_end": 20,
+        "par_offset_beg": 0,
+        "par_offset_end": 20,
+        "root_offset_beg": 19,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:39",
+            "T02mpvv_u:40",
+            "T02mpvv_u:41"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-39",
+            "T02D3125:225a-40"
+        ],
+        "par_segtext": [
+            "aom k'a la kanda kri ta /",
+            "padma kunda li pam /"
+        ],
+        "root_segtext": [
+            " oṃ kālakarṇi kṛt /",
+            " oṃ padmakuṇḍali paṃ /",
+            " oṃ puṣpadantini hūṃ //"
+        ],
+        "root_string": " oṃ padmakuṇḍali paṃ /",
+        "par_string": "aom k'a la kanda kri ta / padma kunda li pam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T02mpvv_u-skt-tib:21",
+        "par_pos_beg": 21,
+        "par_pos_end": 21,
+        "root_pos_beg": 21,
+        "root_pos_end": 21,
+        "par_offset_beg": 0,
+        "par_offset_end": 26,
+        "root_offset_beg": 22,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:40",
+            "T02mpvv_u:41",
+            "T02mpvv_u:42"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-41"
+        ],
+        "par_segtext": [
+            "aom pushpa danti ni h'um /"
+        ],
+        "root_segtext": [
+            " oṃ padmakuṇḍali paṃ /",
+            " oṃ puṣpadantini hūṃ //",
+            " oṃ maṇyaṅkuśi hūṃ //"
+        ],
+        "root_string": " oṃ puṣpadantini hūṃ //",
+        "par_string": "aom pushpa danti ni h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T02mpvv_u-skt-tib:22",
+        "par_pos_beg": 22,
+        "par_pos_end": 22,
+        "root_pos_beg": 22,
+        "root_pos_end": 22,
+        "par_offset_beg": 0,
+        "par_offset_end": 29,
+        "root_offset_beg": 23,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:41",
+            "T02mpvv_u:42",
+            "T02mpvv_u:43",
+            "T02mpvv_u:44"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-42",
+            "T02D3125:225a-43"
+        ],
+        "par_segtext": [
+            "aom ma lyam ku shi h'um /",
+            "aom badzra srim kha le h'um /"
+        ],
+        "root_segtext": [
+            " oṃ puṣpadantini hūṃ //",
+            " oṃ maṇyaṅkuśi hūṃ //",
+            " oṃ vajraśṛṅkhale phuṃ /",
+            " oṃ śvete vaṃ /"
+        ],
+        "root_string": " oṃ maṇyaṅkuśi hūṃ // oṃ vajraśṛṅkhale phuṃ /",
+        "par_string": "aom ma lyam ku shi h'um / aom badzra srim kha le h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 65,
+        "id": "T02mpvv_u-skt-tib:23",
+        "par_pos_beg": 23,
+        "par_pos_end": 23,
+        "root_pos_beg": 23,
+        "root_pos_end": 23,
+        "par_offset_beg": 0,
+        "par_offset_end": 17,
+        "root_offset_beg": 24,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:43",
+            "T02mpvv_u:44",
+            "T02mpvv_u:45",
+            "T02mpvv_u:46",
+            "T02mpvv_u:47"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-44"
+        ],
+        "par_segtext": [
+            "aom shve te bam /"
+        ],
+        "root_segtext": [
+            " oṃ vajraśṛṅkhale phuṃ /",
+            " oṃ śvete vaṃ /",
+            " oṃ mahāśvete phaṃ /",
+            " oṃ mahākāli hrīḥ /",
+            " oṃ vajrarati kṛt /"
+        ],
+        "root_string": " oṃ śvete vaṃ / oṃ mahāśvete phaṃ / oṃ mahākāli hrīḥ /",
+        "par_string": "aom shve te bam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:24",
+        "par_pos_beg": 24,
+        "par_pos_end": 24,
+        "root_pos_beg": 24,
+        "root_pos_end": 24,
+        "par_offset_beg": 0,
+        "par_offset_end": 46,
+        "root_offset_beg": 19,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:46",
+            "T02mpvv_u:47",
+            "T02mpvv_u:48",
+            "T02mpvv_u:49",
+            "T02mpvv_u:50"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-45"
+        ],
+        "par_segtext": [
+            "aom ma h'a k'a li hr'i: aom badzra p'a ni he /"
+        ],
+        "root_segtext": [
+            " oṃ mahākāli hrīḥ /",
+            " oṃ vajrarati kṛt /",
+            " oṃ vajrakāli hrīḥ /",
+            " oṃ vajrapāśi pheḥ /",
+            " oṃ vajrapāśi bhṛt //"
+        ],
+        "root_string": " oṃ vajrarati kṛt / oṃ vajrakāli hrīḥ / oṃ vajrapāśi pheḥ /",
+        "par_string": "aom ma h'a k'a li hr'i: aom badzra p'a ni he /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T02mpvv_u-skt-tib:25",
+        "par_pos_beg": 25,
+        "par_pos_end": 25,
+        "root_pos_beg": 25,
+        "root_pos_end": 25,
+        "par_offset_beg": 0,
+        "par_offset_end": 26,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:49",
+            "T02mpvv_u:50",
+            "T02mpvv_u:51"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-46"
+        ],
+        "par_segtext": [
+            "aom badzra p'a ni bri ta /"
+        ],
+        "root_segtext": [
+            " oṃ vajrapāśi pheḥ /",
+            " oṃ vajrapāśi bhṛt //",
+            " oṃ vajrapāṇi mahābale dhīḥ /"
+        ],
+        "root_string": " oṃ vajrapāśi bhṛt //",
+        "par_string": "aom badzra p'a ni bri ta /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T02mpvv_u-skt-tib:26",
+        "par_pos_beg": 26,
+        "par_pos_end": 26,
+        "root_pos_beg": 26,
+        "root_pos_end": 26,
+        "par_offset_beg": 0,
+        "par_offset_end": 36,
+        "root_offset_beg": 21,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:50",
+            "T02mpvv_u:51",
+            "T02mpvv_u:52"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-47"
+        ],
+        "par_segtext": [
+            "aom badzra p'a ni ma h'a ba le dhi:/"
+        ],
+        "root_segtext": [
+            " oṃ vajrapāśi bhṛt //",
+            " oṃ vajrapāṇi mahābale dhīḥ /",
+            " oṃ vajramāle māṃ /"
+        ],
+        "root_string": " oṃ vajrapāṇi mahābale dhīḥ /",
+        "par_string": "aom badzra p'a ni ma h'a ba le dhi:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T02mpvv_u-skt-tib:27",
+        "par_pos_beg": 27,
+        "par_pos_end": 27,
+        "root_pos_beg": 27,
+        "root_pos_end": 27,
+        "par_offset_beg": 0,
+        "par_offset_end": 33,
+        "root_offset_beg": 29,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:51",
+            "T02mpvv_u:52",
+            "T02mpvv_u:53"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-48",
+            "T02D3125:225a-49"
+        ],
+        "par_segtext": [
+            "aom badzra m'a le mam /",
+            "aom aa mri ta kunda la sv'a h'a /"
+        ],
+        "root_segtext": [
+            " oṃ vajrapāṇi mahābale dhīḥ /",
+            " oṃ vajramāle māṃ /",
+            " oṃ amṛtakuṇḍali svāhā /"
+        ],
+        "root_string": " oṃ vajramāle māṃ /",
+        "par_string": "aom badzra m'a le mam / aom aa mri ta kunda la sv'a h'a /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T02mpvv_u-skt-tib:28",
+        "par_pos_beg": 28,
+        "par_pos_end": 28,
+        "root_pos_beg": 28,
+        "root_pos_end": 28,
+        "par_offset_beg": 0,
+        "par_offset_end": 40,
+        "root_offset_beg": 19,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:52",
+            "T02mpvv_u:53",
+            "T02mpvv_u:54",
+            "T02mpvv_u:55"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-50"
+        ],
+        "par_segtext": [
+            "aom dzva la dzva la h'um phat sv'a h'a /"
+        ],
+        "root_segtext": [
+            " oṃ vajramāle māṃ /",
+            " oṃ amṛtakuṇḍali svāhā /",
+            " oṃ jvala 2 hūṃ phaṭ svaḥ /",
+            " oṃ ṭakki hūm jaḥ svāhā // //"
+        ],
+        "root_string": " oṃ amṛtakuṇḍali svāhā / oṃ jvala 2 hūṃ phaṭ svaḥ /",
+        "par_string": "aom dzva la dzva la h'um phat sv'a h'a /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T02mpvv_u-skt-tib:29",
+        "par_pos_beg": 29,
+        "par_pos_end": 29,
+        "root_pos_beg": 29,
+        "root_pos_end": 29,
+        "par_offset_beg": 0,
+        "par_offset_end": 39,
+        "root_offset_beg": 27,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:54",
+            "T02mpvv_u:55",
+            "T02mpvv_u:56",
+            "T02mpvv_u:57",
+            "T02mpvv_u:58"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-51",
+            "T02D3125:225a-52"
+        ],
+        "par_segtext": [
+            "aom takki h'um dza: sv'a h'a /",
+            "de'i phyi'i rim pa la aom tsundi hr'i:/"
+        ],
+        "root_segtext": [
+            " oṃ jvala 2 hūṃ phaṭ svaḥ /",
+            " oṃ ṭakki hūm jaḥ svāhā // //",
+            " tṛtīye /",
+            " oṃ cūḍe hrīḥ /",
+            " oṃ suvarṇakeśi kṛt //"
+        ],
+        "root_string": " oṃ ṭakki hūm jaḥ svāhā // // tṛtīye / oṃ cūḍe hrīḥ /",
+        "par_string": "aom takki h'um dza: sv'a h'a / de'i phyi'i rim pa la aom tsundi hr'i:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T02mpvv_u-skt-tib:30",
+        "par_pos_beg": 30,
+        "par_pos_end": 30,
+        "root_pos_beg": 30,
+        "root_pos_end": 30,
+        "par_offset_beg": 0,
+        "par_offset_end": 26,
+        "root_offset_beg": 15,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:57",
+            "T02mpvv_u:58",
+            "T02mpvv_u:59"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-53"
+        ],
+        "par_segtext": [
+            "aom surnna ke shi kri ta /"
+        ],
+        "root_segtext": [
+            " oṃ cūḍe hrīḥ /",
+            " oṃ suvarṇakeśi kṛt //",
+            " oṃ piṅgale laṃ //"
+        ],
+        "root_string": " oṃ suvarṇakeśi kṛt //",
+        "par_string": "aom surnna ke shi kri ta /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T02mpvv_u-skt-tib:31",
+        "par_pos_beg": 31,
+        "par_pos_end": 31,
+        "root_pos_beg": 31,
+        "root_pos_end": 31,
+        "par_offset_beg": 0,
+        "par_offset_end": 19,
+        "root_offset_beg": 22,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:58",
+            "T02mpvv_u:59",
+            "T02mpvv_u:60"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-54"
+        ],
+        "par_segtext": [
+            "aom pim ga le lam /"
+        ],
+        "root_segtext": [
+            " oṃ suvarṇakeśi kṛt //",
+            " oṃ piṅgale laṃ //",
+            " oṃ vidyunmālini jaḥ hūṃ /"
+        ],
+        "root_string": " oṃ piṅgale laṃ //",
+        "par_string": "aom pim ga le lam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T02mpvv_u-skt-tib:32",
+        "par_pos_beg": 32,
+        "par_pos_end": 32,
+        "root_pos_beg": 32,
+        "root_pos_end": 32,
+        "par_offset_beg": 0,
+        "par_offset_end": 32,
+        "root_offset_beg": 18,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:59",
+            "T02mpvv_u:60",
+            "T02mpvv_u:61"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-55"
+        ],
+        "par_segtext": [
+            "aom bi dyunm'a li ni dza: h'um /"
+        ],
+        "root_segtext": [
+            " oṃ piṅgale laṃ //",
+            " oṃ vidyunmālini jaḥ hūṃ /",
+            " oṃ śāntikari hūṃ /"
+        ],
+        "root_string": " oṃ vidyunmālini jaḥ hūṃ /",
+        "par_string": "aom bi dyunm'a li ni dza: h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:33",
+        "par_pos_beg": 33,
+        "par_pos_end": 33,
+        "root_pos_beg": 33,
+        "root_pos_end": 33,
+        "par_offset_beg": 0,
+        "par_offset_end": 30,
+        "root_offset_beg": 26,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:60",
+            "T02mpvv_u:61",
+            "T02mpvv_u:62",
+            "T02mpvv_u:63"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-56",
+            "T02D3125:225a-57"
+        ],
+        "par_segtext": [
+            "aom sh'antim ka ri h'um /",
+            "aom pushtim ba la brta ni ha:/"
+        ],
+        "root_segtext": [
+            " oṃ vidyunmālini jaḥ hūṃ /",
+            " oṃ śāntikari hūṃ /",
+            " oṃ puṣṭibalavardhani haḥ /",
+            " oṃ śumbhakari hūṃ /"
+        ],
+        "root_string": " oṃ śāntikari hūṃ / oṃ puṣṭibalavardhani haḥ /",
+        "par_string": "aom sh'antim ka ri h'um / aom pushtim ba la brta ni ha:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T02mpvv_u-skt-tib:34",
+        "par_pos_beg": 34,
+        "par_pos_end": 34,
+        "root_pos_beg": 34,
+        "root_pos_end": 34,
+        "par_offset_beg": 0,
+        "par_offset_end": 23,
+        "root_offset_beg": 27,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:62",
+            "T02mpvv_u:63",
+            "T02mpvv_u:64"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-58"
+        ],
+        "par_segtext": [
+            "aom sumbha ka ri h'um /"
+        ],
+        "root_segtext": [
+            " oṃ puṣṭibalavardhani haḥ /",
+            " oṃ śumbhakari hūṃ /",
+            " oṃ maṇidhari hūṃ //"
+        ],
+        "root_string": " oṃ śumbhakari hūṃ /",
+        "par_string": "aom sumbha ka ri h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 95,
+        "id": "T02mpvv_u-skt-tib:35",
+        "par_pos_beg": 35,
+        "par_pos_end": 35,
+        "root_pos_beg": 35,
+        "root_pos_end": 35,
+        "par_offset_beg": 0,
+        "par_offset_end": 23,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:63",
+            "T02mpvv_u:64",
+            "T02mpvv_u:65"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-59"
+        ],
+        "par_segtext": [
+            "aom ma ni dha ri h'um /"
+        ],
+        "root_segtext": [
+            " oṃ śumbhakari hūṃ /",
+            " oṃ maṇidhari hūṃ //",
+            " oṃ ratnamakuṭamālādhari hrīḥ /"
+        ],
+        "root_string": " oṃ maṇidhari hūṃ //",
+        "par_string": "aom ma ni dha ri h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T02mpvv_u-skt-tib:36",
+        "par_pos_beg": 36,
+        "par_pos_end": 36,
+        "root_pos_beg": 36,
+        "root_pos_end": 36,
+        "par_offset_beg": 0,
+        "par_offset_end": 20,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:64",
+            "T02mpvv_u:65",
+            "T02mpvv_u:66"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-60",
+            "T02D3125:225a-61"
+        ],
+        "par_segtext": [
+            "aom ratna mu ku ta /",
+            "m'a la dha ri hr'i:/"
+        ],
+        "root_segtext": [
+            " oṃ maṇidhari hūṃ //",
+            " oṃ ratnamakuṭamālādhari hrīḥ /",
+            " oṃ mahāpratisare praṃ /"
+        ],
+        "root_string": " oṃ ratnamakuṭamālādhari hrīḥ /",
+        "par_string": "aom ratna mu ku ta / m'a la dha ri hr'i:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T02mpvv_u-skt-tib:37",
+        "par_pos_beg": 37,
+        "par_pos_end": 37,
+        "root_pos_beg": 37,
+        "root_pos_end": 37,
+        "par_offset_beg": 0,
+        "par_offset_end": 29,
+        "root_offset_beg": 31,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:65",
+            "T02mpvv_u:66",
+            "T02mpvv_u:67"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-62"
+        ],
+        "par_segtext": [
+            "aom ma h'a pra ti sa ri pra /"
+        ],
+        "root_segtext": [
+            " oṃ ratnamakuṭamālādhari hrīḥ /",
+            " oṃ mahāpratisare praṃ /",
+            " oṃ dhuru 2 muru 2 huru 2 meru 2 hūṃ 2 /"
+        ],
+        "root_string": " oṃ mahāpratisare praṃ /",
+        "par_string": "aom ma h'a pra ti sa ri pra /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:38",
+        "par_pos_beg": 38,
+        "par_pos_end": 38,
+        "root_pos_beg": 38,
+        "root_pos_end": 38,
+        "par_offset_beg": 0,
+        "par_offset_end": 11,
+        "root_offset_beg": 24,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:66",
+            "T02mpvv_u:67",
+            "T02mpvv_u:68"
+        ],
+        "par_segnr": [
+            "T02D3125:225a-63",
+            "T02D3125:225a-64",
+            "T02D3125:225a-65",
+            "T02D3125:225a-66",
+            "T02D3125:225a-67"
+        ],
+        "par_segtext": [
+            "aom dhu ru dhu ru /",
+            "mu ru mu ru /",
+            "hu ru hu ru /",
+            "me ru me ru /",
+            "h'um h'um /"
+        ],
+        "root_segtext": [
+            " oṃ mahāpratisare praṃ /",
+            " oṃ dhuru 2 muru 2 huru 2 meru 2 hūṃ 2 /",
+            " oṃ balavardhani hoḥ /"
+        ],
+        "root_string": " oṃ dhuru 2 muru 2 huru 2 meru 2 hūṃ 2 /",
+        "par_string": "aom dhu ru dhu ru / mu ru mu ru / hu ru hu ru / me ru me ru / h'um h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T02mpvv_u-skt-tib:39",
+        "par_pos_beg": 39,
+        "par_pos_end": 39,
+        "root_pos_beg": 39,
+        "root_pos_end": 39,
+        "par_offset_beg": 0,
+        "par_offset_end": 30,
+        "root_offset_beg": 40,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:67",
+            "T02mpvv_u:68",
+            "T02mpvv_u:69"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-0"
+        ],
+        "par_segtext": [
+            "aom ba la bardha ni @225b ho:/"
+        ],
+        "root_segtext": [
+            " oṃ dhuru 2 muru 2 huru 2 meru 2 hūṃ 2 /",
+            " oṃ balavardhani hoḥ /",
+            " oṃ ruru cale hūṃ 2 phaṭ 2 svāhā /"
+        ],
+        "root_string": " oṃ balavardhani hoḥ /",
+        "par_string": "aom ba la bardha ni @225b ho:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T02mpvv_u-skt-tib:40",
+        "par_pos_beg": 40,
+        "par_pos_end": 40,
+        "root_pos_beg": 40,
+        "root_pos_end": 40,
+        "par_offset_beg": 0,
+        "par_offset_end": 38,
+        "root_offset_beg": 22,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:68",
+            "T02mpvv_u:69",
+            "T02mpvv_u:70"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-1"
+        ],
+        "par_segtext": [
+            "aom ru ru tsa le h'um h'um phat phat /"
+        ],
+        "root_segtext": [
+            " oṃ balavardhani hoḥ /",
+            " oṃ ruru cale hūṃ 2 phaṭ 2 svāhā /",
+            " oṃ maṇidhari mahāpratisare dhārakasya rakṣāṃ śāntiṃ puṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā // //"
+        ],
+        "root_string": " oṃ ruru cale hūṃ 2 phaṭ 2 svāhā /",
+        "par_string": "aom ru ru tsa le h'um h'um phat phat /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 10,
+        "id": "T02mpvv_u-skt-tib:41",
+        "par_pos_beg": 41,
+        "par_pos_end": 41,
+        "root_pos_beg": 41,
+        "root_pos_end": 41,
+        "par_offset_beg": 0,
+        "par_offset_end": 40,
+        "root_offset_beg": 34,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:69",
+            "T02mpvv_u:70",
+            "T02mpvv_u:71",
+            "T02mpvv_u:72",
+            "T02mpvv_u:73",
+            "T02mpvv_u:74",
+            "T02mpvv_u:75",
+            "T02mpvv_u:76",
+            "T02mpvv_u:77",
+            "T02mpvv_u:78",
+            "T02mpvv_u:79",
+            "T02mpvv_u:80",
+            "T02mpvv_u:81",
+            "T02mpvv_u:82",
+            "T02mpvv_u:83",
+            "T02mpvv_u:84",
+            "T02mpvv_u:85",
+            "T02mpvv_u:86"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-2",
+            "T02D3125:225b-3",
+            "T02D3125:225b-4",
+            "T02D3125:225b-5"
+        ],
+        "par_segtext": [
+            "aom ma ni dha ri badzri ni ma h'a pra",
+            "ti sa re dh'a ra ka sy'a raksham sh'antim pushtim",
+            "ku ru h'um h'um phat phat sv'a h'a /",
+            "de'i phyi'i rim par aom ta re t'am a'a:/"
+        ],
+        "root_segtext": [
+            " oṃ ruru cale hūṃ 2 phaṭ 2 svāhā /",
+            " oṃ maṇidhari mahāpratisare dhārakasya rakṣāṃ śāntiṃ puṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā // //",
+            " caturthe /",
+            " oṃ tāre tām aḥ /",
+            " oṃ muḥ /",
+            " oṃ āḥ rākṣasy ekajaṭe jnāṃ //",
+            " oṃ buddhe kṣitike he hūṃ //",
+            " oṃ kāpālini hūṃ //",
+            " oṃ laṅkeśvari khaṃ //",
+            " oṃ dhanye laṃ //",
+            " oṃ keśini aṃ /",
+            " oṃ laṅkeśvari muḥ /",
+            " oṃ hārīti hāṃ hrīṃ //",
+            " oṃ pāñcike keṃ //",
+            " oṃ śaṅkhini saṃ kaṭ //",
+            " oṃ kūṭadantini kaṭ //",
+            " oṃ śriyādevi śrīḥ /",
+            " oṃ sarasvati baṃ /"
+        ],
+        "root_string": " oṃ maṇidhari mahāpratisare dhārakasya rakṣāṃ śāntiṃ puṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā // // caturthe / oṃ tāre tām aḥ / oṃ muḥ / oṃ āḥ rākṣasy ekajaṭe jnāṃ // oṃ buddhe kṣitike he hūṃ // oṃ kāpālini hūṃ // oṃ laṅkeśvari khaṃ // oṃ dhanye laṃ // oṃ keśini aṃ / oṃ laṅkeśvari muḥ / oṃ hārīti hāṃ hrīṃ // oṃ pāñcike keṃ // oṃ śaṅkhini saṃ kaṭ // oṃ kūṭadantini kaṭ // oṃ śriyādevi śrīḥ /",
+        "par_string": "aom ma ni dha ri badzri ni ma h'a pra ti sa re dh'a ra ka sy'a raksham sh'antim pushtim ku ru h'um h'um phat phat sv'a h'a / de'i phyi'i rim par aom ta re t'am a'a:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T02mpvv_u-skt-tib:42",
+        "par_pos_beg": 42,
+        "par_pos_end": 42,
+        "root_pos_beg": 42,
+        "root_pos_end": 42,
+        "par_offset_beg": 0,
+        "par_offset_end": 39,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:85",
+            "T02mpvv_u:86",
+            "T02mpvv_u:87",
+            "T02mpvv_u:88",
+            "T02mpvv_u:89"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-6",
+            "T02D3125:225b-7",
+            "T02D3125:225b-8"
+        ],
+        "par_segtext": [
+            "aom aom mu aom aa raksha sya ka dza deshtam /",
+            "aom buddha raksha ti ke he h'um /",
+            "aom raksha ra kam sarba bha ye byadhi:/"
+        ],
+        "root_segtext": [
+            " oṃ śriyādevi śrīḥ /",
+            " oṃ sarasvati baṃ /",
+            " oṃ rakṣa 2 dhārakaṃ [Mpvv,",
+            " Page 479] sarvabhayebhyaḥ dhīḥ /",
+            " oṃ devi śrīḥ /"
+        ],
+        "root_string": " oṃ sarasvati baṃ / oṃ rakṣa 2 dhārakaṃ [Mpvv, Page 479] sarvabhayebhyaḥ dhīḥ /",
+        "par_string": "aom aom mu aom aa raksha sya ka dza deshtam / aom buddha raksha ti ke he h'um / aom raksha ra kam sarba bha ye byadhi:/",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:43",
+        "par_pos_beg": 43,
+        "par_pos_end": 43,
+        "root_pos_beg": 43,
+        "root_pos_end": 43,
+        "par_offset_beg": 0,
+        "par_offset_end": 19,
+        "root_offset_beg": 33,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:88",
+            "T02mpvv_u:89",
+            "T02mpvv_u:90"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-9"
+        ],
+        "par_segtext": [
+            "aom de b'i shr'i / aom padmo pam /"
+        ],
+        "root_segtext": [
+            " Page 479] sarvabhayebhyaḥ dhīḥ /",
+            " oṃ devi śrīḥ /",
+            " oṃ padme paṃ /"
+        ],
+        "root_string": " oṃ devi śrīḥ /",
+        "par_string": "aom de b'i shr'i / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T02mpvv_u-skt-tib:44",
+        "par_pos_beg": 44,
+        "par_pos_end": 44,
+        "root_pos_beg": 44,
+        "root_pos_end": 44,
+        "par_offset_beg": 19,
+        "par_offset_end": 34,
+        "root_offset_beg": 15,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:89",
+            "T02mpvv_u:90",
+            "T02mpvv_u:91"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-9"
+        ],
+        "par_segtext": [
+            "aom de b'i shr'i / aom padmo pam /"
+        ],
+        "root_segtext": [
+            " oṃ devi śrīḥ /",
+            " oṃ padme paṃ /",
+            " oṃ maṇidhari vajriṇi hūṃ //"
+        ],
+        "root_string": " oṃ padme paṃ /",
+        "par_string": "aom padmo pam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 94,
+        "id": "T02mpvv_u-skt-tib:45",
+        "par_pos_beg": 45,
+        "par_pos_end": 45,
+        "root_pos_beg": 45,
+        "root_pos_end": 45,
+        "par_offset_beg": 0,
+        "par_offset_end": 33,
+        "root_offset_beg": 15,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:90",
+            "T02mpvv_u:91",
+            "T02mpvv_u:92"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-10"
+        ],
+        "par_segtext": [
+            "aom ma ni dha ri badzri ni h'um /"
+        ],
+        "root_segtext": [
+            " oṃ padme paṃ /",
+            " oṃ maṇidhari vajriṇi hūṃ //",
+            " oṃ locane lāṃ /"
+        ],
+        "root_string": " oṃ maṇidhari vajriṇi hūṃ //",
+        "par_string": "aom ma ni dha ri badzri ni h'um /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T02mpvv_u-skt-tib:46",
+        "par_pos_beg": 46,
+        "par_pos_end": 46,
+        "root_pos_beg": 46,
+        "root_pos_end": 46,
+        "par_offset_beg": 0,
+        "par_offset_end": 21,
+        "root_offset_beg": 28,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:91",
+            "T02mpvv_u:92",
+            "T02mpvv_u:93",
+            "T02mpvv_u:94"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-11",
+            "T02D3125:225b-12"
+        ],
+        "par_segtext": [
+            "aom lo tsa ne l'am /",
+            "aom m'a ma k'i m'am /"
+        ],
+        "root_segtext": [
+            " oṃ maṇidhari vajriṇi hūṃ //",
+            " oṃ locane lāṃ /",
+            " oṃ māmaki māṃ /",
+            " oṃ pāṇḍare pāṃ /"
+        ],
+        "root_string": " oṃ locane lāṃ / oṃ māmaki māṃ /",
+        "par_string": "aom lo tsa ne l'am / aom m'a ma k'i m'am /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 75,
+        "id": "T02mpvv_u-skt-tib:47",
+        "par_pos_beg": 47,
+        "par_pos_end": 47,
+        "root_pos_beg": 47,
+        "root_pos_end": 47,
+        "par_offset_beg": 0,
+        "par_offset_end": 18,
+        "root_offset_beg": 16,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:93",
+            "T02mpvv_u:94",
+            "T02mpvv_u:95"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-13"
+        ],
+        "par_segtext": [
+            "aom panda re pam /"
+        ],
+        "root_segtext": [
+            " oṃ māmaki māṃ /",
+            " oṃ pāṇḍare pāṃ /",
+            " oṃ vasudhāre vaṃ //"
+        ],
+        "root_string": " oṃ pāṇḍare pāṃ /",
+        "par_string": "aom panda re pam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:48",
+        "par_pos_beg": 48,
+        "par_pos_end": 48,
+        "root_pos_beg": 48,
+        "root_pos_end": 48,
+        "par_offset_beg": 0,
+        "par_offset_end": 22,
+        "root_offset_beg": 17,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:94",
+            "T02mpvv_u:95",
+            "T02mpvv_u:96"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-14"
+        ],
+        "par_segtext": [
+            "aom ba su dha re bam /"
+        ],
+        "root_segtext": [
+            " oṃ pāṇḍare pāṃ /",
+            " oṃ vasudhāre vaṃ //",
+            " oṃ kurukulle hrīḥ /"
+        ],
+        "root_string": " oṃ vasudhāre vaṃ //",
+        "par_string": "aom ba su dha re bam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T02mpvv_u-skt-tib:49",
+        "par_pos_beg": 49,
+        "par_pos_end": 49,
+        "root_pos_beg": 49,
+        "root_pos_end": 49,
+        "par_offset_beg": 0,
+        "par_offset_end": 22,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:95",
+            "T02mpvv_u:96",
+            "T02mpvv_u:97",
+            "T02mpvv_u:98"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-15",
+            "T02D3125:225b-16"
+        ],
+        "par_segtext": [
+            "aom ku ru kulle hr'i:/",
+            "aom bhri ku ti bhrim /"
+        ],
+        "root_segtext": [
+            " oṃ vasudhāre vaṃ //",
+            " oṃ kurukulle hrīḥ /",
+            " oṃ bhṛkuṭi bhṛṃ /",
+            " oṃ bhrūṃ hūṃ bhrūṃ āḥ // //"
+        ],
+        "root_string": " oṃ kurukulle hrīḥ / oṃ bhṛkuṭi bhṛṃ /",
+        "par_string": "aom ku ru kulle hr'i:/ aom bhri ku ti bhrim /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 77,
+        "id": "T02mpvv_u-skt-tib:50",
+        "par_pos_beg": 50,
+        "par_pos_end": 50,
+        "root_pos_beg": 50,
+        "root_pos_end": 50,
+        "par_offset_beg": 0,
+        "par_offset_end": 48,
+        "root_offset_beg": 18,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:97",
+            "T02mpvv_u:98",
+            "T02mpvv_u:99",
+            "T02mpvv_u:100"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-17",
+            "T02D3125:225b-18"
+        ],
+        "par_segtext": [
+            "aom bhr'um h'um bhr'um aa:/",
+            "de'i phyi ru song gnyis kyi rim pa gcig bya'o //"
+        ],
+        "root_segtext": [
+            " oṃ bhṛkuṭi bhṛṃ /",
+            " oṃ bhrūṃ hūṃ bhrūṃ āḥ // //",
+            " tato bāhye dvyaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //",
+            " tatra ūrdhvaśiraskāny aṣṭacatvāriṃśad vajrāṇi paṅktyā saṃlikhet //"
+        ],
+        "root_string": " oṃ bhrūṃ hūṃ bhrūṃ āḥ // // tato bāhye dvyaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //",
+        "par_string": "aom bhr'um h'um bhr'um aa:/ de'i phyi ru song gnyis kyi rim pa gcig bya'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 75,
+        "id": "T02mpvv_u-skt-tib:51",
+        "par_pos_beg": 51,
+        "par_pos_end": 51,
+        "root_pos_beg": 51,
+        "root_pos_end": 51,
+        "par_offset_beg": 0,
+        "par_offset_end": 4,
+        "root_offset_beg": 50,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:99",
+            "T02mpvv_u:100",
+            "T02mpvv_u:101",
+            "T02mpvv_u:102",
+            "T02mpvv_u:103",
+            "T02mpvv_u:104"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-19",
+            "T02D3125:225b-20",
+            "T02D3125:225b-21",
+            "T02D3125:225b-22",
+            "T02D3125:225b-23",
+            "T02D3125:225b-24",
+            "T02D3125:225b-25",
+            "T02D3125:225b-26",
+            "T02D3125:225b-27",
+            "T02D3125:225b-28",
+            "T02D3125:225b-32",
+            "T02D3125:225b-33",
+            "T02D3125:225b-35",
+            "T02D3125:225b-36",
+            "T02D3125:225b-37",
+            "T02D3125:225b-38",
+            "T02D3125:225b-39",
+            "T02D3125:225b-40",
+            "T02D3125:225b-41",
+            "T02D3125:225b-42",
+            "T02D3125:225b-43",
+            "T02D3125:225b-44",
+            "T02D3125:225b-45",
+            "T02D3125:225b-46",
+            "T02D3125:225b-47",
+            "T02D3125:225b-48",
+            "T02D3125:225b-49",
+            "T02D3125:225b-50",
+            "T02D3125:225b-51",
+            "T02D3125:225b-52",
+            "T02D3125:225b-53",
+            "T02D3125:225b-54",
+            "T02D3125:225b-55",
+            "T02D3125:225b-56"
+        ],
+        "par_segtext": [
+            "der mgo gyen du bstan pa'i rdo rje bzhi bcu rtsa brgyad kyi phreng sku du bri'o //",
+            "rdo rje gnyis kyi mtshams nub la sogs pa'i phyogs kyi ri ma par /",
+            "lam /",
+            "ksh'um /",
+            "k'am bhram /",
+            "aim bhr'um /",
+            "ham ka:/",
+            "kham ha:/",
+            "p'am dz'a:/",
+            "a'am /",
+            "hr'i:/ l'i:/ hr'i:/ pum /",
+            "krum /",
+            "dza:/ dh'i /",
+            "ho bram /",
+            "h'um a'a:/",
+            "phat dzam /",
+            "smam mam /",
+            "kam / bam /",
+            "ram /",
+            "pum /",
+            "trem /",
+            "bhoom /",
+            "bham /",
+            "aom /",
+            "aa /",
+            "bham /",
+            "ksh'im /",
+            "dhi he:/",
+            "dzam /",
+            "r'um /",
+            "r'um /",
+            "aam /",
+            "sem /",
+            "ra /"
+        ],
+        "root_segtext": [
+            " tato bāhye dvyaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //",
+            " tatra ūrdhvaśiraskāny aṣṭacatvāriṃśad vajrāṇi paṅktyā saṃlikhet //",
+            " vajradvitayasaṃdhau paścimādidikkrameṇa laṃ kṣuṃ kīṃ klūṃ īṃ bhrūṃ phaṃ maḥ khaṃ",
+            " haḥ yāṃ jrīṃ āṃ hrīḥ rīṃ ḍrīṃ līṃ hīṃ suṃ kraṃ jaḥ dhāṃ proṃ hoḥ hūṃ āḥ phaṭ jaṃ",
+            " smaṃ laṃ kaṃ baṃ ṛṃ plūṃ treṃ bhoṃ bhraṃ oṃ aṃ bhrāṃ kṣīṃ vīṃ heḥ jīṃ ruṃ rūṃ aṃ saṃ / 48 //",
+            " tato bāhye tryaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //"
+        ],
+        "root_string": " tatra ūrdhvaśiraskāny aṣṭacatvāriṃśad vajrāṇi paṅktyā saṃlikhet // vajradvitayasaṃdhau paścimādidikkrameṇa laṃ kṣuṃ kīṃ klūṃ īṃ bhrūṃ phaṃ maḥ khaṃ haḥ yāṃ jrīṃ āṃ hrīḥ rīṃ ḍrīṃ līṃ hīṃ suṃ kraṃ jaḥ dhāṃ proṃ hoḥ hūṃ āḥ phaṭ jaṃ smaṃ laṃ kaṃ baṃ ṛṃ plūṃ treṃ bhoṃ bhraṃ oṃ aṃ bhrāṃ kṣīṃ vīṃ heḥ jīṃ ruṃ rūṃ aṃ saṃ / 48 //",
+        "par_string": "der mgo gyen du bstan pa'i rdo rje bzhi bcu rtsa brgyad kyi phreng sku du bri'o // rdo rje gnyis kyi mtshams nub la sogs pa'i phyogs kyi ri ma par / lam / ksh'um / k'am bhram / aim bhr'um / ham ka:/ kham ha:/ p'am dz'a:/ a'am / hr'i:/ l'i:/ hr'i:/ pum / krum / dza:/ dh'i / ho bram / h'um a'a:/ phat dzam / smam mam / kam / bam / ram / pum / trem / bhoom / bham / aom / aa / bham / ksh'im / dhi he:/ dzam / r'um / r'um / aam / sem / ra /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 70,
+        "id": "T02mpvv_u-skt-tib:52",
+        "par_pos_beg": 52,
+        "par_pos_end": 52,
+        "root_pos_beg": 52,
+        "root_pos_end": 52,
+        "par_offset_beg": 0,
+        "par_offset_end": 61,
+        "root_offset_beg": 93,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:103",
+            "T02mpvv_u:104",
+            "T02mpvv_u:105"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-57"
+        ],
+        "par_segtext": [
+            "de'i phyi ru sor gnyis kyi rim pa gcig gi tshad gcig bya'o //"
+        ],
+        "root_segtext": [
+            " smaṃ laṃ kaṃ baṃ ṛṃ plūṃ treṃ bhoṃ bhraṃ oṃ aṃ bhrāṃ kṣīṃ vīṃ heḥ jīṃ ruṃ rūṃ aṃ saṃ / 48 //",
+            " tato bāhye tryaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //",
+            " tatra vikasitāṣṭadalasakesarapaṭṭabaddhadaṇḍapadmāni likhed aṣṭacatvāriṃśat //"
+        ],
+        "root_string": " tato bāhye tryaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //",
+        "par_string": "de'i phyi ru sor gnyis kyi rim pa gcig gi tshad gcig bya'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T02mpvv_u-skt-tib:53",
+        "par_pos_beg": 53,
+        "par_pos_end": 53,
+        "root_pos_beg": 53,
+        "root_pos_end": 53,
+        "par_offset_beg": 0,
+        "par_offset_end": 17,
+        "root_offset_beg": 50,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:104",
+            "T02mpvv_u:105",
+            "T02mpvv_u:106"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-58",
+            "T02D3125:225b-59",
+            "T02D3125:225b-60"
+        ],
+        "par_segtext": [
+            "der padma bzhi bcu rtsa bzhi 'dab ma dang ge",
+            "sar rgyas pa dbyug pa la dar dpyangs bcings pa",
+            "bri bar bya'o // de'i steng du mtshan ma bzhi bcu rtsa brgyad bri bar bya'o //"
+        ],
+        "root_segtext": [
+            " tato bāhye tryaṅgulapramāṇaṃ puṭam ekaṃ kuryāt //",
+            " tatra vikasitāṣṭadalasakesarapaṭṭabaddhadaṇḍapadmāni likhed aṣṭacatvāriṃśat //",
+            " tadupari aṣṭacatvāriṃśac cihnāni likhet //"
+        ],
+        "root_string": " tatra vikasitāṣṭadalasakesarapaṭṭabaddhadaṇḍapadmāni likhed aṣṭacatvāriṃśat //",
+        "par_string": "der padma bzhi bcu rtsa bzhi 'dab ma dang ge sar rgyas pa dbyug pa la dar dpyangs bcings pa bri bar bya'o // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T02mpvv_u-skt-tib:54",
+        "par_pos_beg": 54,
+        "par_pos_end": 54,
+        "root_pos_beg": 54,
+        "root_pos_end": 54,
+        "par_offset_beg": 16,
+        "par_offset_end": 47,
+        "root_offset_beg": 79,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T02mpvv_u:105",
+            "T02mpvv_u:106",
+            "T02mpvv_u:107",
+            "T02mpvv_u:108",
+            "T02mpvv_u:109",
+            "T02mpvv_u:110",
+            "T02mpvv_u:111",
+            "T02mpvv_u:112",
+            "T02mpvv_u:113",
+            "T02mpvv_u:114",
+            "T02mpvv_u:115",
+            "T02mpvv_u:116",
+            "T02mpvv_u:117",
+            "T02mpvv_u:118",
+            "T02mpvv_u:119",
+            "T02mpvv_u:120",
+            "T02mpvv_u:121",
+            "T02mpvv_u:122",
+            "T02mpvv_u:123",
+            "T02mpvv_u:124",
+            "T02mpvv_u:125"
+        ],
+        "par_segnr": [
+            "T02D3125:225b-60",
+            "T02D3125:225b-61",
+            "T02D3125:225b-62",
+            "T02D3125:225b-63",
+            "T02D3125:225b-64",
+            "T02D3125:225b-65",
+            "T02D3125:225b-66",
+            "T02D3125:225b-67",
+            "T02D3125:225b-68",
+            "T02D3125:225b-69",
+            "T02D3125:225b-70",
+            "T02D3125:225b-71",
+            "T02D3125:225b-72",
+            "T02D3125:225b-73",
+            "T02D3125:225b-74",
+            "T02D3125:225b-75",
+            "T02D3125:225b-76",
+            "T02D3125:225b-77",
+            "T02D3125:225b-78",
+            "T02D3125:225b-79"
+        ],
+        "par_segtext": [
+            "bri bar bya'o // de'i steng du mtshan ma bzhi bcu rtsa brgyad bri bar bya'o //",
+            "'khor lo dang /",
+            "ral gri dang /",
+            "gzhu dang /",
+            "mda' dang /",
+            "rdo rje dang /",
+            "tho ba dang /",
+            "g-yas skor du dung dang /",
+            "rdo rje dang /",
+            "rgyal mtshan dang /",
+            "yid bzhin nor bu dang /",
+            "zhags pa dang /",
+            "dgra sta dang /",
+            "rte gsum dang /",
+            "lcags kyu dang /",
+            "gdugs dang /",
+            "padma dang /",
+            "mdung thung ngo //",
+            "de rnams sor gsum gyi sa la bri'o //",
+            "yi ge thams cad kyi mgo phyir bstan par bri'o//"
+        ],
+        "root_segtext": [
+            " tatra vikasitāṣṭadalasakesarapaṭṭabaddhadaṇḍapadmāni likhed aṣṭacatvāriṃśat //",
+            " tadupari aṣṭacatvāriṃśac cihnāni likhet //",
+            " cakram /",
+            " khaḍgam /",
+            " dhanum /",
+            " śaram /",
+            " vajram /",
+            " mudgaram /",
+            " dakṣiṇāvartaśaṅkham /",
+            " vajradhvajam /",
+            " cintāmaṇiratnam /",
+            " pāśam /",
+            " paraśum /",
+            " triśūlam /",
+            " aṅkuśam /",
+            " chatram //",
+            " padmam /",
+            " śaktim // 16 //",
+            " iti triguṇīkṛtya likhet //",
+            " sarvāṇy akṣarāṇi bāhyaśiraskāni likhanīyānīti //",
+            " āryamahāpratisarāyā vidyāvidhiḥ samāptaḥ // //"
+        ],
+        "root_string": " tadupari aṣṭacatvāriṃśac cihnāni likhet // cakram / khaḍgam / dhanum / śaram / vajram / mudgaram / dakṣiṇāvartaśaṅkham / vajradhvajam / cintāmaṇiratnam / pāśam / paraśum / triśūlam / aṅkuśam / chatram // padmam / śaktim // 16 // iti triguṇīkṛtya likhet // sarvāṇy akṣarāṇi bāhyaśiraskāni likhanīyānīti //",
+        "par_string": " de'i steng du mtshan ma bzhi bcu rtsa brgyad bri bar bya'o // 'khor lo dang / ral gri dang / gzhu dang / mda' dang / rdo rje dang / tho ba dang / g-yas skor du dung dang / rdo rje dang / rgyal mtshan dang / yid bzhin nor bu dang / zhags pa dang / dgra sta dang / rte gsum dang / lcags kyu dang / gdugs dang / padma dang / mdung thung ngo // de rnams sor gsum gyi sa la bri'o // yi ge thams cad kyi mgo phyir bstan par bri'o//",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    }
+]

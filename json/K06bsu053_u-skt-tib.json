@@ -1,0 +1,1311 @@
+[
+    {
+        "score": 67,
+        "id": "K06bsu053_u-skt-tib:0",
+        "par_pos_beg": 0,
+        "par_pos_end": 0,
+        "root_pos_beg": 0,
+        "root_pos_end": 0,
+        "par_offset_beg": 0,
+        "par_offset_end": 72,
+        "root_offset_beg": 12,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:0",
+            "K06bsu053_u:1",
+            "K06bsu053_u:2",
+            "K06bsu053_u:3",
+            "K06bsu053_u:4"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-0",
+            "K12D0531=D0021_H0499=H0026:45a-1",
+            "K12D0531=D0021_H0499=H0026:45a-2",
+            "K12D0531=D0021_H0499=H0026:45a-3",
+            "K12D0531=D0021_H0499=H0026:45a-4",
+            "K12D0531=D0021_H0499=H0026:45a-5"
+        ],
+        "par_segtext": [
+            "@45a / /rgya gar skad du /",
+            "bha ga wa ti pradzny'a p'a ra mi ta hri da ya /",
+            "bod skad du /",
+            "bcom ldan 'das ma shes rab kyi pha rol tu phyin pa'i snying po /",
+            "bam po gcig go /",
+            "bcom ldan 'das ma shes rab kyi pha rol tu phyin pa la phyag 'tshal lo //"
+        ],
+        "root_segtext": [
+            " (Vaidya 98)",
+            " Prajñāpāramitāhṛdayasutram /",
+            " [vistaramātṛkā]",
+            " / namaḥ sarvajñāya //",
+            " evaṃ mayā śrutam /"
+        ],
+        "root_string": " Prajñāpāramitāhṛdayasutram / [vistaramātṛkā] / namaḥ sarvajñāya //",
+        "par_string": "@45a / /rgya gar skad du / bha ga wa ti pradzny'a p'a ra mi ta hri da ya / bod skad du / bcom ldan 'das ma shes rab kyi pha rol tu phyin pa'i snying po / bam po gcig go / bcom ldan 'das ma shes rab kyi pha rol tu phyin pa la phyag 'tshal lo //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "K06bsu053_u-skt-tib:1",
+        "par_pos_beg": 1,
+        "par_pos_end": 1,
+        "root_pos_beg": 1,
+        "root_pos_end": 1,
+        "par_offset_beg": 0,
+        "par_offset_end": 71,
+        "root_offset_beg": 22,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:3",
+            "K06bsu053_u:4",
+            "K06bsu053_u:5",
+            "K06bsu053_u:6"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-6",
+            "K12D0531=D0021_H0499=H0026:45a-7",
+            "K12D0531=D0021_H0499=H0026:45a-8",
+            "K12D0531=D0021_H0499=H0026:45a-9"
+        ],
+        "par_segtext": [
+            "'di skad bdag gis thos pa dus gcig na /",
+            "bcom ldan 'das rgyal po'i khab bya rgod phung po'i",
+            "ri la dge slong gi dge 'dun chen po dang",
+            "/ byang chub sems dpa'i dge 'dun chen po dang thabs gcig tu bzhugs te /"
+        ],
+        "root_segtext": [
+            " / namaḥ sarvajñāya //",
+            " evaṃ mayā śrutam /",
+            " ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhaṃ mahatā ca bodhisattvasaṃghena /",
+            " tena khalu samayena bhagavān gambhīrāvasaṃbodhaṃ nāma samādhiṃ samāpannaḥ /"
+        ],
+        "root_string": " evaṃ mayā śrutam / ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhaṃ mahatā ca bodhisattvasaṃghena /",
+        "par_string": "'di skad bdag gis thos pa dus gcig na / bcom ldan 'das rgyal po'i khab bya rgod phung po'i ri la dge slong gi dge 'dun chen po dang / byang chub sems dpa'i dge 'dun chen po dang thabs gcig tu bzhugs te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "K06bsu053_u-skt-tib:2",
+        "par_pos_beg": 2,
+        "par_pos_end": 2,
+        "root_pos_beg": 2,
+        "root_pos_end": 2,
+        "par_offset_beg": 0,
+        "par_offset_end": 25,
+        "root_offset_beg": 127,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:5",
+            "K06bsu053_u:6",
+            "K06bsu053_u:7"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-10",
+            "K12D0531=D0021_H0499=H0026:45a-11",
+            "K12D0531=D0021_H0499=H0026:45a-12"
+        ],
+        "par_segtext": [
+            "de'i tshe bcom ldan 'das zab mo snang ba zhes",
+            "bya ba'i chos kyi rnam grangs kyi ting nge 'dzin",
+            "la snyoms par zhugs so //"
+        ],
+        "root_segtext": [
+            " ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhaṃ mahatā ca bodhisattvasaṃghena /",
+            " tena khalu samayena bhagavān gambhīrāvasaṃbodhaṃ nāma samādhiṃ samāpannaḥ /",
+            " tena ca samayena āryāvalokiteśvaro bodhisattvo mahāsattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇaḥ evaṃ vyavalokayati sma /"
+        ],
+        "root_string": " tena khalu samayena bhagavān gambhīrāvasaṃbodhaṃ nāma samādhiṃ samāpannaḥ /",
+        "par_string": "de'i tshe bcom ldan 'das zab mo snang ba zhes bya ba'i chos kyi rnam grangs kyi ting nge 'dzin la snyoms par zhugs so //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "K06bsu053_u-skt-tib:3",
+        "par_pos_beg": 3,
+        "par_pos_end": 3,
+        "root_pos_beg": 3,
+        "root_pos_end": 3,
+        "par_offset_beg": 0,
+        "par_offset_end": 28,
+        "root_offset_beg": 76,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:6",
+            "K06bsu053_u:7",
+            "K06bsu053_u:8"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-13",
+            "K12D0531=D0021_H0499=H0026:45a-14",
+            "K12D0531=D0021_H0499=H0026:45a-15",
+            "K12D0531=D0021_H0499=H0026:45a-16"
+        ],
+        "par_segtext": [
+            "yang de'i tshe byang chub sems dpa' sems dpa' chen",
+            "po 'phags pa spyan ras gzigs dbang phyug shes rab",
+            "kyi pha rol tu phyin pa zab mo spyod pa",
+            "nyid la rnam par lta zhing /"
+        ],
+        "root_segtext": [
+            " tena khalu samayena bhagavān gambhīrāvasaṃbodhaṃ nāma samādhiṃ samāpannaḥ /",
+            " tena ca samayena āryāvalokiteśvaro bodhisattvo mahāsattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇaḥ evaṃ vyavalokayati sma /",
+            " pañca skandhāṃstāṃśca svabhāvaśūnyaṃ vyavalokayati //"
+        ],
+        "root_string": " tena ca samayena āryāvalokiteśvaro bodhisattvo mahāsattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇaḥ evaṃ vyavalokayati sma /",
+        "par_string": "yang de'i tshe byang chub sems dpa' sems dpa' chen po 'phags pa spyan ras gzigs dbang phyug shes rab kyi pha rol tu phyin pa zab mo spyod pa nyid la rnam par lta zhing /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 10,
+        "id": "K06bsu053_u-skt-tib:4",
+        "par_pos_beg": 4,
+        "par_pos_end": 4,
+        "root_pos_beg": 4,
+        "root_pos_end": 4,
+        "par_offset_beg": 0,
+        "par_offset_end": 75,
+        "root_offset_beg": 130,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:7",
+            "K06bsu053_u:8",
+            "K06bsu053_u:9",
+            "K06bsu053_u:10",
+            "K06bsu053_u:11"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-17"
+        ],
+        "par_segtext": [
+            "phung po lnga po de dag la yang rang bzhin gyis stong par rnam par lta'o //"
+        ],
+        "root_segtext": [
+            " tena ca samayena āryāvalokiteśvaro bodhisattvo mahāsattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇaḥ evaṃ vyavalokayati sma /",
+            " pañca skandhāṃstāṃśca svabhāvaśūnyaṃ vyavalokayati //",
+            " athāyuṣmān śāriputro buddhānubhāvena āryāvalokiteśvaraṃ bodhisattvametadavocat - yaḥ kaścit kulaputro [vā kuladuhitā vā asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ,",
+            " kathaṃ śikṣitavyaḥ?",
+            " evamukte āryāvalokiteśvaro bodhisattvo mahāsattvaḥ āyuṣmantaṃ śāriputrametadavocat"
+        ],
+        "root_string": " pañca skandhāṃstāṃśca svabhāvaśūnyaṃ vyavalokayati // athāyuṣmān śāriputro buddhānubhāvena āryāvalokiteśvaraṃ bodhisattvametadavocat - yaḥ kaścit kulaputro [vā kuladuhitā vā asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ, kathaṃ śikṣitavyaḥ?",
+        "par_string": "phung po lnga po de dag la yang rang bzhin gyis stong par rnam par lta'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "K06bsu053_u-skt-tib:5",
+        "par_pos_beg": 5,
+        "par_pos_end": 5,
+        "root_pos_beg": 5,
+        "root_pos_end": 5,
+        "par_offset_beg": 0,
+        "par_offset_end": 6,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:10",
+            "K06bsu053_u:11",
+            "K06bsu053_u:12"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-18",
+            "K12D0531=D0021_H0499=H0026:45a-19",
+            "K12D0531=D0021_H0499=H0026:45a-20",
+            "K12D0531=D0021_H0499=H0026:45a-21",
+            "K12D0531=D0021_H0499=H0026:45a-22"
+        ],
+        "par_segtext": [
+            "de nas sangs rgyas kyi mthus /",
+            "tshe dang ldan pa sh'a ri'i bus /",
+            "byang chub sems dpa' sems dpa' chen po 'phags pa",
+            "spyan ras gzigs dbang phyug la 'di skad ces smras",
+            "so // rigs kyi bu 'am /"
+        ],
+        "root_segtext": [
+            " kathaṃ śikṣitavyaḥ?",
+            " evamukte āryāvalokiteśvaro bodhisattvo mahāsattvaḥ āyuṣmantaṃ śāriputrametadavocat",
+            " - yaḥ kaścicchāriputra kulaputro va kuladuhitā vā [asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ,"
+        ],
+        "root_string": " evamukte āryāvalokiteśvaro bodhisattvo mahāsattvaḥ āyuṣmantaṃ śāriputrametadavocat",
+        "par_string": "de nas sangs rgyas kyi mthus / tshe dang ldan pa sh'a ri'i bus / byang chub sems dpa' sems dpa' chen po 'phags pa spyan ras gzigs dbang phyug la 'di skad ces smras so // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 66,
+        "id": "K06bsu053_u-skt-tib:6",
+        "par_pos_beg": 6,
+        "par_pos_end": 6,
+        "root_pos_beg": 6,
+        "root_pos_end": 6,
+        "par_offset_beg": 5,
+        "par_offset_end": 16,
+        "root_offset_beg": 83,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:11",
+            "K06bsu053_u:12",
+            "K06bsu053_u:13"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45a-22",
+            "K12D0531=D0021_H0499=H0026:45a-23",
+            "K12D0531=D0021_H0499=H0026:45a-24",
+            "K12D0531=D0021_H0499=H0026:45b-0",
+            "K12D0531=D0021_H0499=H0026:45b-1",
+            "K12D0531=D0021_H0499=H0026:45b-2",
+            "K12D0531=D0021_H0499=H0026:45b-3",
+            "K12D0531=D0021_H0499=H0026:45b-4",
+            "K12D0531=D0021_H0499=H0026:45b-5",
+            "K12D0531=D0021_H0499=H0026:45b-6"
+        ],
+        "par_segtext": [
+            "so // rigs kyi bu 'am /",
+            "rigs kyi bu mo gang la la shes rab kyi",
+            "pha rol tu phyin pa zab mo spyod pa spyad",
+            "par 'dod pa des @45b ji ltar bslab par bya",
+            "/ de skad ces smras pa dang /",
+            "byang chub sems dpa' sems dpa' chen po 'phags pa",
+            "spyan ras gzigs dbang phyug gis che dang ldan ba",
+            "sha radva ti'i bu la 'di skad ces smras so",
+            "/ sh'a ri'i bu /",
+            "rigs kyi bu'am /"
+        ],
+        "root_segtext": [
+            " evamukte āryāvalokiteśvaro bodhisattvo mahāsattvaḥ āyuṣmantaṃ śāriputrametadavocat",
+            " - yaḥ kaścicchāriputra kulaputro va kuladuhitā vā [asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ,",
+            " tenaivaṃ vyavalokitavyam - pañca skandhāṃstāṃśca svabhāvaśūnyān samanupaśyati sma /"
+        ],
+        "root_string": " - yaḥ kaścicchāriputra kulaputro va kuladuhitā vā [asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ,",
+        "par_string": " rigs kyi bu 'am / rigs kyi bu mo gang la la shes rab kyi pha rol tu phyin pa zab mo spyod pa spyad par 'dod pa des @45b ji ltar bslab par bya / de skad ces smras pa dang / byang chub sems dpa' sems dpa' chen po 'phags pa spyan ras gzigs dbang phyug gis che dang ldan ba sha radva ti'i bu la 'di skad ces smras so / sh'a ri'i bu / rigs kyi bu'am /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 72,
+        "id": "K06bsu053_u-skt-tib:7",
+        "par_pos_beg": 7,
+        "par_pos_end": 7,
+        "root_pos_beg": 7,
+        "root_pos_end": 7,
+        "par_offset_beg": 0,
+        "par_offset_end": 13,
+        "root_offset_beg": 107,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:12",
+            "K06bsu053_u:13",
+            "K06bsu053_u:14"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-7",
+            "K12D0531=D0021_H0499=H0026:45b-8",
+            "K12D0531=D0021_H0499=H0026:45b-9",
+            "K12D0531=D0021_H0499=H0026:45b-10",
+            "K12D0531=D0021_H0499=H0026:45b-11",
+            "K12D0531=D0021_H0499=H0026:45b-12"
+        ],
+        "par_segtext": [
+            "rigs kyi bu mo gang la la shes rab kyi",
+            "pha rol tu phyin pa zab mo spyod pa spyad",
+            "par 'dod pa des 'di ltar rnam par blta bar",
+            "bya ste; phung po lnga po de dag kyang rang",
+            "bzhin gyis stong par rnam par yang dag par rjes",
+            "su blta'o // gzugs stong pa'o //"
+        ],
+        "root_segtext": [
+            " - yaḥ kaścicchāriputra kulaputro va kuladuhitā vā [asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ,",
+            " tenaivaṃ vyavalokitavyam - pañca skandhāṃstāṃśca svabhāvaśūnyān samanupaśyati sma /",
+            " rūpaṃ śūnyatā,"
+        ],
+        "root_string": " tenaivaṃ vyavalokitavyam - pañca skandhāṃstāṃśca svabhāvaśūnyān samanupaśyati sma /",
+        "par_string": "rigs kyi bu mo gang la la shes rab kyi pha rol tu phyin pa zab mo spyod pa spyad par 'dod pa des 'di ltar rnam par blta bar bya ste; phung po lnga po de dag kyang rang bzhin gyis stong par rnam par yang dag par rjes su blta'o // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 79,
+        "id": "K06bsu053_u-skt-tib:8",
+        "par_pos_beg": 8,
+        "par_pos_end": 8,
+        "root_pos_beg": 8,
+        "root_pos_end": 8,
+        "par_offset_beg": 12,
+        "par_offset_end": 32,
+        "root_offset_beg": 84,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:13",
+            "K06bsu053_u:14",
+            "K06bsu053_u:15"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-12"
+        ],
+        "par_segtext": [
+            "su blta'o // gzugs stong pa'o //"
+        ],
+        "root_segtext": [
+            " tenaivaṃ vyavalokitavyam - pañca skandhāṃstāṃśca svabhāvaśūnyān samanupaśyati sma /",
+            " rūpaṃ śūnyatā,",
+            " śūnyataiva rūpam /"
+        ],
+        "root_string": " rūpaṃ śūnyatā,",
+        "par_string": " gzugs stong pa'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "K06bsu053_u-skt-tib:9",
+        "par_pos_beg": 9,
+        "par_pos_end": 9,
+        "root_pos_beg": 9,
+        "root_pos_end": 9,
+        "par_offset_beg": 0,
+        "par_offset_end": 25,
+        "root_offset_beg": 15,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:14",
+            "K06bsu053_u:15",
+            "K06bsu053_u:16"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-13"
+        ],
+        "par_segtext": [
+            "stong pa nyid gzugs so //"
+        ],
+        "root_segtext": [
+            " rūpaṃ śūnyatā,",
+            " śūnyataiva rūpam /",
+            " rūpānna pṛthak śūnyatā,"
+        ],
+        "root_string": " śūnyataiva rūpam /",
+        "par_string": "stong pa nyid gzugs so //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 63,
+        "id": "K06bsu053_u-skt-tib:10",
+        "par_pos_beg": 10,
+        "par_pos_end": 10,
+        "root_pos_beg": 10,
+        "root_pos_end": 10,
+        "par_offset_beg": 0,
+        "par_offset_end": 86,
+        "root_offset_beg": 19,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:15",
+            "K06bsu053_u:16",
+            "K06bsu053_u:17",
+            "K06bsu053_u:18",
+            "K06bsu053_u:19",
+            "K06bsu053_u:20"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-14"
+        ],
+        "par_segtext": [
+            "gzugs las stong pa nyid gzhan ma yin; stong pa nyid las kyang gzugs gzhan ma yin no //"
+        ],
+        "root_segtext": [
+            " śūnyataiva rūpam /",
+            " rūpānna pṛthak śūnyatā,",
+            " śūnyatāyā na pṛthag rūpam /",
+            " yadrūpaṃ sā śūnyatā,",
+            " yā śūnyatā tadrūpam /",
+            " evaṃ vedanāsaṃjñāsaṃskāravijñānāni ca śūnyatā /"
+        ],
+        "root_string": " rūpānna pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam / yadrūpaṃ sā śūnyatā, yā śūnyatā tadrūpam /",
+        "par_string": "gzugs las stong pa nyid gzhan ma yin; stong pa nyid las kyang gzugs gzhan ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "K06bsu053_u-skt-tib:11",
+        "par_pos_beg": 11,
+        "par_pos_end": 11,
+        "root_pos_beg": 11,
+        "root_pos_end": 11,
+        "par_offset_beg": 0,
+        "par_offset_end": 29,
+        "root_offset_beg": 22,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:19",
+            "K06bsu053_u:20",
+            "K06bsu053_u:21"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-15",
+            "K12D0531=D0021_H0499=H0026:45b-16",
+            "K12D0531=D0021_H0499=H0026:45b-17",
+            "K12D0531=D0021_H0499=H0026:45b-18",
+            "K12D0531=D0021_H0499=H0026:45b-19"
+        ],
+        "par_segtext": [
+            "de bzhin du tshor ba dang /",
+            "'du shes dang /",
+            "'du byed rnams dang /",
+            "rnam par shes pa rnams stong pa'o //",
+            "sh'a ri'i bu; de lta bas na /"
+        ],
+        "root_segtext": [
+            " yā śūnyatā tadrūpam /",
+            " evaṃ vedanāsaṃjñāsaṃskāravijñānāni ca śūnyatā /",
+            " evaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā vimalā anūnā asaṃpūrṇāḥ /"
+        ],
+        "root_string": " evaṃ vedanāsaṃjñāsaṃskāravijñānāni ca śūnyatā /",
+        "par_string": "de bzhin du tshor ba dang / 'du shes dang / 'du byed rnams dang / rnam par shes pa rnams stong pa'o // sh'a ri'i bu; de lta bas na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "K06bsu053_u-skt-tib:12",
+        "par_pos_beg": 12,
+        "par_pos_end": 12,
+        "root_pos_beg": 12,
+        "root_pos_end": 12,
+        "par_offset_beg": 0,
+        "par_offset_end": 33,
+        "root_offset_beg": 48,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:20",
+            "K06bsu053_u:21",
+            "K06bsu053_u:22"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-20",
+            "K12D0531=D0021_H0499=H0026:45b-21",
+            "K12D0531=D0021_H0499=H0026:45b-22",
+            "K12D0531=D0021_H0499=H0026:45b-23",
+            "K12D0531=D0021_H0499=H0026:45b-24",
+            "K12D0531=D0021_H0499=H0026:45b-25",
+            "K12D0531=D0021_H0499=H0026:45b-26",
+            "K12D0531=D0021_H0499=H0026:45b-27"
+        ],
+        "par_segtext": [
+            "chos thams cad stong pa nyid de /",
+            "mtshan nyid med pa /",
+            "ma skyes pa /",
+            "ma 'gags pa /",
+            "dri ma med pa /",
+            "dri ma dang bral ba med pa /",
+            "bri ba med pa /",
+            "gang ba med pa'o; ;sh'a ri'i bu /"
+        ],
+        "root_segtext": [
+            " evaṃ vedanāsaṃjñāsaṃskāravijñānāni ca śūnyatā /",
+            " evaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā vimalā anūnā asaṃpūrṇāḥ /",
+            " tasmāttarhi śāriputra śūnyatāyāṃ na rūpam,"
+        ],
+        "root_string": " evaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā vimalā anūnā asaṃpūrṇāḥ /",
+        "par_string": "chos thams cad stong pa nyid de / mtshan nyid med pa / ma skyes pa / ma 'gags pa / dri ma med pa / dri ma dang bral ba med pa / bri ba med pa / gang ba med pa'o; ;sh'a ri'i bu /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 68,
+        "id": "K06bsu053_u-skt-tib:13",
+        "par_pos_beg": 13,
+        "par_pos_end": 13,
+        "root_pos_beg": 13,
+        "root_pos_end": 13,
+        "par_offset_beg": 0,
+        "par_offset_end": 28,
+        "root_offset_beg": 95,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:21",
+            "K06bsu053_u:22",
+            "K06bsu053_u:23"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-28",
+            "K12D0531=D0021_H0499=H0026:45b-29"
+        ],
+        "par_segtext": [
+            "de lta bas na /",
+            "stong pa nyid la gzugs med /"
+        ],
+        "root_segtext": [
+            " evaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā vimalā anūnā asaṃpūrṇāḥ /",
+            " tasmāttarhi śāriputra śūnyatāyāṃ na rūpam,",
+            " na vedanā,"
+        ],
+        "root_string": " tasmāttarhi śāriputra śūnyatāyāṃ na rūpam,",
+        "par_string": "de lta bas na / stong pa nyid la gzugs med /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "K06bsu053_u-skt-tib:14",
+        "par_pos_beg": 14,
+        "par_pos_end": 14,
+        "root_pos_beg": 14,
+        "root_pos_end": 14,
+        "par_offset_beg": 0,
+        "par_offset_end": 14,
+        "root_offset_beg": 43,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:22",
+            "K06bsu053_u:23",
+            "K06bsu053_u:24"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-30"
+        ],
+        "par_segtext": [
+            "tshor ba med /"
+        ],
+        "root_segtext": [
+            " tasmāttarhi śāriputra śūnyatāyāṃ na rūpam,",
+            " na vedanā,",
+            " sa saṃjñā,"
+        ],
+        "root_string": " na vedanā,",
+        "par_string": "tshor ba med /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 74,
+        "id": "K06bsu053_u-skt-tib:15",
+        "par_pos_beg": 15,
+        "par_pos_end": 15,
+        "root_pos_beg": 15,
+        "root_pos_end": 15,
+        "par_offset_beg": 0,
+        "par_offset_end": 14,
+        "root_offset_beg": 11,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:23",
+            "K06bsu053_u:24",
+            "K06bsu053_u:25"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-31"
+        ],
+        "par_segtext": [
+            "'du shes med /"
+        ],
+        "root_segtext": [
+            " na vedanā,",
+            " sa saṃjñā,",
+            " na saṃskārāḥ,"
+        ],
+        "root_string": " sa saṃjñā,",
+        "par_string": "'du shes med /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 80,
+        "id": "K06bsu053_u-skt-tib:16",
+        "par_pos_beg": 16,
+        "par_pos_end": 16,
+        "root_pos_beg": 16,
+        "root_pos_end": 16,
+        "par_offset_beg": 0,
+        "par_offset_end": 20,
+        "root_offset_beg": 11,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:24",
+            "K06bsu053_u:25",
+            "K06bsu053_u:26"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-32"
+        ],
+        "par_segtext": [
+            "'du byed rnams med /"
+        ],
+        "root_segtext": [
+            " sa saṃjñā,",
+            " na saṃskārāḥ,",
+            " na vijñānam,"
+        ],
+        "root_string": " na saṃskārāḥ,",
+        "par_string": "'du byed rnams med /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 80,
+        "id": "K06bsu053_u-skt-tib:17",
+        "par_pos_beg": 17,
+        "par_pos_end": 17,
+        "root_pos_beg": 17,
+        "root_pos_end": 17,
+        "par_offset_beg": 0,
+        "par_offset_end": 9,
+        "root_offset_beg": 14,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:25",
+            "K06bsu053_u:26",
+            "K06bsu053_u:27"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-33",
+            "K12D0531=D0021_H0499=H0026:45b-34"
+        ],
+        "par_segtext": [
+            "rnam par shes pa med /",
+            "mig med /"
+        ],
+        "root_segtext": [
+            " na saṃskārāḥ,",
+            " na vijñānam,",
+            " na cakṣurna śrotraṃ na ghrāṇaṃ na jihvā na kāyo na mano na rūpaṃ na śabdo na gandho na raso na spraṣṭavyaṃ na dharmaḥ /"
+        ],
+        "root_string": " na vijñānam,",
+        "par_string": "rnam par shes pa med / mig med /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 79,
+        "id": "K06bsu053_u-skt-tib:18",
+        "par_pos_beg": 18,
+        "par_pos_end": 18,
+        "root_pos_beg": 18,
+        "root_pos_end": 18,
+        "par_offset_beg": 0,
+        "par_offset_end": 14,
+        "root_offset_beg": 13,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:26",
+            "K06bsu053_u:27",
+            "K06bsu053_u:28"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-35",
+            "K12D0531=D0021_H0499=H0026:45b-36",
+            "K12D0531=D0021_H0499=H0026:45b-37",
+            "K12D0531=D0021_H0499=H0026:45b-38",
+            "K12D0531=D0021_H0499=H0026:45b-39",
+            "K12D0531=D0021_H0499=H0026:45b-40",
+            "K12D0531=D0021_H0499=H0026:45b-41",
+            "K12D0531=D0021_H0499=H0026:45b-42",
+            "K12D0531=D0021_H0499=H0026:45b-43",
+            "K12D0531=D0021_H0499=H0026:45b-44"
+        ],
+        "par_segtext": [
+            "rna ba med; sna med /",
+            "lce med /",
+            "lus med /",
+            "yid med /",
+            "gzugs med /",
+            "sgra med /",
+            "dri med /",
+            "ro med /",
+            "reg bya med /",
+            "chos med do //"
+        ],
+        "root_segtext": [
+            " na vijñānam,",
+            " na cakṣurna śrotraṃ na ghrāṇaṃ na jihvā na kāyo na mano na rūpaṃ na śabdo na gandho na raso na spraṣṭavyaṃ na dharmaḥ /",
+            " na cakṣurdhāturyāvanna manodhāturna dharmadhāturna manovijñānadhātuḥ /"
+        ],
+        "root_string": " na cakṣurna śrotraṃ na ghrāṇaṃ na jihvā na kāyo na mano na rūpaṃ na śabdo na gandho na raso na spraṣṭavyaṃ na dharmaḥ /",
+        "par_string": "rna ba med; sna med / lce med / lus med / yid med / gzugs med / sgra med / dri med / ro med / reg bya med / chos med do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "K06bsu053_u-skt-tib:19",
+        "par_pos_beg": 19,
+        "par_pos_end": 19,
+        "root_pos_beg": 19,
+        "root_pos_end": 19,
+        "par_offset_beg": 0,
+        "par_offset_end": 16,
+        "root_offset_beg": 120,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:27",
+            "K06bsu053_u:28",
+            "K06bsu053_u:29"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:45b-45",
+            "K12D0531=D0021_H0499=H0026:46a-0",
+            "K12D0531=D0021_H0499=H0026:46a-1",
+            "K12D0531=D0021_H0499=H0026:46a-2"
+        ],
+        "par_segtext": [
+            "mig gi khams med pa nas /",
+            "yid kyi khams @46a *//",
+            "med; yid kyi rnam par shes pa'i khams kyi bar du yang med do //",
+            "ma rig pa med //"
+        ],
+        "root_segtext": [
+            " na cakṣurna śrotraṃ na ghrāṇaṃ na jihvā na kāyo na mano na rūpaṃ na śabdo na gandho na raso na spraṣṭavyaṃ na dharmaḥ /",
+            " na cakṣurdhāturyāvanna manodhāturna dharmadhāturna manovijñānadhātuḥ /",
+            " na vidyā nāvidyā na kṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayaḥ,"
+        ],
+        "root_string": " na cakṣurdhāturyāvanna manodhāturna dharmadhāturna manovijñānadhātuḥ /",
+        "par_string": "mig gi khams med pa nas / yid kyi khams @46a *// med; yid kyi rnam par shes pa'i khams kyi bar du yang med do // ma rig pa med //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "K06bsu053_u-skt-tib:20",
+        "par_pos_beg": 20,
+        "par_pos_end": 20,
+        "root_pos_beg": 20,
+        "root_pos_end": 20,
+        "par_offset_beg": 0,
+        "par_offset_end": 38,
+        "root_offset_beg": 71,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:28",
+            "K06bsu053_u:29",
+            "K06bsu053_u:30"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46a-3",
+            "K12D0531=D0021_H0499=H0026:46a-4",
+            "K12D0531=D0021_H0499=H0026:46a-5"
+        ],
+        "par_segtext": [
+            "ma rig pa zad pa med pa nas /",
+            "rga shi med /",
+            "rga shi zad pa'i bar du yang med do //"
+        ],
+        "root_segtext": [
+            " na cakṣurdhāturyāvanna manodhāturna dharmadhāturna manovijñānadhātuḥ /",
+            " na vidyā nāvidyā na kṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayaḥ,",
+            " na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptirnāprāptiḥ /"
+        ],
+        "root_string": " na vidyā nāvidyā na kṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayaḥ,",
+        "par_string": "ma rig pa zad pa med pa nas / rga shi med / rga shi zad pa'i bar du yang med do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "K06bsu053_u-skt-tib:21",
+        "par_pos_beg": 21,
+        "par_pos_end": 21,
+        "root_pos_beg": 21,
+        "root_pos_end": 21,
+        "par_offset_beg": 0,
+        "par_offset_end": 15,
+        "root_offset_beg": 67,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:29",
+            "K06bsu053_u:30",
+            "K06bsu053_u:31"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46a-6",
+            "K12D0531=D0021_H0499=H0026:46a-7",
+            "K12D0531=D0021_H0499=H0026:46a-8",
+            "K12D0531=D0021_H0499=H0026:46a-9",
+            "K12D0531=D0021_H0499=H0026:46a-10",
+            "K12D0531=D0021_H0499=H0026:46a-11",
+            "K12D0531=D0021_H0499=H0026:46a-12",
+            "K12D0531=D0021_H0499=H0026:46a-13",
+            "K12D0531=D0021_H0499=H0026:46a-14"
+        ],
+        "par_segtext": [
+            "sdug bsngal ba dang /",
+            "kun 'byung ba dang /",
+            "'gog pa dang /",
+            "lam med /",
+            "ye shes med /",
+            "thob pa med /",
+            "ma thob pa yang med do //",
+            "sh'a ri'i bu /",
+            "de lta bas na /"
+        ],
+        "root_segtext": [
+            " na vidyā nāvidyā na kṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayaḥ,",
+            " na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptirnāprāptiḥ /",
+            " tasmācchāriputra aprāptitvena bodhisattvānāṃ prajñāpāramitāmāśritya (PPhṛdv, Vaidya 99)"
+        ],
+        "root_string": " na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptirnāprāptiḥ /",
+        "par_string": "sdug bsngal ba dang / kun 'byung ba dang / 'gog pa dang / lam med / ye shes med / thob pa med / ma thob pa yang med do // sh'a ri'i bu / de lta bas na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 72,
+        "id": "K06bsu053_u-skt-tib:22",
+        "par_pos_beg": 22,
+        "par_pos_end": 22,
+        "root_pos_beg": 22,
+        "root_pos_end": 22,
+        "par_offset_beg": 0,
+        "par_offset_end": 63,
+        "root_offset_beg": 62,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:30",
+            "K06bsu053_u:31",
+            "K06bsu053_u:32",
+            "K06bsu053_u:33"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46a-15",
+            "K12D0531=D0021_H0499=H0026:46a-16"
+        ],
+        "par_segtext": [
+            "byang chub sems dpa' rnams thob pa med pa'i phyir /",
+            "shes rab kyi pha rol tu phyin pa zab mo la brten cing gnas te /"
+        ],
+        "root_segtext": [
+            " na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptirnāprāptiḥ /",
+            " tasmācchāriputra aprāptitvena bodhisattvānāṃ prajñāpāramitāmāśritya (PPhṛdv, Vaidya 99)",
+            " viharati cittāvaraṇaḥ /",
+            " cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ /"
+        ],
+        "root_string": " tasmācchāriputra aprāptitvena bodhisattvānāṃ prajñāpāramitāmāśritya (PPhṛdv, Vaidya 99) viharati cittāvaraṇaḥ /",
+        "par_string": "byang chub sems dpa' rnams thob pa med pa'i phyir / shes rab kyi pha rol tu phyin pa zab mo la brten cing gnas te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "K06bsu053_u-skt-tib:23",
+        "par_pos_beg": 23,
+        "par_pos_end": 23,
+        "root_pos_beg": 23,
+        "root_pos_end": 23,
+        "par_offset_beg": 0,
+        "par_offset_end": 74,
+        "root_offset_beg": 24,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:32",
+            "K06bsu053_u:33",
+            "K06bsu053_u:34"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46a-17",
+            "K12D0531=D0021_H0499=H0026:46a-18"
+        ],
+        "par_segtext": [
+            "sems la sgrib pa med pas skrag pa med de /",
+            "phyin ci log las shin tu 'das nas mya ngan las 'das pa'i mthar phyin to //"
+        ],
+        "root_segtext": [
+            " viharati cittāvaraṇaḥ /",
+            " cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ /",
+            " tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ /"
+        ],
+        "root_string": " cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ /",
+        "par_string": "sems la sgrib pa med pas skrag pa med de / phyin ci log las shin tu 'das nas mya ngan las 'das pa'i mthar phyin to //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 68,
+        "id": "K06bsu053_u-skt-tib:24",
+        "par_pos_beg": 24,
+        "par_pos_end": 24,
+        "root_pos_beg": 24,
+        "root_pos_end": 24,
+        "par_offset_beg": 0,
+        "par_offset_end": 24,
+        "root_offset_beg": 63,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:33",
+            "K06bsu053_u:34",
+            "K06bsu053_u:35"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46a-19",
+            "K12D0531=D0021_H0499=H0026:46a-20",
+            "K12D0531=D0021_H0499=H0026:46a-21",
+            "K12D0531=D0021_H0499=H0026:46a-22",
+            "K12D0531=D0021_H0499=H0026:46a-23",
+            "K12D0531=D0021_H0499=H0026:46a-24",
+            "K12D0531=D0021_H0499=H0026:46a-25",
+            "K12D0531=D0021_H0499=H0026:46a-26"
+        ],
+        "par_segtext": [
+            "dus gsum du rnam par bzhugs pa'i sangs rgyas thams",
+            "cad kyang shes rab kyi pha rol tu phyin pa",
+            "la brten nas / bla na med pa yang dag",
+            "par rdzogs pa'i byang chub tu mngon par rdzogs ba",
+            "la brten nas / sangs rgyas so // de ltar",
+            "bas na shes rab kyi pha rol tu phyin pa'i",
+            "la brten nas / sangs rgyas so // sngags / rig pa chen po'i sngags /",
+            "bla na med pa'i sngags /"
+        ],
+        "root_segtext": [
+            " cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ /",
+            " tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ /",
+            " tasmād jñātavyaḥ prajñāpāramitāmahāmantraḥ anuttaramantraḥ asamasamamantraḥ sarvaduḥkhapraśamanamantraḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ /"
+        ],
+        "root_string": " tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ /",
+        "par_string": "dus gsum du rnam par bzhugs pa'i sangs rgyas thams cad kyang shes rab kyi pha rol tu phyin pa la brten nas / bla na med pa yang dag par rdzogs pa'i byang chub tu mngon par rdzogs ba la brten nas / sangs rgyas so // de ltar bas na shes rab kyi pha rol tu phyin pa'i la brten nas / sangs rgyas so // sngags / rig pa chen po'i sngags / bla na med pa'i sngags /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 81,
+        "id": "K06bsu053_u-skt-tib:25",
+        "par_pos_beg": 25,
+        "par_pos_end": 25,
+        "root_pos_beg": 25,
+        "root_pos_end": 25,
+        "par_offset_beg": 0,
+        "par_offset_end": 14,
+        "root_offset_beg": 99,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:34",
+            "K06bsu053_u:35",
+            "K06bsu053_u:36",
+            "K06bsu053_u:37"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46a-27",
+            "K12D0531=D0021_H0499=H0026:46a-28",
+            "K12D0531=D0021_H0499=H0026:46a-29",
+            "K12D0531=D0021_H0499=H0026:46a-30",
+            "K12D0531=D0021_H0499=H0026:46a-31",
+            "K12D0531=D0021_H0499=H0026:46a-32",
+            "K12D0531=D0021_H0499=H0026:46a-33",
+            "K12D0531=D0021_H0499=H0026:46a-34",
+            "K12D0531=D0021_H0499=H0026:46a-35",
+            "K12D0531=D0021_H0499=H0026:46a-36"
+        ],
+        "par_segtext": [
+            "mi mnyam pa dang /",
+            "mnyam pa'i sngags /",
+            "sdug bsngal thams cad rab tu zhi bar byed pa'i sngags /",
+            "mi brdzun pas na bden par shes par bya ste /",
+            "shes rab kyi pha rol tu phyin pa'i sngags smras pa /",
+            "tadya th'a /",
+            "ga te ga te p'a ra ga te /",
+            "p'a ra sam ga te /",
+            "bo dhi sv'ah'a /",
+            "sh'a ri'i bu /"
+        ],
+        "root_segtext": [
+            " tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ /",
+            " tasmād jñātavyaḥ prajñāpāramitāmahāmantraḥ anuttaramantraḥ asamasamamantraḥ sarvaduḥkhapraśamanamantraḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ /",
+            " tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā /",
+            " evaṃ śāriputra gambhīrāyāṃ prajñāpāramitāyāṃ caryāyāṃ śikṣitavyaṃ bodhisattvena //"
+        ],
+        "root_string": " tasmād jñātavyaḥ prajñāpāramitāmahāmantraḥ anuttaramantraḥ asamasamamantraḥ sarvaduḥkhapraśamanamantraḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ / tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā /",
+        "par_string": "mi mnyam pa dang / mnyam pa'i sngags / sdug bsngal thams cad rab tu zhi bar byed pa'i sngags / mi brdzun pas na bden par shes par bya ste / shes rab kyi pha rol tu phyin pa'i sngags smras pa / tadya th'a / ga te ga te p'a ra ga te / p'a ra sam ga te / bo dhi sv'ah'a / sh'a ri'i bu /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "K06bsu053_u-skt-tib:26",
+        "par_pos_beg": 26,
+        "par_pos_end": 26,
+        "root_pos_beg": 26,
+        "root_pos_end": 26,
+        "par_offset_beg": 0,
+        "par_offset_end": 69,
+        "root_offset_beg": 56,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:36",
+            "K06bsu053_u:37",
+            "K06bsu053_u:38"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-0",
+            "K12D0531=D0021_H0499=H0026:46b-1",
+            "K12D0531=D0021_H0499=H0026:46b-2"
+        ],
+        "par_segtext": [
+            "de @46b lta bas na /",
+            "byang chub sems dpa' sems dpa' chen pos /",
+            "de ltar shes rab kyi pha rol tu phyin pa zab mo la bslab par bya'o //"
+        ],
+        "root_segtext": [
+            " tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā /",
+            " evaṃ śāriputra gambhīrāyāṃ prajñāpāramitāyāṃ caryāyāṃ śikṣitavyaṃ bodhisattvena //",
+            " atha khalu bhagavān tasmātsamādhervyutthāya āryāvalokiteśvarasya bodhisattvasya sādhukāramadāt - sādhu sādhu kulaputra /"
+        ],
+        "root_string": " evaṃ śāriputra gambhīrāyāṃ prajñāpāramitāyāṃ caryāyāṃ śikṣitavyaṃ bodhisattvena //",
+        "par_string": "de @46b lta bas na / byang chub sems dpa' sems dpa' chen pos / de ltar shes rab kyi pha rol tu phyin pa zab mo la bslab par bya'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "K06bsu053_u-skt-tib:27",
+        "par_pos_beg": 27,
+        "par_pos_end": 27,
+        "root_pos_beg": 27,
+        "root_pos_end": 27,
+        "par_offset_beg": 0,
+        "par_offset_end": 23,
+        "root_offset_beg": 83,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:37",
+            "K06bsu053_u:38",
+            "K06bsu053_u:39"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-3",
+            "K12D0531=D0021_H0499=H0026:46b-4",
+            "K12D0531=D0021_H0499=H0026:46b-5",
+            "K12D0531=D0021_H0499=H0026:46b-6",
+            "K12D0531=D0021_H0499=H0026:46b-7"
+        ],
+        "par_segtext": [
+            "de nas bcom ldan 'das ting nge 'dzin de las bzhengs te /",
+            "byang chub sems dpa' sems dpa' chen po 'phags pa",
+            "spyan ras gzigs dbang phyug la legs so zhes bya",
+            "ba byin nas / legs so //",
+            "legs so; ;rigs kyi bu /"
+        ],
+        "root_segtext": [
+            " evaṃ śāriputra gambhīrāyāṃ prajñāpāramitāyāṃ caryāyāṃ śikṣitavyaṃ bodhisattvena //",
+            " atha khalu bhagavān tasmātsamādhervyutthāya āryāvalokiteśvarasya bodhisattvasya sādhukāramadāt - sādhu sādhu kulaputra /",
+            " evametat kulaputra,"
+        ],
+        "root_string": " atha khalu bhagavān tasmātsamādhervyutthāya āryāvalokiteśvarasya bodhisattvasya sādhukāramadāt - sādhu sādhu kulaputra /",
+        "par_string": "de nas bcom ldan 'das ting nge 'dzin de las bzhengs te / byang chub sems dpa' sems dpa' chen po 'phags pa spyan ras gzigs dbang phyug la legs so zhes bya ba byin nas / legs so // legs so; ;rigs kyi bu /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "K06bsu053_u-skt-tib:28",
+        "par_pos_beg": 28,
+        "par_pos_end": 28,
+        "root_pos_beg": 28,
+        "root_pos_end": 28,
+        "par_offset_beg": 0,
+        "par_offset_end": 16,
+        "root_offset_beg": 121,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:38",
+            "K06bsu053_u:39",
+            "K06bsu053_u:40"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-8",
+            "K12D0531=D0021_H0499=H0026:46b-9",
+            "K12D0531=D0021_H0499=H0026:46b-10"
+        ],
+        "par_segtext": [
+            "de de bzhin no //",
+            "rigs kyi bu /",
+            "de de bzhin te /"
+        ],
+        "root_segtext": [
+            " atha khalu bhagavān tasmātsamādhervyutthāya āryāvalokiteśvarasya bodhisattvasya sādhukāramadāt - sādhu sādhu kulaputra /",
+            " evametat kulaputra,",
+            " evametad gambhīrāyāṃ prajñāpāramitāyāṃ caryaṃ cartavyaṃ yathā tvayā nirdiṣṭam /"
+        ],
+        "root_string": " evametat kulaputra,",
+        "par_string": "de de bzhin no // rigs kyi bu / de de bzhin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "K06bsu053_u-skt-tib:29",
+        "par_pos_beg": 29,
+        "par_pos_end": 29,
+        "root_pos_beg": 29,
+        "root_pos_end": 29,
+        "par_offset_beg": 0,
+        "par_offset_end": 62,
+        "root_offset_beg": 20,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:39",
+            "K06bsu053_u:40",
+            "K06bsu053_u:41"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-11",
+            "K12D0531=D0021_H0499=H0026:46b-12"
+        ],
+        "par_segtext": [
+            "ji ltar khyod kyis bstan pa de bzhin du /",
+            "shes rab kyi pha rol tu phyin pa zab mo la spyad par bya ste /"
+        ],
+        "root_segtext": [
+            " evametat kulaputra,",
+            " evametad gambhīrāyāṃ prajñāpāramitāyāṃ caryaṃ cartavyaṃ yathā tvayā nirdiṣṭam /",
+            " anumodyate tathāgatairarhadbhiḥ //"
+        ],
+        "root_string": " evametad gambhīrāyāṃ prajñāpāramitāyāṃ caryaṃ cartavyaṃ yathā tvayā nirdiṣṭam /",
+        "par_string": "ji ltar khyod kyis bstan pa de bzhin du / shes rab kyi pha rol tu phyin pa zab mo la spyad par bya ste /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 66,
+        "id": "K06bsu053_u-skt-tib:30",
+        "par_pos_beg": 30,
+        "par_pos_end": 30,
+        "root_pos_beg": 30,
+        "root_pos_end": 30,
+        "par_offset_beg": 0,
+        "par_offset_end": 53,
+        "root_offset_beg": 80,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:40",
+            "K06bsu053_u:41",
+            "K06bsu053_u:42"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-13"
+        ],
+        "par_segtext": [
+            "de bzhin gshegs pa rnams kyang rjes su yi rang ngo //"
+        ],
+        "root_segtext": [
+            " evametad gambhīrāyāṃ prajñāpāramitāyāṃ caryaṃ cartavyaṃ yathā tvayā nirdiṣṭam /",
+            " anumodyate tathāgatairarhadbhiḥ //",
+            " idamavocadbhagavān /"
+        ],
+        "root_string": " anumodyate tathāgatairarhadbhiḥ //",
+        "par_string": "de bzhin gshegs pa rnams kyang rjes su yi rang ngo //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "K06bsu053_u-skt-tib:31",
+        "par_pos_beg": 31,
+        "par_pos_end": 31,
+        "root_pos_beg": 31,
+        "root_pos_end": 31,
+        "par_offset_beg": 0,
+        "par_offset_end": 48,
+        "root_offset_beg": 35,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:41",
+            "K06bsu053_u:42",
+            "K06bsu053_u:43"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-14"
+        ],
+        "par_segtext": [
+            "bcom ldan 'das kyis de skad ces bka' stsal nas /"
+        ],
+        "root_segtext": [
+            " anumodyate tathāgatairarhadbhiḥ //",
+            " idamavocadbhagavān /",
+            " ānandamanā āyuṣmān śāriputraḥ āryāvalokiteśvaraśca bodhisattvaḥ sā ca sarvāvatī pariṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandan"
+        ],
+        "root_string": " idamavocadbhagavān /",
+        "par_string": "bcom ldan 'das kyis de skad ces bka' stsal nas /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 79,
+        "id": "K06bsu053_u-skt-tib:32",
+        "par_pos_beg": 32,
+        "par_pos_end": 32,
+        "root_pos_beg": 32,
+        "root_pos_end": 32,
+        "par_offset_beg": 0,
+        "par_offset_end": 54,
+        "root_offset_beg": 21,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "K06bsu053_u:42",
+            "K06bsu053_u:43",
+            "K06bsu053_u:44"
+        ],
+        "par_segnr": [
+            "K12D0531=D0021_H0499=H0026:46b-15",
+            "K12D0531=D0021_H0499=H0026:46b-16",
+            "K12D0531=D0021_H0499=H0026:46b-17",
+            "K12D0531=D0021_H0499=H0026:46b-18",
+            "K12D0531=D0021_H0499=H0026:46b-19",
+            "K12D0531=D0021_H0499=H0026:46b-20",
+            "K12D0531=D0021_H0499=H0026:46b-21",
+            "K12D0531=D0021_H0499=H0026:46b-22"
+        ],
+        "par_segtext": [
+            "tshe dang ldan pa sha ra dva ti'i bu dang /",
+            "byang chub sems dpa' sems dpa' chen po 'phags pa spyan ras gzigs dbang phyug dang /",
+            "thams cad dang ldan pa'i 'khor de dang /",
+            "lha dang /",
+            "mi dang /",
+            "lha ma yin dang /",
+            "dri zar bcas pa'i 'jig rten yi rangs te /",
+            "bcom ldan 'das kyis gsungs pa la mngon par bstod do //"
+        ],
+        "root_segtext": [
+            " idamavocadbhagavān /",
+            " ānandamanā āyuṣmān śāriputraḥ āryāvalokiteśvaraśca bodhisattvaḥ sā ca sarvāvatī pariṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandan",
+            " iti prajñāpāramitāhṛdayasūtraṃ samāptam /"
+        ],
+        "root_string": " ānandamanā āyuṣmān śāriputraḥ āryāvalokiteśvaraśca bodhisattvaḥ sā ca sarvāvatī pariṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandan",
+        "par_string": "tshe dang ldan pa sha ra dva ti'i bu dang / byang chub sems dpa' sems dpa' chen po 'phags pa spyan ras gzigs dbang phyug dang / thams cad dang ldan pa'i 'khor de dang / lha dang / mi dang / lha ma yin dang / dri zar bcas pa'i 'jig rten yi rangs te / bcom ldan 'das kyis gsungs pa la mngon par bstod do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    }
+]

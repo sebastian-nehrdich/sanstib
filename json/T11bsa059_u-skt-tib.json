@@ -1,0 +1,4744 @@
+[
+    {
+        "score": 60,
+        "id": "T11bsa059_u-skt-tib:0",
+        "par_pos_beg": 0,
+        "par_pos_end": 0,
+        "root_pos_beg": 0,
+        "root_pos_end": 0,
+        "par_offset_beg": 0,
+        "par_offset_end": 32,
+        "root_offset_beg": 0,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:0",
+            "T11bsa059_u:1"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-0",
+            "T11D4219:355b-1",
+            "T11D4219:355b-2",
+            "T11D4219:355b-3",
+            "T11D4219:355b-4",
+            "T11D4219:355b-5"
+        ],
+        "par_segtext": [
+            "@355b # // rgya gar skad du /",
+            "santa n'a n+ya ta ra siddhi n'a ma pra ka ra na /",
+            "bod skad du /",
+            "rgyud gzhan grub pa zhes bya ba'i rab tu byed pa /",
+            "'jam dpal gzhon nur gyur pa la phyag 'tshal lo //",
+            "rang lus blo sngon 'gro pa yi //"
+        ],
+        "root_segtext": [
+            " Dharmakīrtipraṇītā Santānāntarasiddhiḥ",
+            " buddhipūrvāṃ kriyāṃ dṛṣṭvā svadehe 'nyatra tadgrahāt /"
+        ],
+        "root_string": " Dharmakīrtipraṇītā Santānāntarasiddhiḥ",
+        "par_string": "@355b # // rgya gar skad du / santa n'a n+ya ta ra siddhi n'a ma pra ka ra na / bod skad du / rgyud gzhan grub pa zhes bya ba'i rab tu byed pa / 'jam dpal gzhon nur gyur pa la phyag 'tshal lo // rang lus blo sngon 'gro pa yi //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 59,
+        "id": "T11bsa059_u-skt-tib:1",
+        "par_pos_beg": 1,
+        "par_pos_end": 1,
+        "root_pos_beg": 1,
+        "root_pos_end": 1,
+        "par_offset_beg": 0,
+        "par_offset_end": 32,
+        "root_offset_beg": 39,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:0",
+            "T11bsa059_u:1",
+            "T11bsa059_u:2"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-6"
+        ],
+        "par_segtext": [
+            "bya ba mthong nas gzhan la de //"
+        ],
+        "root_segtext": [
+            " Dharmakīrtipraṇītā Santānāntarasiddhiḥ",
+            " buddhipūrvāṃ kriyāṃ dṛṣṭvā svadehe 'nyatra tadgrahāt /",
+            " jñāyate yadi dhīścittamātre 'pyeṣa nayaḥ samaḥ //"
+        ],
+        "root_string": " buddhipūrvāṃ kriyāṃ dṛṣṭvā svadehe 'nyatra tadgrahāt /",
+        "par_string": "bya ba mthong nas gzhan la de //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T11bsa059_u-skt-tib:2",
+        "par_pos_beg": 2,
+        "par_pos_end": 2,
+        "root_pos_beg": 2,
+        "root_pos_end": 2,
+        "par_offset_beg": 0,
+        "par_offset_end": 39,
+        "root_offset_beg": 55,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:1",
+            "T11bsa059_u:2",
+            "T11bsa059_u:3"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-7",
+            "T11D4219:355b-8"
+        ],
+        "par_segtext": [
+            "'dzin phyir gal te blo shes 'gyur //",
+            "sems tsam la yang tshul 'di mtshungs //"
+        ],
+        "root_segtext": [
+            " buddhipūrvāṃ kriyāṃ dṛṣṭvā svadehe 'nyatra tadgrahāt /",
+            " jñāyate yadi dhīścittamātre 'pyeṣa nayaḥ samaḥ //",
+            " ātmani cittaspandanapūrvau kriyābhilāpau dṛṣṭvānyatra tayordarśanādyadi spandanamanumīyeta,"
+        ],
+        "root_string": " jñāyate yadi dhīścittamātre 'pyeṣa nayaḥ samaḥ //",
+        "par_string": "'dzin phyir gal te blo shes 'gyur // sems tsam la yang tshul 'di mtshungs //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:3",
+        "par_pos_beg": 3,
+        "par_pos_end": 3,
+        "root_pos_beg": 3,
+        "root_pos_end": 3,
+        "par_offset_beg": 0,
+        "par_offset_end": 61,
+        "root_offset_beg": 50,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:2",
+            "T11bsa059_u:3",
+            "T11bsa059_u:4"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-9",
+            "T11D4219:355b-10",
+            "T11D4219:355b-11"
+        ],
+        "par_segtext": [
+            "gal te bdag nyid la bya ba dang /",
+            "brjod pa sems kyi g-yo ba sngon du 'gro ba can dag mthong nas /",
+            "gzhan la de dag mthong bas g-yo pa rjes su dpog par byed na /"
+        ],
+        "root_segtext": [
+            " jñāyate yadi dhīścittamātre 'pyeṣa nayaḥ samaḥ //",
+            " ātmani cittaspandanapūrvau kriyābhilāpau dṛṣṭvānyatra tayordarśanādyadi spandanamanumīyeta,",
+            " cittamātre 'pyaṣa nayaḥ samaḥ /"
+        ],
+        "root_string": " ātmani cittaspandanapūrvau kriyābhilāpau dṛṣṭvānyatra tayordarśanādyadi spandanamanumīyeta,",
+        "par_string": "gal te bdag nyid la bya ba dang / brjod pa sems kyi g-yo ba sngon du 'gro ba can dag mthong nas / gzhan la de dag mthong bas g-yo pa rjes su dpog par byed na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 69,
+        "id": "T11bsa059_u-skt-tib:4",
+        "par_pos_beg": 4,
+        "par_pos_end": 4,
+        "root_pos_beg": 4,
+        "root_pos_end": 4,
+        "par_offset_beg": 0,
+        "par_offset_end": 45,
+        "root_offset_beg": 92,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:3",
+            "T11bsa059_u:4",
+            "T11bsa059_u:5"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-12"
+        ],
+        "par_segtext": [
+            "tshul 'di ni sems tsam la yang mtshungs pas /"
+        ],
+        "root_segtext": [
+            " ātmani cittaspandanapūrvau kriyābhilāpau dṛṣṭvānyatra tayordarśanādyadi spandanamanumīyeta,",
+            " cittamātre 'pyaṣa nayaḥ samaḥ /",
+            " ataḥ cittamātratāvādī api paracittamanumātuṃ śaknoti /"
+        ],
+        "root_string": " cittamātre 'pyaṣa nayaḥ samaḥ /",
+        "par_string": "tshul 'di ni sems tsam la yang mtshungs pas /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:5",
+        "par_pos_beg": 5,
+        "par_pos_end": 5,
+        "root_pos_beg": 5,
+        "root_pos_end": 5,
+        "par_offset_beg": 0,
+        "par_offset_end": 72,
+        "root_offset_beg": 32,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:4",
+            "T11bsa059_u:5",
+            "T11bsa059_u:6"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-13"
+        ],
+        "par_segtext": [
+            "sems tsam du smra bas kyang gzhan gyi sems rjes su dpag par bya nus te /"
+        ],
+        "root_segtext": [
+            " cittamātre 'pyaṣa nayaḥ samaḥ /",
+            " ataḥ cittamātratāvādī api paracittamanumātuṃ śaknoti /",
+            " tacca kāyavāgvijñaptipratibhāsi jñānaṃ jñānāntaraspandanaveśeṣeṇa vinā bhavatyevaṃ na matam / [1-3]"
+        ],
+        "root_string": " ataḥ cittamātratāvādī api paracittamanumātuṃ śaknoti /",
+        "par_string": "sems tsam du smra bas kyang gzhan gyi sems rjes su dpag par bya nus te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:6",
+        "par_pos_beg": 6,
+        "par_pos_end": 6,
+        "root_pos_beg": 6,
+        "root_pos_end": 6,
+        "par_offset_beg": 0,
+        "par_offset_end": 28,
+        "root_offset_beg": 55,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:5",
+            "T11bsa059_u:6",
+            "T11bsa059_u:7"
+        ],
+        "par_segnr": [
+            "T11D4219:355b-14",
+            "T11D4219:355b-15",
+            "T11D4219:356a-0",
+            "T11D4219:356a-1"
+        ],
+        "par_segtext": [
+            "de yang shes pa gzhan gyis g-yo ba'i khyad par",
+            "med par lus ngag gi rnam par rig byed du",
+            "snang pa'i shes pa de lta @356a * //",
+            "bu dag yod par mi 'dod do //"
+        ],
+        "root_segtext": [
+            " ataḥ cittamātratāvādī api paracittamanumātuṃ śaknoti /",
+            " tacca kāyavāgvijñaptipratibhāsi jñānaṃ jñānāntaraspandanaveśeṣeṇa vinā bhavatyevaṃ na matam / [1-3]",
+            " atha parajñānasya kriyānupalambhāt paradhīranumātuṃ na yujyata iti cet?"
+        ],
+        "root_string": " tacca kāyavāgvijñaptipratibhāsi jñānaṃ jñānāntaraspandanaveśeṣeṇa vinā bhavatyevaṃ na matam / [1-3]",
+        "par_string": "de yang shes pa gzhan gyis g-yo ba'i khyad par med par lus ngag gi rnam par rig byed du snang pa'i shes pa de lta @356a * // bu dag yod par mi 'dod do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:7",
+        "par_pos_beg": 7,
+        "par_pos_end": 7,
+        "root_pos_beg": 7,
+        "root_pos_end": 7,
+        "par_offset_beg": 0,
+        "par_offset_end": 40,
+        "root_offset_beg": 100,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:6",
+            "T11bsa059_u:7",
+            "T11bsa059_u:8"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-2",
+            "T11D4219:356a-3",
+            "T11D4219:356a-4"
+        ],
+        "par_segtext": [
+            "gal te gzhan gyi shes pa'i byed pa ma dmigs",
+            "pa'i phyir gzhan gyi rjes su dpag par mi rung",
+            "ngo zhe na / 'dra ba'i phyir ma yin te /"
+        ],
+        "root_segtext": [
+            " tacca kāyavāgvijñaptipratibhāsi jñānaṃ jñānāntaraspandanaveśeṣeṇa vinā bhavatyevaṃ na matam / [1-3]",
+            " atha parajñānasya kriyānupalambhāt paradhīranumātuṃ na yujyata iti cet?",
+            " na; tulyatvāt paro 'pi parajñānapūrvau tau kadāpi na paśyati 'taḥ tenāpi tanna jñāyate / [4-5]"
+        ],
+        "root_string": " atha parajñānasya kriyānupalambhāt paradhīranumātuṃ na yujyata iti cet?",
+        "par_string": "gal te gzhan gyi shes pa'i byed pa ma dmigs pa'i phyir gzhan gyi rjes su dpag par mi rung ngo zhe na / 'dra ba'i phyir ma yin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:8",
+        "par_pos_beg": 8,
+        "par_pos_end": 8,
+        "root_pos_beg": 8,
+        "root_pos_end": 8,
+        "par_offset_beg": 0,
+        "par_offset_end": 36,
+        "root_offset_beg": 72,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:7",
+            "T11bsa059_u:8",
+            "T11bsa059_u:9"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-5",
+            "T11D4219:356a-6",
+            "T11D4219:356a-7"
+        ],
+        "par_segtext": [
+            "pha rol pos kyang gzhan gyi shes pa sngon du",
+            "'gro ba can de dag nam yang ma mthong pas",
+            "des kyang de shes par mi 'gyur ro //"
+        ],
+        "root_segtext": [
+            " atha parajñānasya kriyānupalambhāt paradhīranumātuṃ na yujyata iti cet?",
+            " na; tulyatvāt paro 'pi parajñānapūrvau tau kadāpi na paśyati 'taḥ tenāpi tanna jñāyate / [4-5]",
+            " ātmanaścittasya paravartinornimittatvānupapatteḥ paracittaṃ jñāyata iti cet /"
+        ],
+        "root_string": " na; tulyatvāt paro 'pi parajñānapūrvau tau kadāpi na paśyati 'taḥ tenāpi tanna jñāyate / [4-5]",
+        "par_string": "pha rol pos kyang gzhan gyi shes pa sngon du 'gro ba can de dag nam yang ma mthong pas des kyang de shes par mi 'gyur ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:9",
+        "par_pos_beg": 9,
+        "par_pos_end": 9,
+        "root_pos_beg": 9,
+        "root_pos_end": 9,
+        "par_offset_beg": 0,
+        "par_offset_end": 47,
+        "root_offset_beg": 95,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:8",
+            "T11bsa059_u:9",
+            "T11bsa059_u:10"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-8",
+            "T11D4219:356a-9",
+            "T11D4219:356a-10"
+        ],
+        "par_segtext": [
+            "gal te bdag nyid kyi sems gzhan la yod pa",
+            "dag gi rgyu mtshan nyid du mi rung ba'i phyir",
+            "ro // gzhan gyi sems shes par 'gyur ro zhe na /"
+        ],
+        "root_segtext": [
+            " na; tulyatvāt paro 'pi parajñānapūrvau tau kadāpi na paśyati 'taḥ tenāpi tanna jñāyate / [4-5]",
+            " ātmanaścittasya paravartinornimittatvānupapatteḥ paracittaṃ jñāyata iti cet /",
+            " kiṃ na yujyate?"
+        ],
+        "root_string": " ātmanaścittasya paravartinornimittatvānupapatteḥ paracittaṃ jñāyata iti cet /",
+        "par_string": "gal te bdag nyid kyi sems gzhan la yod pa dag gi rgyu mtshan nyid du mi rung ba'i phyir ro // gzhan gyi sems shes par 'gyur ro zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:10",
+        "par_pos_beg": 10,
+        "par_pos_end": 10,
+        "root_pos_beg": 10,
+        "root_pos_end": 10,
+        "par_offset_beg": 0,
+        "par_offset_end": 17,
+        "root_offset_beg": 78,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:9",
+            "T11bsa059_u:10",
+            "T11bsa059_u:11"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-11"
+        ],
+        "par_segtext": [
+            "ji ltar mi rung /"
+        ],
+        "root_segtext": [
+            " ātmanaścittasya paravartinornimittatvānupapatteḥ paracittaṃ jñāyata iti cet /",
+            " kiṃ na yujyate?",
+            " svasamutthāpakacittasya pratisaṃvedanābhāvāt,"
+        ],
+        "root_string": " kiṃ na yujyate?",
+        "par_string": "ji ltar mi rung /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:11",
+        "par_pos_beg": 11,
+        "par_pos_end": 11,
+        "root_pos_beg": 11,
+        "root_pos_end": 11,
+        "par_offset_beg": 0,
+        "par_offset_end": 72,
+        "root_offset_beg": 16,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:10",
+            "T11bsa059_u:11",
+            "T11bsa059_u:12",
+            "T11bsa059_u:13"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-12",
+            "T11D4219:356a-13"
+        ],
+        "par_segtext": [
+            "rang gi kun nas slong ba'i sems so sor yang dag par myong ba med pa'i phyir dang /",
+            "bdag nyid kyi sems kyi rten can yang bdag nyid la mthong ba'i phyir te /"
+        ],
+        "root_segtext": [
+            " kiṃ na yujyate?",
+            " svasamutthāpakacittasya pratisaṃvedanābhāvāt,",
+            " ātmacittaśrayiṇoścātmani darśanāt /",
+            " tāvapi yadi yathā syātāṃ tādṛśāvupalabhyeyātām /"
+        ],
+        "root_string": " svasamutthāpakacittasya pratisaṃvedanābhāvāt, ātmacittaśrayiṇoścātmani darśanāt /",
+        "par_string": "rang gi kun nas slong ba'i sems so sor yang dag par myong ba med pa'i phyir dang / bdag nyid kyi sems kyi rten can yang bdag nyid la mthong ba'i phyir te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 77,
+        "id": "T11bsa059_u-skt-tib:12",
+        "par_pos_beg": 12,
+        "par_pos_end": 12,
+        "root_pos_beg": 12,
+        "root_pos_end": 12,
+        "par_offset_beg": 0,
+        "par_offset_end": 78,
+        "root_offset_beg": 36,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:12",
+            "T11bsa059_u:13",
+            "T11bsa059_u:14"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-14"
+        ],
+        "par_segtext": [
+            "de dag kyang de lta bu yin na ni de dang 'dra bar dmigs par 'gyur ba zhig na /"
+        ],
+        "root_segtext": [
+            " ātmacittaśrayiṇoścātmani darśanāt /",
+            " tāvapi yadi yathā syātāṃ tādṛśāvupalabhyeyātām /",
+            " anyathā darśanādanyanimittaṃ sidhyatīti cet?"
+        ],
+        "root_string": " tāvapi yadi yathā syātāṃ tādṛśāvupalabhyeyātām /",
+        "par_string": "de dag kyang de lta bu yin na ni de dang 'dra bar dmigs par 'gyur ba zhig na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:13",
+        "par_pos_beg": 13,
+        "par_pos_end": 13,
+        "root_pos_beg": 13,
+        "root_pos_end": 13,
+        "par_offset_beg": 0,
+        "par_offset_end": 41,
+        "root_offset_beg": 49,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:13",
+            "T11bsa059_u:14",
+            "T11bsa059_u:15",
+            "T11bsa059_u:16"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-15",
+            "T11D4219:356a-16"
+        ],
+        "par_segtext": [
+            "de lta ma yin par mthong bas /",
+            "rgyu mtshan gzhan grub pa yin no zhe na /"
+        ],
+        "root_segtext": [
+            " tāvapi yadi yathā syātāṃ tādṛśāvupalabhyeyātām /",
+            " anyathā darśanādanyanimittaṃ sidhyatīti cet?",
+            " aparasminnapi samānameva,",
+            " svasamutthāpakacittasya saṃvedanābhāvāt /"
+        ],
+        "root_string": " anyathā darśanādanyanimittaṃ sidhyatīti cet? aparasminnapi samānameva,",
+        "par_string": "de lta ma yin par mthong bas / rgyu mtshan gzhan grub pa yin no zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:14",
+        "par_pos_beg": 14,
+        "par_pos_end": 14,
+        "root_pos_beg": 14,
+        "root_pos_end": 14,
+        "par_offset_beg": 0,
+        "par_offset_end": 5,
+        "root_offset_beg": 26,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:15",
+            "T11bsa059_u:16",
+            "T11bsa059_u:17"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-17",
+            "T11D4219:356a-18",
+            "T11D4219:356a-19"
+        ],
+        "par_segtext": [
+            "gzhan la yang rang gi kun nas slong bar byed",
+            "pa'i sems yang dag par myong ba med pas 'dra",
+            "la / rnam par rig byed du snang ba'i shes"
+        ],
+        "root_segtext": [
+            " aparasminnapi samānameva,",
+            " svasamutthāpakacittasya saṃvedanābhāvāt /",
+            " svacittaspandananimittake vijñaptipratibhāsinī jñāne cāntarmukhapratibhāsinī pratīteḥ bahirmukhapratibhāsinī anyanimittadutpadyete / [6-12]"
+        ],
+        "root_string": " svasamutthāpakacittasya saṃvedanābhāvāt /",
+        "par_string": "gzhan la yang rang gi kun nas slong bar byed pa'i sems yang dag par myong ba med pas 'dra la / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:15",
+        "par_pos_beg": 15,
+        "par_pos_end": 15,
+        "root_pos_beg": 15,
+        "root_pos_end": 15,
+        "par_offset_beg": 5,
+        "par_offset_end": 5,
+        "root_offset_beg": 42,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:16",
+            "T11bsa059_u:17",
+            "T11bsa059_u:18"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-19",
+            "T11D4219:356a-20",
+            "T11D4219:356a-21",
+            "T11D4219:356a-22",
+            "T11D4219:356a-23",
+            "T11D4219:356a-24"
+        ],
+        "par_segtext": [
+            "la / rnam par rig byed du snang ba'i shes",
+            "pa rang gi sems kyi g-yo ba'i rgyu mtshan can",
+            "dag kyang kha nang du bltas pa'i snang bas yin",
+            "par rtogs pa'i phyir kha phyir pa ltas pa'i snang",
+            "ba dag rgyu mtshan gzhan las skye bar 'gyur ro",
+            "la / // kha phyir bltas pa'i snang ba dag"
+        ],
+        "root_segtext": [
+            " svasamutthāpakacittasya saṃvedanābhāvāt /",
+            " svacittaspandananimittake vijñaptipratibhāsinī jñāne cāntarmukhapratibhāsinī pratīteḥ bahirmukhapratibhāsinī anyanimittadutpadyete / [6-12]",
+            " animitte eva bahirmukhapratibhāsinīti kinneṣyate cet?"
+        ],
+        "root_string": " svacittaspandananimittake vijñaptipratibhāsinī jñāne cāntarmukhapratibhāsinī pratīteḥ bahirmukhapratibhāsinī anyanimittadutpadyete / [6-12]",
+        "par_string": "rnam par rig byed du snang ba'i shes pa rang gi sems kyi g-yo ba'i rgyu mtshan can dag kyang kha nang du bltas pa'i snang bas yin par rtogs pa'i phyir kha phyir pa ltas pa'i snang ba dag rgyu mtshan gzhan las skye bar 'gyur ro la / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T11bsa059_u-skt-tib:16",
+        "par_pos_beg": 16,
+        "par_pos_end": 16,
+        "root_pos_beg": 16,
+        "root_pos_end": 16,
+        "par_offset_beg": 5,
+        "par_offset_end": 5,
+        "root_offset_beg": 140,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:17",
+            "T11bsa059_u:18",
+            "T11bsa059_u:19"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-24",
+            "T11D4219:356a-25",
+            "T11D4219:356a-26"
+        ],
+        "par_segtext": [
+            "la / // kha phyir bltas pa'i snang ba dag",
+            "rgyu mtshan med pa kho nar ci ste mi 'dod",
+            "la / // ce na / rgyu mtshan med pa"
+        ],
+        "root_segtext": [
+            " svacittaspandananimittake vijñaptipratibhāsinī jñāne cāntarmukhapratibhāsinī pratīteḥ bahirmukhapratibhāsinī anyanimittadutpadyete / [6-12]",
+            " animitte eva bahirmukhapratibhāsinīti kinneṣyate cet?",
+            " animittatve sarvasyānimittatvaṃ prasajyeta /"
+        ],
+        "root_string": " animitte eva bahirmukhapratibhāsinīti kinneṣyate cet?",
+        "par_string": "// kha phyir bltas pa'i snang ba dag rgyu mtshan med pa kho nar ci ste mi 'dod la / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "T11bsa059_u-skt-tib:17",
+        "par_pos_beg": 17,
+        "par_pos_end": 17,
+        "root_pos_beg": 17,
+        "root_pos_end": 17,
+        "par_offset_beg": 5,
+        "par_offset_end": 5,
+        "root_offset_beg": 54,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:18",
+            "T11bsa059_u:19",
+            "T11bsa059_u:20"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-26",
+            "T11D4219:356a-27",
+            "T11D4219:356a-28"
+        ],
+        "par_segtext": [
+            "la / // ce na / rgyu mtshan med pa",
+            "nyid yin na thams cad rgyu mtshan nyid du thal",
+            "la / // ce na / bar 'gyur ro //"
+        ],
+        "root_segtext": [
+            " animitte eva bahirmukhapratibhāsinīti kinneṣyate cet?",
+            " animittatve sarvasyānimittatvaṃ prasajyeta /",
+            " vicchinnāvicchinnapratibhāsakṛto bhedo na jñānayoḥ spandanatvanimittabhedavibhāgakṛt /"
+        ],
+        "root_string": " animittatve sarvasyānimittatvaṃ prasajyeta /",
+        "par_string": "// ce na / rgyu mtshan med pa nyid yin na thams cad rgyu mtshan nyid du thal la / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T11bsa059_u-skt-tib:18",
+        "par_pos_beg": 18,
+        "par_pos_end": 18,
+        "root_pos_beg": 18,
+        "root_pos_end": 18,
+        "par_offset_beg": 5,
+        "par_offset_end": 25,
+        "root_offset_beg": 45,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:19",
+            "T11bsa059_u:20",
+            "T11bsa059_u:21"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-28",
+            "T11D4219:356a-29",
+            "T11D4219:356a-30",
+            "T11D4219:356a-31",
+            "T11D4219:356a-32"
+        ],
+        "par_segtext": [
+            "la / // ce na / bar 'gyur ro //",
+            "rnam par chad pa dang rnam par ma chad par",
+            "snang bas byas pa'i khyad par ni shes pa dag",
+            "pa'i rgyu mtshan g-yo ba nyid tha dad par rnam",
+            "par 'byed pa ma yin no //"
+        ],
+        "root_segtext": [
+            " animittatve sarvasyānimittatvaṃ prasajyeta /",
+            " vicchinnāvicchinnapratibhāsakṛto bhedo na jñānayoḥ spandanatvanimittabhedavibhāgakṛt /",
+            " tenāvicchinnapratibhāsinorapyanimittatvaṃ bhavet,"
+        ],
+        "root_string": " vicchinnāvicchinnapratibhāsakṛto bhedo na jñānayoḥ spandanatvanimittabhedavibhāgakṛt /",
+        "par_string": "// ce na / bar 'gyur ro // rnam par chad pa dang rnam par ma chad par snang bas byas pa'i khyad par ni shes pa dag pa'i rgyu mtshan g-yo ba nyid tha dad par rnam par 'byed pa ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:19",
+        "par_pos_beg": 19,
+        "par_pos_end": 19,
+        "root_pos_beg": 19,
+        "root_pos_end": 19,
+        "par_offset_beg": 0,
+        "par_offset_end": 84,
+        "root_offset_beg": 87,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:20",
+            "T11bsa059_u:21",
+            "T11bsa059_u:22"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-33"
+        ],
+        "par_segtext": [
+            "des na rnam par ma chad par snang ba dag kyang rgyu mtshan med pa nyid du 'gyur te /"
+        ],
+        "root_segtext": [
+            " vicchinnāvicchinnapratibhāsakṛto bhedo na jñānayoḥ spandanatvanimittabhedavibhāgakṛt /",
+            " tenāvicchinnapratibhāsinorapyanimittatvaṃ bhavet,",
+            " viśeṣābhāvāt /"
+        ],
+        "root_string": " tenāvicchinnapratibhāsinorapyanimittatvaṃ bhavet,",
+        "par_string": "des na rnam par ma chad par snang ba dag kyang rgyu mtshan med pa nyid du 'gyur te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:20",
+        "par_pos_beg": 20,
+        "par_pos_end": 20,
+        "root_pos_beg": 20,
+        "root_pos_end": 20,
+        "par_offset_beg": 0,
+        "par_offset_end": 30,
+        "root_offset_beg": 50,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:21",
+            "T11bsa059_u:22",
+            "T11bsa059_u:23"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-34"
+        ],
+        "par_segtext": [
+            "khyad par med pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " tenāvicchinnapratibhāsinorapyanimittatvaṃ bhavet,",
+            " viśeṣābhāvāt /",
+            " tathā sati, avicchinnatvaviśiṣṭaḥ pratibhāsabheda eva spandanapūrvako na bhavati /"
+        ],
+        "root_string": " viśeṣābhāvāt /",
+        "par_string": "khyad par med pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:21",
+        "par_pos_beg": 21,
+        "par_pos_end": 21,
+        "root_pos_beg": 21,
+        "root_pos_end": 21,
+        "par_offset_beg": 0,
+        "par_offset_end": 17,
+        "root_offset_beg": 15,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:22",
+            "T11bsa059_u:23",
+            "T11bsa059_u:24"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-35",
+            "T11D4219:356a-36",
+            "T11D4219:356a-37",
+            "T11D4219:356a-38"
+        ],
+        "par_segtext": [
+            "de lta bas na snang ba'i khyad par rnam par",
+            "ma chad pa'i khyad par can ni g-yo ba sngon",
+            "du 'gro ba can ma yin no //",
+            "'o na ci zhe na /"
+        ],
+        "root_segtext": [
+            " viśeṣābhāvāt /",
+            " tathā sati, avicchinnatvaviśiṣṭaḥ pratibhāsabheda eva spandanapūrvako na bhavati /",
+            " kintarhi? vicchinnasyāpi kriyāviśeṣasya pratibhāsa eva /"
+        ],
+        "root_string": " tathā sati, avicchinnatvaviśiṣṭaḥ pratibhāsabheda eva spandanapūrvako na bhavati /",
+        "par_string": "de lta bas na snang ba'i khyad par rnam par ma chad pa'i khyad par can ni g-yo ba sngon du 'gro ba can ma yin no // 'o na ci zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:22",
+        "par_pos_beg": 22,
+        "par_pos_end": 22,
+        "root_pos_beg": 22,
+        "root_pos_end": 22,
+        "par_offset_beg": 0,
+        "par_offset_end": 52,
+        "root_offset_beg": 83,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:23",
+            "T11bsa059_u:24",
+            "T11bsa059_u:25"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-39",
+            "T11D4219:356a-40"
+        ],
+        "par_segtext": [
+            "rnam par chad pa la /",
+            "yang bya ba'i khyad par du snang ba kho na yin no //"
+        ],
+        "root_segtext": [
+            " tathā sati, avicchinnatvaviśiṣṭaḥ pratibhāsabheda eva spandanapūrvako na bhavati /",
+            " kintarhi? vicchinnasyāpi kriyāviśeṣasya pratibhāsa eva /",
+            " śaropalaprakṣepaṇayantranirmāṇaparapracālanādikriyāviśeṣapratibhāsināṃ vicchinnasyāpi pratibhāsasya spandanapūrvakatvāt /"
+        ],
+        "root_string": " kintarhi? vicchinnasyāpi kriyāviśeṣasya pratibhāsa eva /",
+        "par_string": "rnam par chad pa la / yang bya ba'i khyad par du snang ba kho na yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:23",
+        "par_pos_beg": 23,
+        "par_pos_end": 23,
+        "root_pos_beg": 23,
+        "root_pos_end": 23,
+        "par_offset_beg": 0,
+        "par_offset_end": 72,
+        "root_offset_beg": 57,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:24",
+            "T11bsa059_u:25",
+            "T11bsa059_u:26"
+        ],
+        "par_segnr": [
+            "T11D4219:356a-41",
+            "T11D4219:356a-42",
+            "T11D4219:356b-0",
+            "T11D4219:356b-1"
+        ],
+        "par_segtext": [
+            "mda' dang rdo 'phangs pa dang /",
+            "sgyogs dang sprul pa dang /",
+            "gzhan gyis rab tu bskyod pa la sogs @356b pa'i bya ba'i khyad par du snang ba can rnams /",
+            "yul chad par snang yang g-yo ba sngon du 'gro ba can yin pa'i phyir la /"
+        ],
+        "root_segtext": [
+            " kintarhi? vicchinnasyāpi kriyāviśeṣasya pratibhāsa eva /",
+            " śaropalaprakṣepaṇayantranirmāṇaparapracālanādikriyāviśeṣapratibhāsināṃ vicchinnasyāpi pratibhāsasya spandanapūrvakatvāt /",
+            " parakṛtacālanādināṃ cāvicchinnasyāpyatadpūrvakatvāt / [13-19]"
+        ],
+        "root_string": " śaropalaprakṣepaṇayantranirmāṇaparapracālanādikriyāviśeṣapratibhāsināṃ vicchinnasyāpi pratibhāsasya spandanapūrvakatvāt /",
+        "par_string": "mda' dang rdo 'phangs pa dang / sgyogs dang sprul pa dang / gzhan gyis rab tu bskyod pa la sogs @356b pa'i bya ba'i khyad par du snang ba can rnams / yul chad par snang yang g-yo ba sngon du 'gro ba can yin pa'i phyir la /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:24",
+        "par_pos_beg": 24,
+        "par_pos_end": 24,
+        "root_pos_beg": 24,
+        "root_pos_end": 24,
+        "par_offset_beg": 0,
+        "par_offset_end": 30,
+        "root_offset_beg": 122,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:25",
+            "T11bsa059_u:26",
+            "T11bsa059_u:27"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-2",
+            "T11D4219:356b-3",
+            "T11D4219:356b-4"
+        ],
+        "par_segtext": [
+            "gzhan gyis byas pa'i g-yo ba la sogs pa rnam",
+            "par ma chad pa yin yang de sngon du 'gro",
+            "ba can ma yin pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " śaropalaprakṣepaṇayantranirmāṇaparapracālanādikriyāviśeṣapratibhāsināṃ vicchinnasyāpi pratibhāsasya spandanapūrvakatvāt /",
+            " parakṛtacālanādināṃ cāvicchinnasyāpyatadpūrvakatvāt / [13-19]",
+            " tena hyatra kriyāviśeṣamātreṇa spandanasya pratītiritī yujyate /"
+        ],
+        "root_string": " parakṛtacālanādināṃ cāvicchinnasyāpyatadpūrvakatvāt / [13-19]",
+        "par_string": "gzhan gyis byas pa'i g-yo ba la sogs pa rnam par ma chad pa yin yang de sngon du 'gro ba can ma yin pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:25",
+        "par_pos_beg": 25,
+        "par_pos_end": 25,
+        "root_pos_beg": 25,
+        "root_pos_end": 25,
+        "par_offset_beg": 0,
+        "par_offset_end": 83,
+        "root_offset_beg": 62,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:26",
+            "T11bsa059_u:27",
+            "T11bsa059_u:28"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-5"
+        ],
+        "par_segtext": [
+            "de lta bas na 'dir bya ba'i khyad par tsam gyis g-yo pa rtogs pa yin par rigs so //"
+        ],
+        "root_segtext": [
+            " parakṛtacālanādināṃ cāvicchinnasyāpyatadpūrvakatvāt / [13-19]",
+            " tena hyatra kriyāviśeṣamātreṇa spandanasya pratītiritī yujyate /",
+            " tatra yadi kasyacidpūrvakatvam,"
+        ],
+        "root_string": " tena hyatra kriyāviśeṣamātreṇa spandanasya pratītiritī yujyate /",
+        "par_string": "de lta bas na 'dir bya ba'i khyad par tsam gyis g-yo pa rtogs pa yin par rigs so //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:26",
+        "par_pos_beg": 26,
+        "par_pos_end": 26,
+        "root_pos_beg": 26,
+        "root_pos_end": 26,
+        "par_offset_beg": 0,
+        "par_offset_end": 60,
+        "root_offset_beg": 65,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:27",
+            "T11bsa059_u:28",
+            "T11bsa059_u:29"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-6"
+        ],
+        "par_segtext": [
+            "de la 'ga' zhig sngon du 'gro ba can ma yin ba nyid yin na /"
+        ],
+        "root_segtext": [
+            " tena hyatra kriyāviśeṣamātreṇa spandanasya pratītiritī yujyate /",
+            " tatra yadi kasyacidpūrvakatvam,",
+            " na ko 'pi tatpūrvakaḥ syāt,"
+        ],
+        "root_string": " tatra yadi kasyacidpūrvakatvam,",
+        "par_string": "de la 'ga' zhig sngon du 'gro ba can ma yin ba nyid yin na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:27",
+        "par_pos_beg": 27,
+        "par_pos_end": 27,
+        "root_pos_beg": 27,
+        "root_pos_end": 27,
+        "par_offset_beg": 0,
+        "par_offset_end": 50,
+        "root_offset_beg": 32,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:28",
+            "T11bsa059_u:29",
+            "T11bsa059_u:30"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-7"
+        ],
+        "par_segtext": [
+            "'ga' yang de sngon du 'gro ba can du mi 'gyur te /"
+        ],
+        "root_segtext": [
+            " tatra yadi kasyacidpūrvakatvam,",
+            " na ko 'pi tatpūrvakaḥ syāt,",
+            " viśeṣābhāvāt /"
+        ],
+        "root_string": " na ko 'pi tatpūrvakaḥ syāt,",
+        "par_string": "'ga' yang de sngon du 'gro ba can du mi 'gyur te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:28",
+        "par_pos_beg": 28,
+        "par_pos_end": 28,
+        "root_pos_beg": 28,
+        "root_pos_end": 28,
+        "par_offset_beg": 0,
+        "par_offset_end": 30,
+        "root_offset_beg": 28,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:29",
+            "T11bsa059_u:30",
+            "T11bsa059_u:31"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-8"
+        ],
+        "par_segtext": [
+            "khyad par med pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " na ko 'pi tatpūrvakaḥ syāt,",
+            " viśeṣābhāvāt /",
+            " ataḥ kriyāviśeṣasāmānyaṃ spandanaviśeṣasāmānyasya gamakam /"
+        ],
+        "root_string": " viśeṣābhāvāt /",
+        "par_string": "khyad par med pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T11bsa059_u-skt-tib:29",
+        "par_pos_beg": 29,
+        "par_pos_end": 29,
+        "root_pos_beg": 29,
+        "root_pos_end": 29,
+        "par_offset_beg": 0,
+        "par_offset_end": 32,
+        "root_offset_beg": 15,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:30",
+            "T11bsa059_u:31",
+            "T11bsa059_u:32",
+            "T11bsa059_u:33",
+            "T11bsa059_u:34"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-9",
+            "T11D4219:356b-10",
+            "T11D4219:356b-11",
+            "T11D4219:356b-12"
+        ],
+        "par_segtext": [
+            "de lta bas na bya ba'i khyad par gyi spyi",
+            "ni g-yo ba'i spyi rtogs par byed pa yin no",
+            "// de la ji ltar bya ba dmigs la ba dag nyid la g-yo ba mi dmigs pa'i phyir /",
+            "gzhan la g-yo ba rtogs pa ltar /"
+        ],
+        "root_segtext": [
+            " viśeṣābhāvāt /",
+            " ataḥ kriyāviśeṣasāmānyaṃ spandanaviśeṣasāmānyasya gamakam /",
+            " tatra yathā kriyāmupalabhya,",
+            " ātmani spandanānupalambhādanyatra spandanapratītiḥ;",
+            " tathā kriyāpratibhāsopalambhane 'pi /"
+        ],
+        "root_string": " ataḥ kriyāviśeṣasāmānyaṃ spandanaviśeṣasāmānyasya gamakam / tatra yathā kriyāmupalabhya, ātmani spandanānupalambhādanyatra spandanapratītiḥ;",
+        "par_string": "de lta bas na bya ba'i khyad par gyi spyi ni g-yo ba'i spyi rtogs par byed pa yin no // de la ji ltar bya ba dmigs la ba dag nyid la g-yo ba mi dmigs pa'i phyir / gzhan la g-yo ba rtogs pa ltar /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:30",
+        "par_pos_beg": 30,
+        "par_pos_end": 30,
+        "root_pos_beg": 30,
+        "root_pos_end": 30,
+        "par_offset_beg": 0,
+        "par_offset_end": 51,
+        "root_offset_beg": 52,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:33",
+            "T11bsa059_u:34",
+            "T11bsa059_u:35"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-13"
+        ],
+        "par_segtext": [
+            "bya bar snang ba dmigs pa la yang de dang 'dra'o //"
+        ],
+        "root_segtext": [
+            " ātmani spandanānupalambhādanyatra spandanapratītiḥ;",
+            " tathā kriyāpratibhāsopalambhane 'pi /",
+            " samānametat;"
+        ],
+        "root_string": " tathā kriyāpratibhāsopalambhane 'pi /",
+        "par_string": "bya bar snang ba dmigs pa la yang de dang 'dra'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T11bsa059_u-skt-tib:31",
+        "par_pos_beg": 31,
+        "par_pos_end": 31,
+        "root_pos_beg": 31,
+        "root_pos_end": 31,
+        "par_offset_beg": 0,
+        "par_offset_end": 24,
+        "root_offset_beg": 38,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:34",
+            "T11bsa059_u:35",
+            "T11bsa059_u:36",
+            "T11bsa059_u:37"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-14",
+            "T11D4219:356b-15",
+            "T11D4219:356b-16"
+        ],
+        "par_segtext": [
+            "pha rol po yang gzhan gyi brjod pa dang bya",
+            "ba dag rgyu mtshan med par ci ste mi 'dod",
+            "de 'di ni mtshungs so //"
+        ],
+        "root_segtext": [
+            " tathā kriyāpratibhāsopalambhane 'pi /",
+            " samānametat;",
+            " paro 'pi parakriyābhilāpayornimittaṃ nāstīti kinnecchati?",
+            " tenāvaśyaṃ tau spandananimittakatvāt tadbhāve na bhavata iti vaktavyam /"
+        ],
+        "root_string": " samānametat; paro 'pi parakriyābhilāpayornimittaṃ nāstīti kinnecchati?",
+        "par_string": "pha rol po yang gzhan gyi brjod pa dang bya ba dag rgyu mtshan med par ci ste mi 'dod de 'di ni mtshungs so //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T11bsa059_u-skt-tib:32",
+        "par_pos_beg": 32,
+        "par_pos_end": 32,
+        "root_pos_beg": 32,
+        "root_pos_end": 32,
+        "par_offset_beg": 0,
+        "par_offset_end": 33,
+        "root_offset_beg": 58,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:36",
+            "T11bsa059_u:37",
+            "T11bsa059_u:38",
+            "T11bsa059_u:39",
+            "T11bsa059_u:40"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-17",
+            "T11D4219:356b-18",
+            "T11D4219:356b-19",
+            "T11D4219:356b-20",
+            "T11D4219:356b-21",
+            "T11D4219:356b-22"
+        ],
+        "par_segtext": [
+            "des na gdon mi za bar de gnyis ni g-yo",
+            "ba'i rgyu mtshan can yin pa'i phyir de med na",
+            "mi 'byung ngo zhes bya ba 'di brjod dgos so",
+            "// pha rol po yang der snang ba dag la",
+            "de dang 'dra par smra bar 'gyur bas 'di dag",
+            "ni phan tshun khyad par med do //"
+        ],
+        "root_segtext": [
+            " paro 'pi parakriyābhilāpayornimittaṃ nāstīti kinnecchati?",
+            " tenāvaśyaṃ tau spandananimittakatvāt tadbhāve na bhavata iti vaktavyam /",
+            " paro 'pi tayoḥ pratibhāsau tathaiva vadet /",
+            " ataḥ nānayoḥ parasparaṃ bhedaḥ / [20-26]",
+            " yadi tatra pratibhāsinyoḥ spandananimittakatvamucyate,"
+        ],
+        "root_string": " tenāvaśyaṃ tau spandananimittakatvāt tadbhāve na bhavata iti vaktavyam / paro 'pi tayoḥ pratibhāsau tathaiva vadet / ataḥ nānayoḥ parasparaṃ bhedaḥ / [20-26]",
+        "par_string": "des na gdon mi za bar de gnyis ni g-yo ba'i rgyu mtshan can yin pa'i phyir de med na mi 'byung ngo zhes bya ba 'di brjod dgos so // pha rol po yang der snang ba dag la de dang 'dra par smra bar 'gyur bas 'di dag ni phan tshun khyad par med do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T11bsa059_u-skt-tib:33",
+        "par_pos_beg": 33,
+        "par_pos_end": 33,
+        "root_pos_beg": 33,
+        "root_pos_end": 33,
+        "par_offset_beg": 0,
+        "par_offset_end": 75,
+        "root_offset_beg": 41,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:39",
+            "T11bsa059_u:40",
+            "T11bsa059_u:41"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-23"
+        ],
+        "par_segtext": [
+            "gal te der snang ba dag g-yo ba'i rgyu mtshan can nyid yin par smra ba na /"
+        ],
+        "root_segtext": [
+            " ataḥ nānayoḥ parasparaṃ bhedaḥ / [20-26]",
+            " yadi tatra pratibhāsinyoḥ spandananimittakatvamucyate,",
+            " svapnāvasthāyāmapi kinnocyate?"
+        ],
+        "root_string": " yadi tatra pratibhāsinyoḥ spandananimittakatvamucyate,",
+        "par_string": "gal te der snang ba dag g-yo ba'i rgyu mtshan can nyid yin par smra ba na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 72,
+        "id": "T11bsa059_u-skt-tib:34",
+        "par_pos_beg": 34,
+        "par_pos_end": 34,
+        "root_pos_beg": 34,
+        "root_pos_end": 34,
+        "par_offset_beg": 0,
+        "par_offset_end": 47,
+        "root_offset_beg": 55,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:40",
+            "T11bsa059_u:41",
+            "T11bsa059_u:42"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-24"
+        ],
+        "par_segtext": [
+            "rmi lam gyi la yang ci'i phyir mi smra zhe na /"
+        ],
+        "root_segtext": [
+            " yadi tatra pratibhāsinyoḥ spandananimittakatvamucyate,",
+            " svapnāvasthāyāmapi kinnocyate?",
+            " sarva samānam /"
+        ],
+        "root_string": " svapnāvasthāyāmapi kinnocyate?",
+        "par_string": "rmi lam gyi la yang ci'i phyir mi smra zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 73,
+        "id": "T11bsa059_u-skt-tib:35",
+        "par_pos_beg": 35,
+        "par_pos_end": 35,
+        "root_pos_beg": 35,
+        "root_pos_end": 35,
+        "par_offset_beg": 0,
+        "par_offset_end": 23,
+        "root_offset_beg": 31,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:41",
+            "T11bsa059_u:42",
+            "T11bsa059_u:43"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-25"
+        ],
+        "par_segtext": [
+            "thams cad mtshungs te /"
+        ],
+        "root_segtext": [
+            " svapnāvasthāyāmapi kinnocyate?",
+            " sarva samānam /",
+            " paro 'pi svapnopalabdhaparakriyābhilāpau spandananimittakāviti kinna vadati?"
+        ],
+        "root_string": " sarva samānam /",
+        "par_string": "thams cad mtshungs te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:36",
+        "par_pos_beg": 36,
+        "par_pos_end": 36,
+        "root_pos_beg": 36,
+        "root_pos_end": 36,
+        "par_offset_beg": 0,
+        "par_offset_end": 28,
+        "root_offset_beg": 16,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:42",
+            "T11bsa059_u:43",
+            "T11bsa059_u:44"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-26",
+            "T11D4219:356b-27",
+            "T11D4219:356b-28"
+        ],
+        "par_segtext": [
+            "pha rol po yang rmi lam na gzhan gyi bya",
+            "ba dang tshig dmigs pa dag g-yo ba'i rgyu mtshan",
+            "can yin par ci ste mi smra /"
+        ],
+        "root_segtext": [
+            " sarva samānam /",
+            " paro 'pi svapnopalabdhaparakriyābhilāpau spandananimittakāviti kinna vadati?",
+            " tayorabhāvāditi cet /"
+        ],
+        "root_string": " paro 'pi svapnopalabdhaparakriyābhilāpau spandananimittakāviti kinna vadati?",
+        "par_string": "pha rol po yang rmi lam na gzhan gyi bya ba dang tshig dmigs pa dag g-yo ba'i rgyu mtshan can yin par ci ste mi smra /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:37",
+        "par_pos_beg": 37,
+        "par_pos_end": 37,
+        "root_pos_beg": 37,
+        "root_pos_end": 37,
+        "par_offset_beg": 0,
+        "par_offset_end": 40,
+        "root_offset_beg": 77,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:43",
+            "T11bsa059_u:44",
+            "T11bsa059_u:45"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-29"
+        ],
+        "par_segtext": [
+            "gal te de dag med pa'i phyir ro zhe na /"
+        ],
+        "root_segtext": [
+            " paro 'pi svapnopalabdhaparakriyābhilāpau spandananimittakāviti kinna vadati?",
+            " tayorabhāvāditi cet /",
+            " tathopalabdhisāpyāt kinna staḥ?"
+        ],
+        "root_string": " tayorabhāvāditi cet /",
+        "par_string": "gal te de dag med pa'i phyir ro zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 63,
+        "id": "T11bsa059_u-skt-tib:38",
+        "par_pos_beg": 38,
+        "par_pos_end": 38,
+        "root_pos_beg": 38,
+        "root_pos_end": 38,
+        "par_offset_beg": 0,
+        "par_offset_end": 45,
+        "root_offset_beg": 22,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:44",
+            "T11bsa059_u:45",
+            "T11bsa059_u:46"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-30"
+        ],
+        "par_segtext": [
+            "de bzhin du dmigs pa mtshungs na ci ste med /"
+        ],
+        "root_segtext": [
+            " tayorabhāvāditi cet /",
+            " tathopalabdhisāpyāt kinna staḥ?",
+            " atha middhenopahatatvāt puruṣasya arthaśūnyaṃ vijñānaṃ jāyata iti cet /"
+        ],
+        "root_string": " tathopalabdhisāpyāt kinna staḥ?",
+        "par_string": "de bzhin du dmigs pa mtshungs na ci ste med /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:39",
+        "par_pos_beg": 39,
+        "par_pos_end": 39,
+        "root_pos_beg": 39,
+        "root_pos_end": 39,
+        "par_offset_beg": 0,
+        "par_offset_end": 56,
+        "root_offset_beg": 32,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:45",
+            "T11bsa059_u:46",
+            "T11bsa059_u:47"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-31",
+            "T11D4219:356b-32"
+        ],
+        "par_segtext": [
+            "gal te mi gnyid kyis zil gyis non pa'i phyir /",
+            "don gyis stong pa'i rnam par shes pa 'byung ngo zhe na /"
+        ],
+        "root_segtext": [
+            " tathopalabdhisāpyāt kinna staḥ?",
+            " atha middhenopahatatvāt puruṣasya arthaśūnyaṃ vijñānaṃ jāyata iti cet /",
+            " paramate 'pi tasmādeva parādhipatyaśūnyaṃ vijñānamupajāyate / [27-32]"
+        ],
+        "root_string": " atha middhenopahatatvāt puruṣasya arthaśūnyaṃ vijñānaṃ jāyata iti cet /",
+        "par_string": "gal te mi gnyid kyis zil gyis non pa'i phyir / don gyis stong pa'i rnam par shes pa 'byung ngo zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 73,
+        "id": "T11bsa059_u-skt-tib:40",
+        "par_pos_beg": 40,
+        "par_pos_end": 40,
+        "root_pos_beg": 40,
+        "root_pos_end": 40,
+        "par_offset_beg": 0,
+        "par_offset_end": 88,
+        "root_offset_beg": 72,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:46",
+            "T11bsa059_u:47",
+            "T11bsa059_u:48"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-33",
+            "T11D4219:356b-34"
+        ],
+        "par_segtext": [
+            "pha rol po'i ltar na yang /",
+            "de kho na'i phyir gzhan gyi dbang gis stong pa'i rnam par shes pa 'byung bar 'gyur ro //"
+        ],
+        "root_segtext": [
+            " atha middhenopahatatvāt puruṣasya arthaśūnyaṃ vijñānaṃ jāyata iti cet /",
+            " paramate 'pi tasmādeva parādhipatyaśūnyaṃ vijñānamupajāyate / [27-32]",
+            " atha svapne 'pi jñānasyārthavattvāttadopalabhyamānā api parasantānā eveti cet /"
+        ],
+        "root_string": " paramate 'pi tasmādeva parādhipatyaśūnyaṃ vijñānamupajāyate / [27-32]",
+        "par_string": "pha rol po'i ltar na yang / de kho na'i phyir gzhan gyi dbang gis stong pa'i rnam par shes pa 'byung bar 'gyur ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 79,
+        "id": "T11bsa059_u-skt-tib:41",
+        "par_pos_beg": 41,
+        "par_pos_end": 41,
+        "root_pos_beg": 41,
+        "root_pos_end": 41,
+        "par_offset_beg": 0,
+        "par_offset_end": 38,
+        "root_offset_beg": 70,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:47",
+            "T11bsa059_u:48",
+            "T11bsa059_u:49"
+        ],
+        "par_segnr": [
+            "T11D4219:356b-35",
+            "T11D4219:356b-36",
+            "T11D4219:356b-37",
+            "T11D4219:357a-0"
+        ],
+        "par_segtext": [
+            "gal te rmi lam na yang shes pa don dang ldan pa yin la /",
+            "de'i tshe dmigs pa rnams kyang rgyud gzhan nyid yin no zhe na /",
+            "gal te pha rol po la bsngo ba'i phyir /",
+            "lung dang rigs pa dang bral @357a * //"
+        ],
+        "root_segtext": [
+            " paramate 'pi tasmādeva parādhipatyaśūnyaṃ vijñānamupajāyate / [27-32]",
+            " atha svapne 'pi jñānasyārthavattvāttadopalabhyamānā api parasantānā eveti cet /",
+            " paraṃ prativigrahītuṃ yadi yuktyāgamarahitastathāvidho 'sad vādaḥ samāśriyeta,"
+        ],
+        "root_string": " atha svapne 'pi jñānasyārthavattvāttadopalabhyamānā api parasantānā eveti cet /",
+        "par_string": "gal te rmi lam na yang shes pa don dang ldan pa yin la / de'i tshe dmigs pa rnams kyang rgyud gzhan nyid yin no zhe na / gal te pha rol po la bsngo ba'i phyir / lung dang rigs pa dang bral @357a * //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 71,
+        "id": "T11bsa059_u-skt-tib:42",
+        "par_pos_beg": 42,
+        "par_pos_end": 42,
+        "root_pos_beg": 42,
+        "root_pos_end": 42,
+        "par_offset_beg": 0,
+        "par_offset_end": 70,
+        "root_offset_beg": 80,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:48",
+            "T11bsa059_u:49",
+            "T11bsa059_u:50"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-1"
+        ],
+        "par_segtext": [
+            "ba'i phyir rgol ba dam pa ma yin pa de lta bu la rten par byed na ni /"
+        ],
+        "root_segtext": [
+            " atha svapne 'pi jñānasyārthavattvāttadopalabhyamānā api parasantānā eveti cet /",
+            " paraṃ prativigrahītuṃ yadi yuktyāgamarahitastathāvidho 'sad vādaḥ samāśriyeta,",
+            " tadā parābhimataṃ tasya parāyattatvaṃ na ko 'pi nivārayet /"
+        ],
+        "root_string": " paraṃ prativigrahītuṃ yadi yuktyāgamarahitastathāvidho 'sad vādaḥ samāśriyeta,",
+        "par_string": "ba'i phyir rgol ba dam pa ma yin pa de lta bu la rten par byed na ni /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T11bsa059_u-skt-tib:43",
+        "par_pos_beg": 43,
+        "par_pos_end": 43,
+        "root_pos_beg": 43,
+        "root_pos_end": 43,
+        "par_offset_beg": 0,
+        "par_offset_end": 15,
+        "root_offset_beg": 79,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:49",
+            "T11bsa059_u:50",
+            "T11bsa059_u:51",
+            "T11bsa059_u:52"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-2",
+            "T11D4219:357a-3",
+            "T11D4219:357a-4",
+            "T11D4219:357a-5",
+            "T11D4219:357a-6"
+        ],
+        "par_segtext": [
+            "pha rol po yang de gzhan gyi dbang can du",
+            "'dod pa la su yang zlog par mi byed do",
+            "// 'di 'ba' zhig gi ltar na de lta bu'i",
+            "shes pa thams cad rgyud gzhan dbang can yod ba",
+            "kho na yin te /"
+        ],
+        "root_segtext": [
+            " paraṃ prativigrahītuṃ yadi yuktyāgamarahitastathāvidho 'sad vādaḥ samāśriyeta,",
+            " tadā parābhimataṃ tasya parāyattatvaṃ na ko 'pi nivārayet /",
+            " etatkeṣañcinmata eva sarvāṇi tathāvidhāni jñānāni santānāntarāyattāni /",
+            " viṣeṣastu sākṣātparamparayā ca /"
+        ],
+        "root_string": " tadā parābhimataṃ tasya parāyattatvaṃ na ko 'pi nivārayet / etatkeṣañcinmata eva sarvāṇi tathāvidhāni jñānāni santānāntarāyattāni /",
+        "par_string": "pha rol po yang de gzhan gyi dbang can du 'dod pa la su yang zlog par mi byed do // 'di 'ba' zhig gi ltar na de lta bu'i shes pa thams cad rgyud gzhan dbang can yod ba kho na yin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "T11bsa059_u-skt-tib:44",
+        "par_pos_beg": 44,
+        "par_pos_end": 44,
+        "root_pos_beg": 44,
+        "root_pos_end": 44,
+        "par_offset_beg": 0,
+        "par_offset_end": 51,
+        "root_offset_beg": 72,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:51",
+            "T11bsa059_u:52",
+            "T11bsa059_u:53"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-7"
+        ],
+        "par_segtext": [
+            "khyad par ni mngon sum dang brgyud pa 'di yod do //"
+        ],
+        "root_segtext": [
+            " etatkeṣañcinmata eva sarvāṇi tathāvidhāni jñānāni santānāntarāyattāni /",
+            " viṣeṣastu sākṣātparamparayā ca /",
+            " kadācit svapne 'pi tasya sākṣāt santānāntarayattā iṣṭaiva;"
+        ],
+        "root_string": " viṣeṣastu sākṣātparamparayā ca /",
+        "par_string": "khyad par ni mngon sum dang brgyud pa 'di yod do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T11bsa059_u-skt-tib:45",
+        "par_pos_beg": 45,
+        "par_pos_end": 45,
+        "root_pos_beg": 45,
+        "root_pos_end": 45,
+        "par_offset_beg": 0,
+        "par_offset_end": 13,
+        "root_offset_beg": 33,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:52",
+            "T11bsa059_u:53",
+            "T11bsa059_u:54"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-8",
+            "T11D4219:357a-9",
+            "T11D4219:357a-10"
+        ],
+        "par_segtext": [
+            "res 'ga' ni rmi lam na yang yod pa mngon",
+            "sum de rgyud gzhan gyi dbang can du 'dod pa",
+            "kho na ste / lha la sogs pa'i byin gyi rlabs kyis rmi lam mthong ba'i phyir ro //"
+        ],
+        "root_segtext": [
+            " viṣeṣastu sākṣātparamparayā ca /",
+            " kadācit svapne 'pi tasya sākṣāt santānāntarayattā iṣṭaiva;",
+            " devādyadhiṣṭhānataḥ satyasvapnadarśanāt /"
+        ],
+        "root_string": " kadācit svapne 'pi tasya sākṣāt santānāntarayattā iṣṭaiva;",
+        "par_string": "res 'ga' ni rmi lam na yang yod pa mngon sum de rgyud gzhan gyi dbang can du 'dod pa kho na ste / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:46",
+        "par_pos_beg": 46,
+        "par_pos_end": 46,
+        "root_pos_beg": 46,
+        "root_pos_end": 46,
+        "par_offset_beg": 13,
+        "par_offset_end": 81,
+        "root_offset_beg": 59,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:53",
+            "T11bsa059_u:54",
+            "T11bsa059_u:55"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-10"
+        ],
+        "par_segtext": [
+            "kho na ste / lha la sogs pa'i byin gyi rlabs kyis rmi lam mthong ba'i phyir ro //"
+        ],
+        "root_segtext": [
+            " kadācit svapne 'pi tasya sākṣāt santānāntarayattā iṣṭaiva;",
+            " devādyadhiṣṭhānataḥ satyasvapnadarśanāt /",
+            " tasmādasya naitadasadvādasamāśrayaḥ / [33-38]"
+        ],
+        "root_string": " devādyadhiṣṭhānataḥ satyasvapnadarśanāt /",
+        "par_string": "lha la sogs pa'i byin gyi rlabs kyis rmi lam mthong ba'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 85,
+        "id": "T11bsa059_u-skt-tib:47",
+        "par_pos_beg": 47,
+        "par_pos_end": 47,
+        "root_pos_beg": 47,
+        "root_pos_end": 47,
+        "par_offset_beg": 0,
+        "par_offset_end": 72,
+        "root_offset_beg": 42,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:54",
+            "T11bsa059_u:55",
+            "T11bsa059_u:56"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-11"
+        ],
+        "par_segtext": [
+            "de bas na 'di'i 'di ni rgol ba dam pa ma yin pa la brten pa ma yin no //"
+        ],
+        "root_segtext": [
+            " devādyadhiṣṭhānataḥ satyasvapnadarśanāt /",
+            " tasmādasya naitadasadvādasamāśrayaḥ / [33-38]",
+            " tāvattayā kriyayāpi taccittaṃ kathaṃ jñāyate?"
+        ],
+        "root_string": " tasmādasya naitadasadvādasamāśrayaḥ / [33-38]",
+        "par_string": "de bas na 'di'i 'di ni rgol ba dam pa ma yin pa la brten pa ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T11bsa059_u-skt-tib:48",
+        "par_pos_beg": 48,
+        "par_pos_end": 48,
+        "root_pos_beg": 48,
+        "root_pos_end": 48,
+        "par_offset_beg": 0,
+        "par_offset_end": 65,
+        "root_offset_beg": 46,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:55",
+            "T11bsa059_u:56",
+            "T11bsa059_u:57"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-12"
+        ],
+        "par_segtext": [
+            "re zhig bya ba de nyid kyis kyang sems de ci ste rtogs par byed /"
+        ],
+        "root_segtext": [
+            " tasmādasya naitadasadvādasamāśrayaḥ / [33-38]",
+            " tāvattayā kriyayāpi taccittaṃ kathaṃ jñāyate?",
+            " cittasya kāryatvāt /"
+        ],
+        "root_string": " tāvattayā kriyayāpi taccittaṃ kathaṃ jñāyate?",
+        "par_string": "re zhig bya ba de nyid kyis kyang sems de ci ste rtogs par byed /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 69,
+        "id": "T11bsa059_u-skt-tib:49",
+        "par_pos_beg": 49,
+        "par_pos_end": 49,
+        "root_pos_beg": 49,
+        "root_pos_end": 49,
+        "par_offset_beg": 0,
+        "par_offset_end": 38,
+        "root_offset_beg": 46,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:56",
+            "T11bsa059_u:57",
+            "T11bsa059_u:58"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-13"
+        ],
+        "par_segtext": [
+            "sems kyi 'bras bu yin pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " tāvattayā kriyayāpi taccittaṃ kathaṃ jñāyate?",
+            " cittasya kāryatvāt /",
+            " tasya kāryatvaṃ tu cittāntare 'pi tulyamiti kathanna jñāyate?"
+        ],
+        "root_string": " cittasya kāryatvāt /",
+        "par_string": "sems kyi 'bras bu yin pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:50",
+        "par_pos_beg": 50,
+        "par_pos_end": 50,
+        "root_pos_beg": 50,
+        "root_pos_end": 50,
+        "par_offset_beg": 0,
+        "par_offset_end": 78,
+        "root_offset_beg": 21,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:57",
+            "T11bsa059_u:58",
+            "T11bsa059_u:59"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-14"
+        ],
+        "par_segtext": [
+            "de'i 'bras bu yin pa ni sems gzhan la yang 'dra bas ci ste rtogs par mi byed /"
+        ],
+        "root_segtext": [
+            " cittasya kāryatvāt /",
+            " tasya kāryatvaṃ tu cittāntare 'pi tulyamiti kathanna jñāyate?",
+            " api ca, yadi tatkriyā svasattāmātreṇa svasantānaṃ pratyāyet,"
+        ],
+        "root_string": " tasya kāryatvaṃ tu cittāntare 'pi tulyamiti kathanna jñāyate?",
+        "par_string": "de'i 'bras bu yin pa ni sems gzhan la yang 'dra bas ci ste rtogs par mi byed /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:51",
+        "par_pos_beg": 51,
+        "par_pos_end": 51,
+        "root_pos_beg": 51,
+        "root_pos_end": 51,
+        "par_offset_beg": 0,
+        "par_offset_end": 52,
+        "root_offset_beg": 62,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:58",
+            "T11bsa059_u:59",
+            "T11bsa059_u:60",
+            "T11bsa059_u:61"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-15",
+            "T11D4219:357a-16",
+            "T11D4219:357a-17"
+        ],
+        "par_segtext": [
+            "gzhan yang gal te bya ba de rang yod pa",
+            "tsam gyis rang gi rgyud rtogs par byed na ni",
+            "/ mi dmigs pas kyang de lta bu rtogs par 'gyur ro //"
+        ],
+        "root_segtext": [
+            " tasya kāryatvaṃ tu cittāntare 'pi tulyamiti kathanna jñāyate?",
+            " api ca, yadi tatkriyā svasattāmātreṇa svasantānaṃ pratyāyet,",
+            " tadānupalabhyamānenāpi syāttathā pratipattiḥ /",
+            " na; jñānāpekṣatvālliṅgasya iti cet /"
+        ],
+        "root_string": " api ca, yadi tatkriyā svasattāmātreṇa svasantānaṃ pratyāyet, tadānupalabhyamānenāpi syāttathā pratipattiḥ /",
+        "par_string": "gzhan yang gal te bya ba de rang yod pa tsam gyis rang gi rgyud rtogs par byed na ni / mi dmigs pas kyang de lta bu rtogs par 'gyur ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 94,
+        "id": "T11bsa059_u-skt-tib:52",
+        "par_pos_beg": 52,
+        "par_pos_end": 52,
+        "root_pos_beg": 52,
+        "root_pos_end": 52,
+        "par_offset_beg": 0,
+        "par_offset_end": 63,
+        "root_offset_beg": 47,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:60",
+            "T11bsa059_u:61",
+            "T11bsa059_u:62"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-18"
+        ],
+        "par_segtext": [
+            "gal te rtags ni shes pa la ltos pa'i phyir mi 'gyur ro zhe na /"
+        ],
+        "root_segtext": [
+            " tadānupalabhyamānenāpi syāttathā pratipattiḥ /",
+            " na; jñānāpekṣatvālliṅgasya iti cet /",
+            " tada tatra kimanayā paramparayā - paracittāt kriyā,"
+        ],
+        "root_string": " na; jñānāpekṣatvālliṅgasya iti cet /",
+        "par_string": "gal te rtags ni shes pa la ltos pa'i phyir mi 'gyur ro zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 81,
+        "id": "T11bsa059_u-skt-tib:53",
+        "par_pos_beg": 53,
+        "par_pos_end": 53,
+        "root_pos_beg": 53,
+        "root_pos_end": 53,
+        "par_offset_beg": 0,
+        "par_offset_end": 49,
+        "root_offset_beg": 37,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:61",
+            "T11bsa059_u:62",
+            "T11bsa059_u:63"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-19"
+        ],
+        "par_segtext": [
+            "de la de'i tshe gzhan gyi sems las ni bya ba'o //"
+        ],
+        "root_segtext": [
+            " na; jñānāpekṣatvālliṅgasya iti cet /",
+            " tada tatra kimanayā paramparayā - paracittāt kriyā,",
+            " kriyātaḥ jñānam,"
+        ],
+        "root_string": " tada tatra kimanayā paramparayā - paracittāt kriyā,",
+        "par_string": "de la de'i tshe gzhan gyi sems las ni bya ba'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:54",
+        "par_pos_beg": 54,
+        "par_pos_end": 54,
+        "root_pos_beg": 54,
+        "root_pos_end": 54,
+        "par_offset_beg": 0,
+        "par_offset_end": 26,
+        "root_offset_beg": 52,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:62",
+            "T11bsa059_u:63",
+            "T11bsa059_u:64"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-20"
+        ],
+        "par_segtext": [
+            "bya ba las ni shes pa'o //"
+        ],
+        "root_segtext": [
+            " tada tatra kimanayā paramparayā - paracittāt kriyā,",
+            " kriyātaḥ jñānam,",
+            " jñānāt tasya pratipattiriti / [39-44]"
+        ],
+        "root_string": " kriyātaḥ jñānam,",
+        "par_string": "bya ba las ni shes pa'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 74,
+        "id": "T11bsa059_u-skt-tib:55",
+        "par_pos_beg": 55,
+        "par_pos_end": 55,
+        "root_pos_beg": 55,
+        "root_pos_end": 55,
+        "par_offset_beg": 0,
+        "par_offset_end": 69,
+        "root_offset_beg": 17,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:63",
+            "T11bsa059_u:64",
+            "T11bsa059_u:65"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-21"
+        ],
+        "par_segtext": [
+            "shes pa las ni de rtogs pa'o zhes bya ba brgyud pa 'dis ci zhig bya /"
+        ],
+        "root_segtext": [
+            " kriyātaḥ jñānam,",
+            " jñānāt tasya pratipattiriti / [39-44]",
+            " paracittaprabhavadharmi kriyāpratibhāsijñānamevāsya gamakaṃ bhavati /"
+        ],
+        "root_string": " jñānāt tasya pratipattiriti / [39-44]",
+        "par_string": "shes pa las ni de rtogs pa'o zhes bya ba brgyud pa 'dis ci zhig bya /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:56",
+        "par_pos_beg": 56,
+        "par_pos_end": 56,
+        "root_pos_beg": 56,
+        "root_pos_end": 56,
+        "par_offset_beg": 0,
+        "par_offset_end": 36,
+        "root_offset_beg": 38,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:64",
+            "T11bsa059_u:65",
+            "T11bsa059_u:66"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-22",
+            "T11D4219:357a-23",
+            "T11D4219:357a-24"
+        ],
+        "par_segtext": [
+            "bya bar snang ba gzhan gyi sems las rab tu",
+            "skye ba'i chos can gyi shes pa kho na 'di",
+            "rtogs par byed pa yin par 'gyur te /"
+        ],
+        "root_segtext": [
+            " jñānāt tasya pratipattiriti / [39-44]",
+            " paracittaprabhavadharmi kriyāpratibhāsijñānamevāsya gamakaṃ bhavati /",
+            " tasyādhigatistu antaśaḥ tadāśritatvāt /"
+        ],
+        "root_string": " paracittaprabhavadharmi kriyāpratibhāsijñānamevāsya gamakaṃ bhavati /",
+        "par_string": "bya bar snang ba gzhan gyi sems las rab tu skye ba'i chos can gyi shes pa kho na 'di rtogs par byed pa yin par 'gyur te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:57",
+        "par_pos_beg": 57,
+        "par_pos_end": 57,
+        "root_pos_beg": 57,
+        "root_pos_end": 57,
+        "par_offset_beg": 0,
+        "par_offset_end": 56,
+        "root_offset_beg": 70,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:65",
+            "T11bsa059_u:66",
+            "T11bsa059_u:67"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-25"
+        ],
+        "par_segtext": [
+            "de rtogs pa ni tha mar yang de la brten pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " paracittaprabhavadharmi kriyāpratibhāsijñānamevāsya gamakaṃ bhavati /",
+            " tasyādhigatistu antaśaḥ tadāśritatvāt /",
+            " spandanamātrasāmānyaṃ kriyābhilāpajñānasāmānyasya kāraṇatvāt kāryeṇa kāraṇasya gatiḥ /"
+        ],
+        "root_string": " tasyādhigatistu antaśaḥ tadāśritatvāt /",
+        "par_string": "de rtogs pa ni tha mar yang de la brten pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:58",
+        "par_pos_beg": 58,
+        "par_pos_end": 58,
+        "root_pos_beg": 58,
+        "root_pos_end": 58,
+        "par_offset_beg": 0,
+        "par_offset_end": 18,
+        "root_offset_beg": 40,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:66",
+            "T11bsa059_u:67",
+            "T11bsa059_u:68"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-26",
+            "T11D4219:357a-27",
+            "T11D4219:357a-28"
+        ],
+        "par_segtext": [
+            "g-yo ba tsam gyis spyi ni bya ba dang brjod",
+            "pa'i shes pa spyi'i rgyu yin pas 'bras bu'i rgyu",
+            "rtogs pa yin no //"
+        ],
+        "root_segtext": [
+            " tasyādhigatistu antaśaḥ tadāśritatvāt /",
+            " spandanamātrasāmānyaṃ kriyābhilāpajñānasāmānyasya kāraṇatvāt kāryeṇa kāraṇasya gatiḥ /",
+            " tatra ātmaspandananimittakasyāntarmukhavṛttiḥ,"
+        ],
+        "root_string": " spandanamātrasāmānyaṃ kriyābhilāpajñānasāmānyasya kāraṇatvāt kāryeṇa kāraṇasya gatiḥ /",
+        "par_string": "g-yo ba tsam gyis spyi ni bya ba dang brjod pa'i shes pa spyi'i rgyu yin pas 'bras bu'i rgyu rtogs pa yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:59",
+        "par_pos_beg": 59,
+        "par_pos_end": 59,
+        "root_pos_beg": 59,
+        "root_pos_end": 59,
+        "par_offset_beg": 0,
+        "par_offset_end": 80,
+        "root_offset_beg": 87,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:67",
+            "T11bsa059_u:68",
+            "T11bsa059_u:69"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-29"
+        ],
+        "par_segtext": [
+            "de la bdag nyid kyi g-yo ba'i rgyu mtshan can ni kha nang du bltas par 'jug la /"
+        ],
+        "root_segtext": [
+            " spandanamātrasāmānyaṃ kriyābhilāpajñānasāmānyasya kāraṇatvāt kāryeṇa kāraṇasya gatiḥ /",
+            " tatra ātmaspandananimittakasyāntarmukhavṛttiḥ,",
+            " anyasyānyathā /"
+        ],
+        "root_string": " tatra ātmaspandananimittakasyāntarmukhavṛttiḥ,",
+        "par_string": "de la bdag nyid kyi g-yo ba'i rgyu mtshan can ni kha nang du bltas par 'jug la /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:60",
+        "par_pos_beg": 60,
+        "par_pos_end": 60,
+        "root_pos_beg": 60,
+        "root_pos_end": 60,
+        "par_offset_beg": 0,
+        "par_offset_end": 26,
+        "root_offset_beg": 47,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:68",
+            "T11bsa059_u:69",
+            "T11bsa059_u:70"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-30"
+        ],
+        "par_segtext": [
+            "gzhan ni gzhan du yin te /"
+        ],
+        "root_segtext": [
+            " tatra ātmaspandananimittakasyāntarmukhavṛttiḥ,",
+            " anyasyānyathā /",
+            " prāyeṇādhikṛtyāsau bhedaḥ /"
+        ],
+        "root_string": " anyasyānyathā /",
+        "par_string": "gzhan ni gzhan du yin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T11bsa059_u-skt-tib:61",
+        "par_pos_beg": 61,
+        "par_pos_end": 61,
+        "root_pos_beg": 61,
+        "root_pos_end": 61,
+        "par_offset_beg": 0,
+        "par_offset_end": 57,
+        "root_offset_beg": 16,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:69",
+            "T11bsa059_u:70",
+            "T11bsa059_u:71"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-31"
+        ],
+        "par_segtext": [
+            "khyad par 'di ni phal che ba'i dbang du byas pa yin no //"
+        ],
+        "root_segtext": [
+            " anyasyānyathā /",
+            " prāyeṇādhikṛtyāsau bhedaḥ /",
+            " etayoḥ saḥ kāryakāraṇabhāvaḥ svāpādyavasthāyāmitarasyāmapi ca samānaḥ /"
+        ],
+        "root_string": " prāyeṇādhikṛtyāsau bhedaḥ /",
+        "par_string": "khyad par 'di ni phal che ba'i dbang du byas pa yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:62",
+        "par_pos_beg": 62,
+        "par_pos_end": 62,
+        "root_pos_beg": 62,
+        "root_pos_end": 62,
+        "par_offset_beg": 0,
+        "par_offset_end": 28,
+        "root_offset_beg": 28,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:70",
+            "T11bsa059_u:71",
+            "T11bsa059_u:72"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-32",
+            "T11D4219:357a-33",
+            "T11D4219:357a-34"
+        ],
+        "par_segtext": [
+            "'di dag gi rgyu dang 'bras bu'i ngo bo de",
+            "ni gnyid log pa la sogs pa'i gnas skabs dang",
+            "gzhan na yang mtshungs so //"
+        ],
+        "root_segtext": [
+            " prāyeṇādhikṛtyāsau bhedaḥ /",
+            " etayoḥ saḥ kāryakāraṇabhāvaḥ svāpādyavasthāyāmitarasyāmapi ca samānaḥ /",
+            " bhrāntyavasthāyāṃ yathāsvaṃ pratyayaviśeṣopāśrayāt paraspandanadinimittodbhūtavijñānavāsanaiva kadācitparābhogādeḥ vyavahitādapi vṛttiṃ labhate:"
+        ],
+        "root_string": " etayoḥ saḥ kāryakāraṇabhāvaḥ svāpādyavasthāyāmitarasyāmapi ca samānaḥ /",
+        "par_string": "'di dag gi rgyu dang 'bras bu'i ngo bo de ni gnyid log pa la sogs pa'i gnas skabs dang gzhan na yang mtshungs so //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 80,
+        "id": "T11bsa059_u-skt-tib:63",
+        "par_pos_beg": 63,
+        "par_pos_end": 63,
+        "root_pos_beg": 63,
+        "root_pos_end": 63,
+        "par_offset_beg": 0,
+        "par_offset_end": 35,
+        "root_offset_beg": 72,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:71",
+            "T11bsa059_u:72",
+            "T11bsa059_u:73"
+        ],
+        "par_segnr": [
+            "T11D4219:357a-35",
+            "T11D4219:357a-36",
+            "T11D4219:357b-0",
+            "T11D4219:357b-1",
+            "T11D4219:357b-2",
+            "T11D4219:357b-3",
+            "T11D4219:357b-4"
+        ],
+        "par_segtext": [
+            "'khrul pa'i gnas skabs na ni bdag nyid ji lta",
+            "ba bzhin gyi rkyen gyi khyad par la nye bar",
+            "brten pa'i phyir gzhan gyi @357b g-yo ba la sogs",
+            "pa'i rgyu mtshan gyis 'byung ba'i rnam par shes pa'i",
+            "bag chags de dag kho na res 'ga' gzhan gyis",
+            "nye bar sbyar ba la sogs pas bar du chod",
+            "kyang 'jug pa rnyed par 'gyur gyi /"
+        ],
+        "root_segtext": [
+            " etayoḥ saḥ kāryakāraṇabhāvaḥ svāpādyavasthāyāmitarasyāmapi ca samānaḥ /",
+            " bhrāntyavasthāyāṃ yathāsvaṃ pratyayaviśeṣopāśrayāt paraspandanadinimittodbhūtavijñānavāsanaiva kadācitparābhogādeḥ vyavahitādapi vṛttiṃ labhate:",
+            " na tvatyantāsadābhogāt /"
+        ],
+        "root_string": " bhrāntyavasthāyāṃ yathāsvaṃ pratyayaviśeṣopāśrayāt paraspandanadinimittodbhūtavijñānavāsanaiva kadācitparābhogādeḥ vyavahitādapi vṛttiṃ labhate:",
+        "par_string": "'khrul pa'i gnas skabs na ni bdag nyid ji lta ba bzhin gyi rkyen gyi khyad par la nye bar brten pa'i phyir gzhan gyi @357b g-yo ba la sogs pa'i rgyu mtshan gyis 'byung ba'i rnam par shes pa'i bag chags de dag kho na res 'ga' gzhan gyis nye bar sbyar ba la sogs pas bar du chod kyang 'jug pa rnyed par 'gyur gyi /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 80,
+        "id": "T11bsa059_u-skt-tib:64",
+        "par_pos_beg": 64,
+        "par_pos_end": 64,
+        "root_pos_beg": 64,
+        "root_pos_end": 64,
+        "par_offset_beg": 0,
+        "par_offset_end": 44,
+        "root_offset_beg": 145,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:72",
+            "T11bsa059_u:73",
+            "T11bsa059_u:74"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-5"
+        ],
+        "par_segtext": [
+            "nye bar sbyor ba gtan med pa ni ma yin no //"
+        ],
+        "root_segtext": [
+            " bhrāntyavasthāyāṃ yathāsvaṃ pratyayaviśeṣopāśrayāt paraspandanadinimittodbhūtavijñānavāsanaiva kadācitparābhogādeḥ vyavahitādapi vṛttiṃ labhate:",
+            " na tvatyantāsadābhogāt /",
+            " tasmāt sarvāvasthāsu kriyādivijñapteḥ cittaspandanamanumīyata eva / [45-51]"
+        ],
+        "root_string": " na tvatyantāsadābhogāt /",
+        "par_string": "nye bar sbyor ba gtan med pa ni ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:65",
+        "par_pos_beg": 65,
+        "par_pos_end": 65,
+        "root_pos_beg": 65,
+        "root_pos_end": 65,
+        "par_offset_beg": 0,
+        "par_offset_end": 33,
+        "root_offset_beg": 25,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:73",
+            "T11bsa059_u:74",
+            "T11bsa059_u:75",
+            "T11bsa059_u:76"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-6",
+            "T11D4219:357b-7",
+            "T11D4219:357b-8",
+            "T11D4219:357b-9",
+            "T11D4219:357b-10",
+            "T11D4219:357b-11",
+            "T11D4219:357b-12"
+        ],
+        "par_segtext": [
+            "de'i phyir na gnas skabs thams cad du bya ba",
+            "la sogs pa'i rnam par rig byed kyis sems kyi",
+            "g-yo ba rjes su dpag par bya ba kho na",
+            "yin no // bya bas g-yo ba rtogs na ni /",
+            "gnyid log pa dang /",
+            "gzhan na rtogs par 'gyur ro //",
+            "yang na ni nam yang mi 'gyur te /"
+        ],
+        "root_segtext": [
+            " na tvatyantāsadābhogāt /",
+            " tasmāt sarvāvasthāsu kriyādivijñapteḥ cittaspandanamanumīyata eva / [45-51]",
+            " kriyātaḥ spandanapratipattau svāpa itarasmiñca syātpratipattiratha vā naiva kadācana /",
+            " paraspandanabhāve 'pi kriyālambanodayāt /"
+        ],
+        "root_string": " tasmāt sarvāvasthāsu kriyādivijñapteḥ cittaspandanamanumīyata eva / [45-51] kriyātaḥ spandanapratipattau svāpa itarasmiñca syātpratipattiratha vā naiva kadācana /",
+        "par_string": "de'i phyir na gnas skabs thams cad du bya ba la sogs pa'i rnam par rig byed kyis sems kyi g-yo ba rjes su dpag par bya ba kho na yin no // bya bas g-yo ba rtogs na ni / gnyid log pa dang / gzhan na rtogs par 'gyur ro // yang na ni nam yang mi 'gyur te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:66",
+        "par_pos_beg": 66,
+        "par_pos_end": 66,
+        "root_pos_beg": 66,
+        "root_pos_end": 66,
+        "par_offset_beg": 0,
+        "par_offset_end": 70,
+        "root_offset_beg": 87,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:75",
+            "T11bsa059_u:76",
+            "T11bsa059_u:77"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-13"
+        ],
+        "par_segtext": [
+            "gzhan gyi g-yo ba med par yang bya ba dmigs pa 'byung ba'i phyir ro //"
+        ],
+        "root_segtext": [
+            " kriyātaḥ spandanapratipattau svāpa itarasmiñca syātpratipattiratha vā naiva kadācana /",
+            " paraspandanabhāve 'pi kriyālambanodayāt /",
+            " bhavatvālambanodayaḥ, na tu kriyā /"
+        ],
+        "root_string": " paraspandanabhāve 'pi kriyālambanodayāt /",
+        "par_string": "gzhan gyi g-yo ba med par yang bya ba dmigs pa 'byung ba'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T11bsa059_u-skt-tib:67",
+        "par_pos_beg": 67,
+        "par_pos_end": 67,
+        "root_pos_beg": 67,
+        "root_pos_end": 67,
+        "par_offset_beg": 0,
+        "par_offset_end": 52,
+        "root_offset_beg": 42,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:76",
+            "T11bsa059_u:77",
+            "T11bsa059_u:78"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-14"
+        ],
+        "par_segtext": [
+            "dmigs pa 'byung bar 'gyur gyi bya ba ni ma yin no //"
+        ],
+        "root_segtext": [
+            " paraspandanabhāve 'pi kriyālambanodayāt /",
+            " bhavatvālambanodayaḥ, na tu kriyā /",
+            " kriyayā spandanaṃ gamyate /"
+        ],
+        "root_string": " bhavatvālambanodayaḥ, na tu kriyā /",
+        "par_string": "dmigs pa 'byung bar 'gyur gyi bya ba ni ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:68",
+        "par_pos_beg": 68,
+        "par_pos_end": 68,
+        "root_pos_beg": 68,
+        "root_pos_end": 68,
+        "par_offset_beg": 0,
+        "par_offset_end": 66,
+        "root_offset_beg": 36,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:77",
+            "T11bsa059_u:78",
+            "T11bsa059_u:79",
+            "T11bsa059_u:80",
+            "T11bsa059_u:81"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-15",
+            "T11D4219:357b-16",
+            "T11D4219:357b-17"
+        ],
+        "par_segtext": [
+            "bya bas ni g-yo ba rtogs par byed na 'khrul",
+            "ba'i gnas skabs na ni bya ba yang med do",
+            "// don gyis stong pa'i shes pa 'byung ba'i phyir nyes pa med do //"
+        ],
+        "root_segtext": [
+            " bhavatvālambanodayaḥ, na tu kriyā /",
+            " kriyayā spandanaṃ gamyate /",
+            " bhrāntyavasthānāṃ kriyaiva na bhavati,",
+            " arthaśūnyajñānodayānna doṣaḥ /",
+            " sarvaprakāravyapadeśasāmyāt kadācijjñānamarthaśūnyam,"
+        ],
+        "root_string": " kriyayā spandanaṃ gamyate / bhrāntyavasthānāṃ kriyaiva na bhavati, arthaśūnyajñānodayānna doṣaḥ /",
+        "par_string": "bya bas ni g-yo ba rtogs par byed na 'khrul ba'i gnas skabs na ni bya ba yang med do // don gyis stong pa'i shes pa 'byung ba'i phyir nyes pa med do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T11bsa059_u-skt-tib:69",
+        "par_pos_beg": 69,
+        "par_pos_end": 69,
+        "root_pos_beg": 69,
+        "root_pos_end": 69,
+        "par_offset_beg": 0,
+        "par_offset_end": 7,
+        "root_offset_beg": 31,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:80",
+            "T11bsa059_u:81",
+            "T11bsa059_u:82"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-18",
+            "T11D4219:357b-19",
+            "T11D4219:357b-20"
+        ],
+        "par_segtext": [
+            "rnam pa thams cad du tha snyad gdags pa mtshungs",
+            "pa las res 'ga' ni shes pa don gyis stong",
+            "ngo // gzhan ni gzhan du yin no zhes bya ba'i dbang 'di ga las thob /"
+        ],
+        "root_segtext": [
+            " arthaśūnyajñānodayānna doṣaḥ /",
+            " sarvaprakāravyapadeśasāmyāt kadācijjñānamarthaśūnyam,",
+            " anyadānyathā ityeṣo 'dhikāraḥ kuto labdhaḥ?"
+        ],
+        "root_string": " sarvaprakāravyapadeśasāmyāt kadācijjñānamarthaśūnyam,",
+        "par_string": "rnam pa thams cad du tha snyad gdags pa mtshungs pa las res 'ga' ni shes pa don gyis stong ngo // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 77,
+        "id": "T11bsa059_u-skt-tib:70",
+        "par_pos_beg": 70,
+        "par_pos_end": 70,
+        "root_pos_beg": 70,
+        "root_pos_end": 70,
+        "par_offset_beg": 6,
+        "par_offset_end": 69,
+        "root_offset_beg": 54,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:81",
+            "T11bsa059_u:82",
+            "T11bsa059_u:83"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-20"
+        ],
+        "par_segtext": [
+            "ngo // gzhan ni gzhan du yin no zhes bya ba'i dbang 'di ga las thob /"
+        ],
+        "root_segtext": [
+            " sarvaprakāravyapadeśasāmyāt kadācijjñānamarthaśūnyam,",
+            " anyadānyathā ityeṣo 'dhikāraḥ kuto labdhaḥ?",
+            " atha middhādināvasthānyathābhāvaścet /"
+        ],
+        "root_string": " anyadānyathā ityeṣo 'dhikāraḥ kuto labdhaḥ?",
+        "par_string": " gzhan ni gzhan du yin no zhes bya ba'i dbang 'di ga las thob /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 77,
+        "id": "T11bsa059_u-skt-tib:71",
+        "par_pos_beg": 71,
+        "par_pos_end": 71,
+        "root_pos_beg": 71,
+        "root_pos_end": 71,
+        "par_offset_beg": 0,
+        "par_offset_end": 60,
+        "root_offset_beg": 44,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:82",
+            "T11bsa059_u:83",
+            "T11bsa059_u:84"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-21"
+        ],
+        "par_segtext": [
+            "gal te gnyid la sogs pas gnas skabs 'gyur ba yin no zhe na /"
+        ],
+        "root_segtext": [
+            " anyadānyathā ityeṣo 'dhikāraḥ kuto labdhaḥ?",
+            " atha middhādināvasthānyathābhāvaścet /",
+            " yadyevaṃ sambhavet,"
+        ],
+        "root_string": " atha middhādināvasthānyathābhāvaścet /",
+        "par_string": "gal te gnyid la sogs pas gnas skabs 'gyur ba yin no zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T11bsa059_u-skt-tib:72",
+        "par_pos_beg": 72,
+        "par_pos_end": 72,
+        "root_pos_beg": 72,
+        "root_pos_end": 72,
+        "par_offset_beg": 0,
+        "par_offset_end": 6,
+        "root_offset_beg": 39,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:83",
+            "T11bsa059_u:84",
+            "T11bsa059_u:85",
+            "T11bsa059_u:86"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-22",
+            "T11D4219:357b-23",
+            "T11D4219:357b-24"
+        ],
+        "par_segtext": [
+            "gal te 'di lta bu srid pa yong na ma",
+            "rig pas dkrugs pa'i phyir de ltar 'byung du zad",
+            "mod / de lta na ni don gzhan du smra"
+        ],
+        "root_segtext": [
+            " atha middhādināvasthānyathābhāvaścet /",
+            " yadyevaṃ sambhavet,",
+            " bhavatu avidyopaplutatvāttathodayaḥ /",
+            " tathā sati arthāntaravādahānyā ete 'nekāśakyanigūhanadoṣaprasaṅgāḥ mahākṛcchrā uttereṇaikena nihatā bhavanti / [52-58]"
+        ],
+        "root_string": " yadyevaṃ sambhavet, bhavatu avidyopaplutatvāttathodayaḥ /",
+        "par_string": "gal te 'di lta bu srid pa yong na ma rig pas dkrugs pa'i phyir de ltar 'byung du zad mod / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T11bsa059_u-skt-tib:73",
+        "par_pos_beg": 73,
+        "par_pos_end": 73,
+        "root_pos_beg": 73,
+        "root_pos_end": 73,
+        "par_offset_beg": 6,
+        "par_offset_end": 6,
+        "root_offset_beg": 38,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:85",
+            "T11bsa059_u:86",
+            "T11bsa059_u:87"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-24",
+            "T11D4219:357b-25",
+            "T11D4219:357b-26",
+            "T11D4219:357b-27",
+            "T11D4219:357b-28"
+        ],
+        "par_segtext": [
+            "mod / de lta na ni don gzhan du smra",
+            "ba nyams par 'gyur bas glags du ma sba bar",
+            "mi nus pa can tshegs chen po can 'di lan",
+            "gdab ba gcig gis nges par choms par 'gyur ro",
+            "mod / // ci ga de dag mthong bas lus"
+        ],
+        "root_segtext": [
+            " bhavatu avidyopaplutatvāttathodayaḥ /",
+            " tathā sati arthāntaravādahānyā ete 'nekāśakyanigūhanadoṣaprasaṅgāḥ mahākṛcchrā uttereṇaikena nihatā bhavanti / [52-58]",
+            " nanu tayoḥ darśanāt kāyavāgvijñaptibhyāṃ svamutthāpakacittasyānumānamiti nyāyyam /"
+        ],
+        "root_string": " tathā sati arthāntaravādahānyā ete 'nekāśakyanigūhanadoṣaprasaṅgāḥ mahākṛcchrā uttereṇaikena nihatā bhavanti / [52-58]",
+        "par_string": "de lta na ni don gzhan du smra ba nyams par 'gyur bas glags du ma sba bar mi nus pa can tshegs chen po can 'di lan gdab ba gcig gis nges par choms par 'gyur ro mod / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T11bsa059_u-skt-tib:74",
+        "par_pos_beg": 74,
+        "par_pos_end": 74,
+        "root_pos_beg": 74,
+        "root_pos_end": 74,
+        "par_offset_beg": 6,
+        "par_offset_end": 20,
+        "root_offset_beg": 119,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:86",
+            "T11bsa059_u:87",
+            "T11bsa059_u:88"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-28",
+            "T11D4219:357b-29",
+            "T11D4219:357b-30",
+            "T11D4219:357b-31"
+        ],
+        "par_segtext": [
+            "mod / // ci ga de dag mthong bas lus",
+            "dang ngag gi rnam par rig byed dag las rab",
+            "kun nas slong bar byed pa'i rjes su dpag par",
+            "rigs pa ma yin nam /"
+        ],
+        "root_segtext": [
+            " tathā sati arthāntaravādahānyā ete 'nekāśakyanigūhanadoṣaprasaṅgāḥ mahākṛcchrā uttereṇaikena nihatā bhavanti / [52-58]",
+            " nanu tayoḥ darśanāt kāyavāgvijñaptibhyāṃ svamutthāpakacittasyānumānamiti nyāyyam /",
+            " na tu santānāntarasambaddhavijñaptipratibhāsijñāne paravijñaptī bhavitumarhataḥ,"
+        ],
+        "root_string": " nanu tayoḥ darśanāt kāyavāgvijñaptibhyāṃ svamutthāpakacittasyānumānamiti nyāyyam /",
+        "par_string": "// ci ga de dag mthong bas lus dang ngag gi rnam par rig byed dag las rab kun nas slong bar byed pa'i rjes su dpag par rigs pa ma yin nam /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:75",
+        "par_pos_beg": 75,
+        "par_pos_end": 75,
+        "root_pos_beg": 75,
+        "root_pos_end": 75,
+        "par_offset_beg": 0,
+        "par_offset_end": 14,
+        "root_offset_beg": 83,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:87",
+            "T11bsa059_u:88",
+            "T11bsa059_u:89",
+            "T11bsa059_u:90"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-32",
+            "T11D4219:357b-33",
+            "T11D4219:357b-34",
+            "T11D4219:357b-35",
+            "T11D4219:357b-36",
+            "T11D4219:357b-37"
+        ],
+        "par_segtext": [
+            "rgyud gzhan dang 'brel ba'i rnam par rig byed du",
+            "snang ba'i shes pa dag ni gzhan gyi rnam bar",
+            "rig byed dag yin bar 'os pa ma yin te",
+            "/ de dag ni nye bar len pa dang nye",
+            "bar len pa las byung ba ma yin pa'i phyir",
+            "/ ro zhe na / gzhan gyi sems kyis kun"
+        ],
+        "root_segtext": [
+            " nanu tayoḥ darśanāt kāyavāgvijñaptibhyāṃ svamutthāpakacittasyānumānamiti nyāyyam /",
+            " na tu santānāntarasambaddhavijñaptipratibhāsijñāne paravijñaptī bhavitumarhataḥ,",
+            " tayoranupādānopādeyatvāditi cet /",
+            " nocyate paracittasamutthitavijñaptirūpatvāttatra pratibhāsijñānena samutthāpakacittaṃ gamyata iti /"
+        ],
+        "root_string": " na tu santānāntarasambaddhavijñaptipratibhāsijñāne paravijñaptī bhavitumarhataḥ, tayoranupādānopādeyatvāditi cet /",
+        "par_string": "rgyud gzhan dang 'brel ba'i rnam par rig byed du snang ba'i shes pa dag ni gzhan gyi rnam bar rig byed dag yin bar 'os pa ma yin te / de dag ni nye bar len pa dang nye bar len pa las byung ba ma yin pa'i phyir / ro zhe na / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:76",
+        "par_pos_beg": 76,
+        "par_pos_end": 76,
+        "root_pos_beg": 76,
+        "root_pos_end": 76,
+        "par_offset_beg": 14,
+        "par_offset_end": 63,
+        "root_offset_beg": 34,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:89",
+            "T11bsa059_u:90",
+            "T11bsa059_u:91"
+        ],
+        "par_segnr": [
+            "T11D4219:357b-37",
+            "T11D4219:357b-38",
+            "T11D4219:357b-39",
+            "T11D4219:358a-0",
+            "T11D4219:358a-1"
+        ],
+        "par_segtext": [
+            "/ ro zhe na / gzhan gyi sems kyis kun",
+            "nas bslang ba'i rnam par rig byed kyi ngo bo",
+            "can nyid yin pa'i phyir /",
+            "der snang ba'i shes pas kun nas @358a * //",
+            "slong bar byed pa'i sems rtogs par byed do zhas ni mi zer ro //"
+        ],
+        "root_segtext": [
+            " tayoranupādānopādeyatvāditi cet /",
+            " nocyate paracittasamutthitavijñaptirūpatvāttatra pratibhāsijñānena samutthāpakacittaṃ gamyata iti /",
+            " kiṃ tarhi? tasya kāryatvāt /"
+        ],
+        "root_string": " nocyate paracittasamutthitavijñaptirūpatvāttatra pratibhāsijñānena samutthāpakacittaṃ gamyata iti /",
+        "par_string": "gzhan gyi sems kyis kun nas bslang ba'i rnam par rig byed kyi ngo bo can nyid yin pa'i phyir / der snang ba'i shes pas kun nas @358a * // slong bar byed pa'i sems rtogs par byed do zhas ni mi zer ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T11bsa059_u-skt-tib:77",
+        "par_pos_beg": 77,
+        "par_pos_end": 77,
+        "root_pos_beg": 77,
+        "root_pos_end": 77,
+        "par_offset_beg": 0,
+        "par_offset_end": 34,
+        "root_offset_beg": 100,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:90",
+            "T11bsa059_u:91",
+            "T11bsa059_u:92"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-2",
+            "T11D4219:358a-3"
+        ],
+        "par_segtext": [
+            "'o na ci zhe na /",
+            "de'i 'bras bu yin pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " nocyate paracittasamutthitavijñaptirūpatvāttatra pratibhāsijñānena samutthāpakacittaṃ gamyata iti /",
+            " kiṃ tarhi? tasya kāryatvāt /",
+            " vijñaptiriti samutthāpakacittasantānājjāte kriyāvāgākārake jñāne eva /"
+        ],
+        "root_string": " kiṃ tarhi? tasya kāryatvāt /",
+        "par_string": "'o na ci zhe na / de'i 'bras bu yin pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:78",
+        "par_pos_beg": 78,
+        "par_pos_end": 78,
+        "root_pos_beg": 78,
+        "root_pos_end": 78,
+        "par_offset_beg": 0,
+        "par_offset_end": 9,
+        "root_offset_beg": 29,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:91",
+            "T11bsa059_u:92",
+            "T11bsa059_u:93",
+            "T11bsa059_u:94"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-4",
+            "T11D4219:358a-5",
+            "T11D4219:358a-6",
+            "T11D4219:358a-7",
+            "T11D4219:358a-8"
+        ],
+        "par_segtext": [
+            "rnam par rig byed dag ni bya ba dang tshig gi rnam pa can gyi shes pa /",
+            "kun nas slong bar byed pa'i sems kyi rgyud las skyes pa dag kho na yin no ;",
+            "; kun nas slong bar byed pa'i sems kyang de",
+            "dag gi ni nye bar len pa'i rgyu kho na",
+            "yin la / rgyud gzhan gyi shes pa dag ni bdag po'i rkyen yin no //"
+        ],
+        "root_segtext": [
+            " kiṃ tarhi? tasya kāryatvāt /",
+            " vijñaptiriti samutthāpakacittasantānājjāte kriyāvāgākārake jñāne eva /",
+            " samutthāpakacittaṃ ca tayorevopādānakāraṇam,",
+            " santānāntarajñānayoḥ tvadhipatipratyayaḥ /"
+        ],
+        "root_string": " vijñaptiriti samutthāpakacittasantānājjāte kriyāvāgākārake jñāne eva / samutthāpakacittaṃ ca tayorevopādānakāraṇam,",
+        "par_string": "rnam par rig byed dag ni bya ba dang tshig gi rnam pa can gyi shes pa / kun nas slong bar byed pa'i sems kyi rgyud las skyes pa dag kho na yin no ; ; kun nas slong bar byed pa'i sems kyang de dag gi ni nye bar len pa'i rgyu kho na yin la / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:79",
+        "par_pos_beg": 79,
+        "par_pos_end": 79,
+        "root_pos_beg": 79,
+        "root_pos_end": 79,
+        "par_offset_beg": 9,
+        "par_offset_end": 65,
+        "root_offset_beg": 45,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:93",
+            "T11bsa059_u:94",
+            "T11bsa059_u:95"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-8"
+        ],
+        "par_segtext": [
+            "yin la / rgyud gzhan gyi shes pa dag ni bdag po'i rkyen yin no //"
+        ],
+        "root_segtext": [
+            " samutthāpakacittaṃ ca tayorevopādānakāraṇam,",
+            " santānāntarajñānayoḥ tvadhipatipratyayaḥ /",
+            " vijñapterupādānātte janite /"
+        ],
+        "root_string": " santānāntarajñānayoḥ tvadhipatipratyayaḥ /",
+        "par_string": "rgyud gzhan gyi shes pa dag ni bdag po'i rkyen yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:80",
+        "par_pos_beg": 80,
+        "par_pos_end": 80,
+        "root_pos_beg": 80,
+        "root_pos_end": 80,
+        "par_offset_beg": 0,
+        "par_offset_end": 6,
+        "root_offset_beg": 43,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:94",
+            "T11bsa059_u:95",
+            "T11bsa059_u:96",
+            "T11bsa059_u:97"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-9",
+            "T11D4219:358a-10",
+            "T11D4219:358a-11",
+            "T11D4219:358a-12"
+        ],
+        "par_segtext": [
+            "rnam par rig byed kyi nye bar len pas bskyed",
+            "pa de dag la 'brel ba des kyang nye bar",
+            "gdags pas rnam par rig byed dag yin par 'gyur",
+            "ro // bdag dang gzhan la rang rang gi snang ba nyams su myong mod kyi /"
+        ],
+        "root_segtext": [
+            " santānāntarajñānayoḥ tvadhipatipratyayaḥ /",
+            " vijñapterupādānātte janite /",
+            " tatsambandhenopacārād vijñaptī bhavataḥ /",
+            " bhavatu svaparayoḥ svasvapratibhāsasyānubhavaḥ,"
+        ],
+        "root_string": " vijñapterupādānātte janite / tatsambandhenopacārād vijñaptī bhavataḥ /",
+        "par_string": "rnam par rig byed kyi nye bar len pas bskyed pa de dag la 'brel ba des kyang nye bar gdags pas rnam par rig byed dag yin par 'gyur ro // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:81",
+        "par_pos_beg": 81,
+        "par_pos_end": 81,
+        "root_pos_beg": 81,
+        "root_pos_end": 81,
+        "par_offset_beg": 5,
+        "par_offset_end": 71,
+        "root_offset_beg": 42,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:96",
+            "T11bsa059_u:97",
+            "T11bsa059_u:98"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-12"
+        ],
+        "par_segtext": [
+            "ro // bdag dang gzhan la rang rang gi snang ba nyams su myong mod kyi /"
+        ],
+        "root_segtext": [
+            " tatsambandhenopacārād vijñaptī bhavataḥ /",
+            " bhavatu svaparayoḥ svasvapratibhāsasyānubhavaḥ,",
+            " taimirikadvayadṛṣṭadvicandravat;"
+        ],
+        "root_string": " bhavatu svaparayoḥ svasvapratibhāsasyānubhavaḥ,",
+        "par_string": " bdag dang gzhan la rang rang gi snang ba nyams su myong mod kyi /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:82",
+        "par_pos_beg": 82,
+        "par_pos_end": 82,
+        "root_pos_beg": 82,
+        "root_pos_end": 82,
+        "par_offset_beg": 0,
+        "par_offset_end": 17,
+        "root_offset_beg": 48,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:97",
+            "T11bsa059_u:98",
+            "T11bsa059_u:99",
+            "T11bsa059_u:100"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-13",
+            "T11D4219:358a-14",
+            "T11D4219:358a-15",
+            "T11D4219:358a-16",
+            "T11D4219:358a-17"
+        ],
+        "par_segtext": [
+            "rab rib can nyid kyis zla ba gnyis mthong ba",
+            "bzhin du rnam par shes pa de lta bu'i rgyu'i",
+            "bag chags skye ba'i rang bzhin gyi khyad par thog",
+            "ma med pa'i dus las don gcig 'dzin par nges",
+            "pa'i phyir ro // rgyu gcig las skyes pas rang"
+        ],
+        "root_segtext": [
+            " bhavatu svaparayoḥ svasvapratibhāsasyānubhavaḥ,",
+            " taimirikadvayadṛṣṭadvicandravat;",
+            " tathāvidhavijñānasya hetuḥ vāsanotpādasvabhāvabiśeṣo 'nādikālikaikārthagrāhādhyavasāyitvāt /",
+            " ekahetusambhūtayoḥ svaparavoijñaptijñānayoḥ vijñaptivenopacāraḥ / [59-64]"
+        ],
+        "root_string": " taimirikadvayadṛṣṭadvicandravat; tathāvidhavijñānasya hetuḥ vāsanotpādasvabhāvabiśeṣo 'nādikālikaikārthagrāhādhyavasāyitvāt /",
+        "par_string": "rab rib can nyid kyis zla ba gnyis mthong ba bzhin du rnam par shes pa de lta bu'i rgyu'i bag chags skye ba'i rang bzhin gyi khyad par thog ma med pa'i dus las don gcig 'dzin par nges pa'i phyir ro // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:83",
+        "par_pos_beg": 83,
+        "par_pos_end": 83,
+        "root_pos_beg": 83,
+        "root_pos_end": 83,
+        "par_offset_beg": 16,
+        "par_offset_end": 23,
+        "root_offset_beg": 93,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:99",
+            "T11bsa059_u:100",
+            "T11bsa059_u:101"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-17",
+            "T11D4219:358a-18",
+            "T11D4219:358a-19",
+            "T11D4219:358a-20"
+        ],
+        "par_segtext": [
+            "pa'i phyir ro // rgyu gcig las skyes pas rang",
+            "dang gzhan gyi rnam par rig byed kyi shes pa",
+            "dag la rnam par rig byed du nye bar 'dogs",
+            "pa'i phyir ro // so // ci ste bya ba"
+        ],
+        "root_segtext": [
+            " tathāvidhavijñānasya hetuḥ vāsanotpādasvabhāvabiśeṣo 'nādikālikaikārthagrāhādhyavasāyitvāt /",
+            " ekahetusambhūtayoḥ svaparavoijñaptijñānayoḥ vijñaptivenopacāraḥ / [59-64]",
+            " kiñca kriyādipratibhāsivijñānāt kāryaliṅgājjātaṃ yatparacittajñānaṃ tatparacittaṃ viṣayīkriyata āhosvinna?"
+        ],
+        "root_string": " ekahetusambhūtayoḥ svaparavoijñaptijñānayoḥ vijñaptivenopacāraḥ / [59-64]",
+        "par_string": " rgyu gcig las skyes pas rang dang gzhan gyi rnam par rig byed kyi shes pa dag la rnam par rig byed du nye bar 'dogs pa'i phyir ro // so // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:84",
+        "par_pos_beg": 84,
+        "par_pos_end": 84,
+        "root_pos_beg": 84,
+        "root_pos_end": 84,
+        "par_offset_beg": 22,
+        "par_offset_end": 18,
+        "root_offset_beg": 74,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:100",
+            "T11bsa059_u:101",
+            "T11bsa059_u:102"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-20",
+            "T11D4219:358a-21",
+            "T11D4219:358a-22",
+            "T11D4219:358a-23",
+            "T11D4219:358a-24"
+        ],
+        "par_segtext": [
+            "pa'i phyir ro // so // ci ste bya ba",
+            "la sogs par snang ba'i rnam par shes pa 'bras",
+            "bu'i rtags las skyes pa gzhan gyi sems shes pa",
+            "de dag gzhan gyi sems yul du byed dam /",
+            "'on te ma yin te /"
+        ],
+        "root_segtext": [
+            " ekahetusambhūtayoḥ svaparavoijñaptijñānayoḥ vijñaptivenopacāraḥ / [59-64]",
+            " kiñca kriyādipratibhāsivijñānāt kāryaliṅgājjātaṃ yatparacittajñānaṃ tatparacittaṃ viṣayīkriyata āhosvinna?",
+            " viṣayīkaraṇe 'rthāntaraṃ syāt /"
+        ],
+        "root_string": " kiñca kriyādipratibhāsivijñānāt kāryaliṅgājjātaṃ yatparacittajñānaṃ tatparacittaṃ viṣayīkriyata āhosvinna?",
+        "par_string": " ci ste bya ba la sogs par snang ba'i rnam par shes pa 'bras bu'i rtags las skyes pa gzhan gyi sems shes pa de dag gzhan gyi sems yul du byed dam / 'on te ma yin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 77,
+        "id": "T11bsa059_u-skt-tib:85",
+        "par_pos_beg": 85,
+        "par_pos_end": 85,
+        "root_pos_beg": 85,
+        "root_pos_end": 85,
+        "par_offset_beg": 0,
+        "par_offset_end": 47,
+        "root_offset_beg": 107,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:101",
+            "T11bsa059_u:102",
+            "T11bsa059_u:103"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-25"
+        ],
+        "par_segtext": [
+            "yul du byed na ni don gzhan yin par 'gyur ro //"
+        ],
+        "root_segtext": [
+            " kiñca kriyādipratibhāsivijñānāt kāryaliṅgājjātaṃ yatparacittajñānaṃ tatparacittaṃ viṣayīkriyata āhosvinna?",
+            " viṣayīkaraṇe 'rthāntaraṃ syāt /",
+            " aviṣayatve tu kathaṃ jñānena paracittasattā pratīyate?"
+        ],
+        "root_string": " viṣayīkaraṇe 'rthāntaraṃ syāt /",
+        "par_string": "yul du byed na ni don gzhan yin par 'gyur ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "T11bsa059_u-skt-tib:86",
+        "par_pos_beg": 86,
+        "par_pos_end": 86,
+        "root_pos_beg": 86,
+        "root_pos_end": 86,
+        "par_offset_beg": 0,
+        "par_offset_end": 71,
+        "root_offset_beg": 32,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:102",
+            "T11bsa059_u:103",
+            "T11bsa059_u:104"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-26"
+        ],
+        "par_segtext": [
+            "yul du mi byed na ni shes pas pha rol gyi sems yod pa ji ltar shes te /"
+        ],
+        "root_segtext": [
+            " viṣayīkaraṇe 'rthāntaraṃ syāt /",
+            " aviṣayatve tu kathaṃ jñānena paracittasattā pratīyate?",
+            " tatsvarūpājñāne tatsiddhairasambhavāditi cet 3?"
+        ],
+        "root_string": " aviṣayatve tu kathaṃ jñānena paracittasattā pratīyate?",
+        "par_string": "yul du mi byed na ni shes pas pha rol gyi sems yod pa ji ltar shes te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T11bsa059_u-skt-tib:87",
+        "par_pos_beg": 87,
+        "par_pos_end": 87,
+        "root_pos_beg": 87,
+        "root_pos_end": 87,
+        "par_offset_beg": 0,
+        "par_offset_end": 71,
+        "root_offset_beg": 55,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:103",
+            "T11bsa059_u:104",
+            "T11bsa059_u:105"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-27"
+        ],
+        "par_segtext": [
+            "de'i ngo bo nyid ma shes par de 'grub pa mi srid pa'i phyir ro zhe na /"
+        ],
+        "root_segtext": [
+            " aviṣayatve tu kathaṃ jñānena paracittasattā pratīyate?",
+            " tatsvarūpājñāne tatsiddhairasambhavāditi cet 3?",
+            " eṣa prasaṅgo 'pi samaḥ /"
+        ],
+        "root_string": " tatsvarūpājñāne tatsiddhairasambhavāditi cet 3?",
+        "par_string": "de'i ngo bo nyid ma shes par de 'grub pa mi srid pa'i phyir ro zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 63,
+        "id": "T11bsa059_u-skt-tib:88",
+        "par_pos_beg": 88,
+        "par_pos_end": 88,
+        "root_pos_beg": 88,
+        "root_pos_end": 88,
+        "par_offset_beg": 0,
+        "par_offset_end": 41,
+        "root_offset_beg": 48,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:104",
+            "T11bsa059_u:105",
+            "T11bsa059_u:106"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-28"
+        ],
+        "par_segtext": [
+            "'di yang thal bar 'gyur bar mtshungs te /"
+        ],
+        "root_segtext": [
+            " tatsvarūpājñāne tatsiddhairasambhavāditi cet 3?",
+            " eṣa prasaṅgo 'pi samaḥ /",
+            " kriyāvāgbhyāṃ paracittaṃ pratipattimatāmapi tatsvarūpaviṣayīkaraṇe svacittajñānavat tadākārasyāpi jñānaṃ prasajyeta /"
+        ],
+        "root_string": " eṣa prasaṅgo 'pi samaḥ /",
+        "par_string": "'di yang thal bar 'gyur bar mtshungs te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:89",
+        "par_pos_beg": 89,
+        "par_pos_end": 89,
+        "root_pos_beg": 89,
+        "root_pos_end": 89,
+        "par_offset_beg": 0,
+        "par_offset_end": 29,
+        "root_offset_beg": 25,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:105",
+            "T11bsa059_u:106",
+            "T11bsa059_u:107"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-29",
+            "T11D4219:358a-30",
+            "T11D4219:358a-31",
+            "T11D4219:358a-32",
+            "T11D4219:358a-33"
+        ],
+        "par_segtext": [
+            "bya ba dang tshig dag gis gzhan gyi sems rtogs",
+            "pa ltar na yang de'i ngo bo nyid yul du",
+            "byed na ni / de'i tshe rang gi sems shes",
+            "pa bzhin du de'i rnam pa yang shes par thal",
+            "byed na ni / bar 'gyur ro // de mi"
+        ],
+        "root_segtext": [
+            " eṣa prasaṅgo 'pi samaḥ /",
+            " kriyāvāgbhyāṃ paracittaṃ pratipattimatāmapi tatsvarūpaviṣayīkaraṇe svacittajñānavat tadākārasyāpi jñānaṃ prasajyeta /",
+            " tadajñāne tu tena tatsvarūpasya grahaṇaṃ katham? [65-67]"
+        ],
+        "root_string": " kriyāvāgbhyāṃ paracittaṃ pratipattimatāmapi tatsvarūpaviṣayīkaraṇe svacittajñānavat tadākārasyāpi jñānaṃ prasajyeta /",
+        "par_string": "bya ba dang tshig dag gis gzhan gyi sems rtogs pa ltar na yang de'i ngo bo nyid yul du byed na ni / de'i tshe rang gi sems shes pa bzhin du de'i rnam pa yang shes par thal byed na ni / bar 'gyur ro // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 72,
+        "id": "T11bsa059_u-skt-tib:90",
+        "par_pos_beg": 90,
+        "par_pos_end": 90,
+        "root_pos_beg": 90,
+        "root_pos_end": 90,
+        "par_offset_beg": 28,
+        "par_offset_end": 29,
+        "root_offset_beg": 118,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:106",
+            "T11bsa059_u:107",
+            "T11bsa059_u:108"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-33",
+            "T11D4219:358a-34",
+            "T11D4219:358a-35"
+        ],
+        "par_segtext": [
+            "byed na ni / bar 'gyur ro // de mi",
+            "shes na ni des de'i ngo bo nyid ji ltar",
+            "byed na ni / bar 'gyur ro // 'dzin /"
+        ],
+        "root_segtext": [
+            " kriyāvāgbhyāṃ paracittaṃ pratipattimatāmapi tatsvarūpaviṣayīkaraṇe svacittajñānavat tadākārasyāpi jñānaṃ prasajyeta /",
+            " tadajñāne tu tena tatsvarūpasya grahaṇaṃ katham? [65-67]",
+            " atha liṅgāt sāmānyadhigateḥ nākārasya pratītiriti cet?"
+        ],
+        "root_string": " tadajñāne tu tena tatsvarūpasya grahaṇaṃ katham? [65-67]",
+        "par_string": " de mi shes na ni des de'i ngo bo nyid ji ltar byed na ni / bar 'gyur ro // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T11bsa059_u-skt-tib:91",
+        "par_pos_beg": 91,
+        "par_pos_end": 91,
+        "root_pos_beg": 91,
+        "root_pos_end": 91,
+        "par_offset_beg": 28,
+        "par_offset_end": 31,
+        "root_offset_beg": 57,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:107",
+            "T11bsa059_u:108",
+            "T11bsa059_u:109"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-35",
+            "T11D4219:358a-36",
+            "T11D4219:358a-37"
+        ],
+        "par_segtext": [
+            "byed na ni / bar 'gyur ro // 'dzin /",
+            "gal te rtags kyis ni spyi rtogs pa'i phyir rnam",
+            "par rtogs pa ma yin no zhe na /"
+        ],
+        "root_segtext": [
+            " tadajñāne tu tena tatsvarūpasya grahaṇaṃ katham? [65-67]",
+            " atha liṅgāt sāmānyadhigateḥ nākārasya pratītiriti cet?",
+            " kiñca tatsāmānyaṃ paracittam evānyadvāhosvidavācyam /"
+        ],
+        "root_string": " atha liṅgāt sāmānyadhigateḥ nākārasya pratītiriti cet?",
+        "par_string": " 'dzin / gal te rtags kyis ni spyi rtogs pa'i phyir rnam par rtogs pa ma yin no zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:92",
+        "par_pos_beg": 92,
+        "par_pos_end": 92,
+        "root_pos_beg": 92,
+        "root_pos_end": 92,
+        "par_offset_beg": 0,
+        "par_offset_end": 37,
+        "root_offset_beg": 55,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:108",
+            "T11bsa059_u:109",
+            "T11bsa059_u:110"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-38",
+            "T11D4219:358a-39",
+            "T11D4219:358a-40"
+        ],
+        "par_segtext": [
+            "spyi de ci gzhan gyi sems nyid yin nam /",
+            "'on te gzhan zhig gam /",
+            "'on te brjod du mi rung ba zhig yin /"
+        ],
+        "root_segtext": [
+            " atha liṅgāt sāmānyadhigateḥ nākārasya pratītiriti cet?",
+            " kiñca tatsāmānyaṃ paracittam evānyadvāhosvidavācyam /",
+            " anyatvāvācyatvayorekatve tvanena tatsāmānyameva gṛhyeta,"
+        ],
+        "root_string": " kiñca tatsāmānyaṃ paracittam evānyadvāhosvidavācyam /",
+        "par_string": "spyi de ci gzhan gyi sems nyid yin nam / 'on te gzhan zhig gam / 'on te brjod du mi rung ba zhig yin /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T11bsa059_u-skt-tib:93",
+        "par_pos_beg": 93,
+        "par_pos_end": 93,
+        "root_pos_beg": 93,
+        "root_pos_end": 93,
+        "par_offset_beg": 0,
+        "par_offset_end": 5,
+        "root_offset_beg": 54,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:109",
+            "T11bsa059_u:110",
+            "T11bsa059_u:111"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-41",
+            "T11D4219:358a-42",
+            "T11D4219:358a-43"
+        ],
+        "par_segtext": [
+            "gzhan nyid dang brjod du mi rung ba nyid dag",
+            "cig yin na ni 'dis spyi de kho na gzung",
+            "gi / gzhan gyi sems ni ma yin na /"
+        ],
+        "root_segtext": [
+            " kiñca tatsāmānyaṃ paracittam evānyadvāhosvidavācyam /",
+            " anyatvāvācyatvayorekatve tvanena tatsāmānyameva gṛhyeta,",
+            " na paracittam /"
+        ],
+        "root_string": " anyatvāvācyatvayorekatve tvanena tatsāmānyameva gṛhyeta,",
+        "par_string": "gzhan nyid dang brjod du mi rung ba nyid dag cig yin na ni 'dis spyi de kho na gzung gi / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 94,
+        "id": "T11bsa059_u-skt-tib:94",
+        "par_pos_beg": 94,
+        "par_pos_end": 94,
+        "root_pos_beg": 94,
+        "root_pos_end": 94,
+        "par_offset_beg": 5,
+        "par_offset_end": 34,
+        "root_offset_beg": 57,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:110",
+            "T11bsa059_u:111",
+            "T11bsa059_u:112"
+        ],
+        "par_segnr": [
+            "T11D4219:358a-43"
+        ],
+        "par_segtext": [
+            "gi / gzhan gyi sems ni ma yin na /"
+        ],
+        "root_segtext": [
+            " anyatvāvācyatvayorekatve tvanena tatsāmānyameva gṛhyeta,",
+            " na paracittam /",
+            " tatkathamanena tad gamyate?"
+        ],
+        "root_string": " na paracittam /",
+        "par_string": "gzhan gyi sems ni ma yin na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:95",
+        "par_pos_beg": 95,
+        "par_pos_end": 95,
+        "root_pos_beg": 95,
+        "root_pos_end": 95,
+        "par_offset_beg": 0,
+        "par_offset_end": 39,
+        "root_offset_beg": 16,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:111",
+            "T11bsa059_u:112",
+            "T11bsa059_u:113"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-0"
+        ],
+        "par_segtext": [
+            "ji ltar 'dis de @358b rtogs par 'gyur /"
+        ],
+        "root_segtext": [
+            " na paracittam /",
+            " tatkathamanena tad gamyate?",
+            " nāpi sāmānyaṃ paracittameva /"
+        ],
+        "root_string": " tatkathamanena tad gamyate?",
+        "par_string": "ji ltar 'dis de @358b rtogs par 'gyur /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T11bsa059_u-skt-tib:96",
+        "par_pos_beg": 96,
+        "par_pos_end": 96,
+        "root_pos_beg": 96,
+        "root_pos_end": 96,
+        "par_offset_beg": 0,
+        "par_offset_end": 42,
+        "root_offset_beg": 28,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:112",
+            "T11bsa059_u:113",
+            "T11bsa059_u:114"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-1"
+        ],
+        "par_segtext": [
+            "spyi gzhan gyi sems nyid kyang ma yin te /"
+        ],
+        "root_segtext": [
+            " tatkathamanena tad gamyate?",
+            " nāpi sāmānyaṃ paracittameva /",
+            " tathā sati tadākārasyāpi jñānaṃ prasahyeta ityuktam / [86-71]"
+        ],
+        "root_string": " nāpi sāmānyaṃ paracittameva /",
+        "par_string": "spyi gzhan gyi sems nyid kyang ma yin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:97",
+        "par_pos_beg": 97,
+        "par_pos_end": 97,
+        "root_pos_beg": 97,
+        "root_pos_end": 97,
+        "par_offset_beg": 0,
+        "par_offset_end": 74,
+        "root_offset_beg": 30,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:113",
+            "T11bsa059_u:114",
+            "T11bsa059_u:115"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-2"
+        ],
+        "par_segtext": [
+            "de yod na de'i rnam pa yang shes par thal bar 'gyur ro zhes bshad zin te /"
+        ],
+        "root_segtext": [
+            " nāpi sāmānyaṃ paracittameva /",
+            " tathā sati tadākārasyāpi jñānaṃ prasahyeta ityuktam / [86-71]",
+            " na hyeṣā anumānaprakriyā /"
+        ],
+        "root_string": " tathā sati tadākārasyāpi jñānaṃ prasahyeta ityuktam / [86-71]",
+        "par_string": "de yod na de'i rnam pa yang shes par thal bar 'gyur ro zhes bshad zin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 72,
+        "id": "T11bsa059_u-skt-tib:98",
+        "par_pos_beg": 98,
+        "par_pos_end": 98,
+        "root_pos_beg": 98,
+        "root_pos_end": 98,
+        "par_offset_beg": 0,
+        "par_offset_end": 48,
+        "root_offset_beg": 62,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:114",
+            "T11bsa059_u:115",
+            "T11bsa059_u:116"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-3"
+        ],
+        "par_segtext": [
+            "'di ni rjes su dpag pa'i tshul yang ma yin no //"
+        ],
+        "root_segtext": [
+            " tathā sati tadākārasyāpi jñānaṃ prasahyeta ityuktam / [86-71]",
+            " na hyeṣā anumānaprakriyā /",
+            " na hyanumānamarthasvarūpasya grāhakam /"
+        ],
+        "root_string": " na hyeṣā anumānaprakriyā /",
+        "par_string": "'di ni rjes su dpag pa'i tshul yang ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:99",
+        "par_pos_beg": 99,
+        "par_pos_end": 99,
+        "root_pos_beg": 99,
+        "root_pos_end": 99,
+        "par_offset_beg": 0,
+        "par_offset_end": 71,
+        "root_offset_beg": 27,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:115",
+            "T11bsa059_u:116",
+            "T11bsa059_u:117"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-4"
+        ],
+        "par_segtext": [
+            "rjes su dpag pa ni don gyi rang gi ngo bo 'dzin par byed pa ma yin te /"
+        ],
+        "root_segtext": [
+            " na hyeṣā anumānaprakriyā /",
+            " na hyanumānamarthasvarūpasya grāhakam /",
+            " pratyakṣavat pratibhāsāviśiṣṭatvādeḥ prasaṅgāt /"
+        ],
+        "root_string": " na hyanumānamarthasvarūpasya grāhakam /",
+        "par_string": "rjes su dpag pa ni don gyi rang gi ngo bo 'dzin par byed pa ma yin te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T11bsa059_u-skt-tib:100",
+        "par_pos_beg": 100,
+        "par_pos_end": 100,
+        "root_pos_beg": 100,
+        "root_pos_end": 100,
+        "par_offset_beg": 0,
+        "par_offset_end": 47,
+        "root_offset_beg": 40,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:116",
+            "T11bsa059_u:117",
+            "T11bsa059_u:118"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-5",
+            "T11D4219:358b-6",
+            "T11D4219:358b-7"
+        ],
+        "par_segtext": [
+            "mngon sum dang 'dra bar snang pa khyad par med",
+            "pa la sogs par thal bar 'gyur ba'i phyir ro",
+            "// de'i phyir 'di ni tshad ma nyid ma yin no //"
+        ],
+        "root_segtext": [
+            " na hyanumānamarthasvarūpasya grāhakam /",
+            " pratyakṣavat pratibhāsāviśiṣṭatvādeḥ prasaṅgāt /",
+            " tena nāsya prāmāṇyam /"
+        ],
+        "root_string": " pratyakṣavat pratibhāsāviśiṣṭatvādeḥ prasaṅgāt /",
+        "par_string": "mngon sum dang 'dra bar snang pa khyad par med pa la sogs par thal bar 'gyur ba'i phyir ro // de'i phyir 'di ni tshad ma nyid ma yin no //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T11bsa059_u-skt-tib:101",
+        "par_pos_beg": 101,
+        "par_pos_end": 101,
+        "root_pos_beg": 101,
+        "root_pos_end": 101,
+        "par_offset_beg": 0,
+        "par_offset_end": 20,
+        "root_offset_beg": 49,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:117",
+            "T11bsa059_u:118",
+            "T11bsa059_u:119",
+            "T11bsa059_u:120"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-8",
+            "T11D4219:358b-9",
+            "T11D4219:358b-10"
+        ],
+        "par_segtext": [
+            "de'i rang gi ngo bo mi 'dzin kyang mngon par",
+            "'dod pa'i don la mi slu bas tshad ma nyid",
+            "yin pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " pratyakṣavat pratibhāsāviśiṣṭatvādeḥ prasaṅgāt /",
+            " tena nāsya prāmāṇyam /",
+            " tatsvarūpāgrahe 'pyabhipretārthāvisaṃvādāt prāmāṇyam /",
+            " dhūmādiliṅgājjātamapi na vahnayādisvarūpaviṣayi,"
+        ],
+        "root_string": " tena nāsya prāmāṇyam / tatsvarūpāgrahe 'pyabhipretārthāvisaṃvādāt prāmāṇyam /",
+        "par_string": "de'i rang gi ngo bo mi 'dzin kyang mngon par 'dod pa'i don la mi slu bas tshad ma nyid yin pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:102",
+        "par_pos_beg": 102,
+        "par_pos_end": 102,
+        "root_pos_beg": 102,
+        "root_pos_end": 102,
+        "par_offset_beg": 0,
+        "par_offset_end": 12,
+        "root_offset_beg": 55,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:119",
+            "T11bsa059_u:120",
+            "T11bsa059_u:121"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-11",
+            "T11D4219:358b-12",
+            "T11D4219:358b-13"
+        ],
+        "par_segtext": [
+            "du ba la sogs pa'i rtags las skyes pa yang",
+            "me la sogs pa'i rang gi ngo bo'i yul can",
+            "ma yin te / mthong ba dang khyad par med par thal bar 'gyur ba'i phyir ro //"
+        ],
+        "root_segtext": [
+            " tatsvarūpāgrahe 'pyabhipretārthāvisaṃvādāt prāmāṇyam /",
+            " dhūmādiliṅgājjātamapi na vahnayādisvarūpaviṣayi,",
+            " dṛṣṭenāviśeṣaprasaṅgāt /"
+        ],
+        "root_string": " dhūmādiliṅgājjātamapi na vahnayādisvarūpaviṣayi,",
+        "par_string": "du ba la sogs pa'i rtags las skyes pa yang me la sogs pa'i rang gi ngo bo'i yul can ma yin te / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T11bsa059_u-skt-tib:103",
+        "par_pos_beg": 103,
+        "par_pos_end": 103,
+        "root_pos_beg": 103,
+        "root_pos_end": 103,
+        "par_offset_beg": 12,
+        "par_offset_end": 76,
+        "root_offset_beg": 49,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:120",
+            "T11bsa059_u:121",
+            "T11bsa059_u:122"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-13"
+        ],
+        "par_segtext": [
+            "ma yin te / mthong ba dang khyad par med par thal bar 'gyur ba'i phyir ro //"
+        ],
+        "root_segtext": [
+            " dhūmādiliṅgājjātamapi na vahnayādisvarūpaviṣayi,",
+            " dṛṣṭenāviśeṣaprasaṅgāt /",
+            " anumānasyātītādau niḥsvabhāvatāyā cāpravṛtteḥ,"
+        ],
+        "root_string": " dṛṣṭenāviśeṣaprasaṅgāt /",
+        "par_string": "mthong ba dang khyad par med par thal bar 'gyur ba'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 87,
+        "id": "T11bsa059_u-skt-tib:104",
+        "par_pos_beg": 104,
+        "par_pos_end": 104,
+        "root_pos_beg": 104,
+        "root_pos_end": 104,
+        "par_offset_beg": 0,
+        "par_offset_end": 49,
+        "root_offset_beg": 25,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:121",
+            "T11bsa059_u:122",
+            "T11bsa059_u:123",
+            "T11bsa059_u:124"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-14",
+            "T11D4219:358b-15",
+            "T11D4219:358b-16"
+        ],
+        "par_segtext": [
+            "rjes su dpag pa 'das pa la sogs pa dang /",
+            "ngo bo nyid med pa dag la yang 'jug par mi 'gyur ba'i phyir dang /",
+            "don byed par thal bar 'gyur ba'i yang phyir ro //"
+        ],
+        "root_segtext": [
+            " dṛṣṭenāviśeṣaprasaṅgāt /",
+            " anumānasyātītādau niḥsvabhāvatāyā cāpravṛtteḥ,",
+            " arthakriyāprasaṅgācca / [72-76]",
+            " paracittānumāne 'pyabhipretārthāvisaṃvādo 'styeva /"
+        ],
+        "root_string": " anumānasyātītādau niḥsvabhāvatāyā cāpravṛtteḥ, arthakriyāprasaṅgācca / [72-76]",
+        "par_string": "rjes su dpag pa 'das pa la sogs pa dang / ngo bo nyid med pa dag la yang 'jug par mi 'gyur ba'i phyir dang / don byed par thal bar 'gyur ba'i yang phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:105",
+        "par_pos_beg": 105,
+        "par_pos_end": 105,
+        "root_pos_beg": 105,
+        "root_pos_end": 105,
+        "par_offset_beg": 0,
+        "par_offset_end": 13,
+        "root_offset_beg": 32,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:123",
+            "T11bsa059_u:124",
+            "T11bsa059_u:125"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-17",
+            "T11D4219:358b-18",
+            "T11D4219:358b-19"
+        ],
+        "par_segtext": [
+            "gzhan gyi sems rjes su dpag pa la yang mngon",
+            "par 'dod pa'i don la mi slu ba yod pa",
+            "kho na ste / 'jug par byed pa de'i sgo"
+        ],
+        "root_segtext": [
+            " arthakriyāprasaṅgācca / [72-76]",
+            " paracittānumāne 'pyabhipretārthāvisaṃvādo 'styeva /",
+            " tatpravartanadvāreṇa prāṇyantarasattāṃ pratipadya punaḥ punarvyavahārapravṛttau tadādhipatyādāgārthasya prāpteḥ /"
+        ],
+        "root_string": " paracittānumāne 'pyabhipretārthāvisaṃvādo 'styeva /",
+        "par_string": "gzhan gyi sems rjes su dpag pa la yang mngon par 'dod pa'i don la mi slu ba yod pa kho na ste / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 83,
+        "id": "T11bsa059_u-skt-tib:106",
+        "par_pos_beg": 106,
+        "par_pos_end": 106,
+        "root_pos_beg": 106,
+        "root_pos_end": 106,
+        "par_offset_beg": 13,
+        "par_offset_end": 52,
+        "root_offset_beg": 52,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:124",
+            "T11bsa059_u:125",
+            "T11bsa059_u:126"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-19",
+            "T11D4219:358b-20",
+            "T11D4219:358b-21",
+            "T11D4219:358b-22"
+        ],
+        "par_segtext": [
+            "kho na ste / 'jug par byed pa de'i sgo",
+            "nas srog chags gzhan yod par rtogs nas yang nas",
+            "yang du tha snyad dag la 'jug na /",
+            "de'i dbang gis 'byung ba'i don thob pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " paracittānumāne 'pyabhipretārthāvisaṃvādo 'styeva /",
+            " tatpravartanadvāreṇa prāṇyantarasattāṃ pratipadya punaḥ punarvyavahārapravṛttau tadādhipatyādāgārthasya prāpteḥ /",
+            " tanmātraphalacintakasyalokasya prāṇyantarānumāne pravṛtteśca /"
+        ],
+        "root_string": " tatpravartanadvāreṇa prāṇyantarasattāṃ pratipadya punaḥ punarvyavahārapravṛttau tadādhipatyādāgārthasya prāpteḥ /",
+        "par_string": "'jug par byed pa de'i sgo nas srog chags gzhan yod par rtogs nas yang nas yang du tha snyad dag la 'jug na / de'i dbang gis 'byung ba'i don thob pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:107",
+        "par_pos_beg": 107,
+        "par_pos_end": 107,
+        "root_pos_beg": 107,
+        "root_pos_end": 107,
+        "par_offset_beg": 0,
+        "par_offset_end": 16,
+        "root_offset_beg": 114,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:125",
+            "T11bsa059_u:126",
+            "T11bsa059_u:127"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-23",
+            "T11D4219:358b-24",
+            "T11D4219:358b-25"
+        ],
+        "par_segtext": [
+            "'jig rten ni 'bras bu de tsam la sems shing",
+            "srog chags gzhan rjes su dpag pa la 'jug pa'i",
+            "yang phyir te / skyes bu don phyi ma'i khyad"
+        ],
+        "root_segtext": [
+            " tatpravartanadvāreṇa prāṇyantarasattāṃ pratipadya punaḥ punarvyavahārapravṛttau tadādhipatyādāgārthasya prāpteḥ /",
+            " tanmātraphalacintakasyalokasya prāṇyantarānumāne pravṛtteśca /",
+            " uttarārthaviśeṣapratibhāsijñānānubhavodayamātreṇa puruṣasya nirākāṅkṣatvāt /"
+        ],
+        "root_string": " tanmātraphalacintakasyalokasya prāṇyantarānumāne pravṛtteśca /",
+        "par_string": "'jig rten ni 'bras bu de tsam la sems shing srog chags gzhan rjes su dpag pa la 'jug pa'i yang phyir te / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:108",
+        "par_pos_beg": 108,
+        "par_pos_end": 108,
+        "root_pos_beg": 108,
+        "root_pos_end": 108,
+        "par_offset_beg": 16,
+        "par_offset_end": 33,
+        "root_offset_beg": 63,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:126",
+            "T11bsa059_u:127",
+            "T11bsa059_u:128"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-25",
+            "T11D4219:358b-26",
+            "T11D4219:358b-27"
+        ],
+        "par_segtext": [
+            "yang phyir te / skyes bu don phyi ma'i khyad",
+            "par du snang ba'i shes pa myong ba tsam gyis",
+            "re ba med pa nyid kyi phyir ro //"
+        ],
+        "root_segtext": [
+            " tanmātraphalacintakasyalokasya prāṇyantarānumāne pravṛtteśca /",
+            " uttarārthaviśeṣapratibhāsijñānānubhavodayamātreṇa puruṣasya nirākāṅkṣatvāt /",
+            " pūrvajñānena vyavahārasamāpteḥ kṛtārthatatvaṃ pramāṇatvena siddhatvāt / [77-81]"
+        ],
+        "root_string": " uttarārthaviśeṣapratibhāsijñānānubhavodayamātreṇa puruṣasya nirākāṅkṣatvāt /",
+        "par_string": "skyes bu don phyi ma'i khyad par du snang ba'i shes pa myong ba tsam gyis re ba med pa nyid kyi phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 88,
+        "id": "T11bsa059_u-skt-tib:109",
+        "par_pos_beg": 109,
+        "par_pos_end": 109,
+        "root_pos_beg": 109,
+        "root_pos_end": 109,
+        "par_offset_beg": 0,
+        "par_offset_end": 15,
+        "root_offset_beg": 77,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:127",
+            "T11bsa059_u:128",
+            "T11bsa059_u:129",
+            "T11bsa059_u:130"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-28",
+            "T11D4219:358b-29",
+            "T11D4219:358b-30",
+            "T11D4219:358b-31",
+            "T11D4219:358b-32"
+        ],
+        "par_segtext": [
+            "shes pa snga mas tha snyad rdzogs pas don byas",
+            "pa nyid tshad ma nyid du grub pa'i phyir ro",
+            "// rmi lam na yang shes pa snga ma las",
+            "don phyi mar snang ba'i shes pa skye ba ma",
+            "// yin na ma / de tsam gyis ni shes"
+        ],
+        "root_segtext": [
+            " uttarārthaviśeṣapratibhāsijñānānubhavodayamātreṇa puruṣasya nirākāṅkṣatvāt /",
+            " pūrvajñānena vyavahārasamāpteḥ kṛtārthatatvaṃ pramāṇatvena siddhatvāt / [77-81]",
+            " nanu svapne 'pi pūrvajñānāduttarārthapratibhāsijñānamutpadyate /",
+            " na tanmātreṇa pūrvajñānasya prāmāṇyaṃ yujyate,"
+        ],
+        "root_string": " pūrvajñānena vyavahārasamāpteḥ kṛtārthatatvaṃ pramāṇatvena siddhatvāt / [77-81] nanu svapne 'pi pūrvajñānāduttarārthapratibhāsijñānamutpadyate /",
+        "par_string": "shes pa snga mas tha snyad rdzogs pas don byas pa nyid tshad ma nyid du grub pa'i phyir ro // rmi lam na yang shes pa snga ma las don phyi mar snang ba'i shes pa skye ba ma // yin na ma / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 84,
+        "id": "T11bsa059_u-skt-tib:110",
+        "par_pos_beg": 110,
+        "par_pos_end": 110,
+        "root_pos_beg": 110,
+        "root_pos_end": 110,
+        "par_offset_beg": 15,
+        "par_offset_end": 24,
+        "root_offset_beg": 65,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:129",
+            "T11bsa059_u:130",
+            "T11bsa059_u:131"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-32",
+            "T11D4219:358b-33",
+            "T11D4219:358b-34"
+        ],
+        "par_segtext": [
+            "// yin na ma / de tsam gyis ni shes",
+            "pa snga ma tshad ma yin par 'os pa ma",
+            "// yin na ma / yin te / de'i tshe"
+        ],
+        "root_segtext": [
+            " nanu svapne 'pi pūrvajñānāduttarārthapratibhāsijñānamutpadyate /",
+            " na tanmātreṇa pūrvajñānasya prāmāṇyaṃ yujyate,",
+            " tadānīṃ sarveṣāṃ jñānānāṃ bhrāntatvāt /"
+        ],
+        "root_string": " na tanmātreṇa pūrvajñānasya prāmāṇyaṃ yujyate,",
+        "par_string": "de tsam gyis ni shes pa snga ma tshad ma yin par 'os pa ma // yin na ma / yin te / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 79,
+        "id": "T11bsa059_u-skt-tib:111",
+        "par_pos_beg": 111,
+        "par_pos_end": 111,
+        "root_pos_beg": 111,
+        "root_pos_end": 111,
+        "par_offset_beg": 24,
+        "par_offset_end": 24,
+        "root_offset_beg": 47,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:130",
+            "T11bsa059_u:131",
+            "T11bsa059_u:132"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-34",
+            "T11D4219:358b-35",
+            "T11D4219:358b-36"
+        ],
+        "par_segtext": [
+            "// yin na ma / yin te / de'i tshe",
+            "shes pa thams cad 'khrul ba yin pa'i phyir ro",
+            "// yin na ma / yin te / zhe na"
+        ],
+        "root_segtext": [
+            " na tanmātreṇa pūrvajñānasya prāmāṇyaṃ yujyate,",
+            " tadānīṃ sarveṣāṃ jñānānāṃ bhrāntatvāt /",
+            " tatra vijñaptijñānaṃ na kadāciccittaspandanādhipatyena vinā udbhavatītyataḥ tābhyāṃ ye anumīyate /"
+        ],
+        "root_string": " tadānīṃ sarveṣāṃ jñānānāṃ bhrāntatvāt /",
+        "par_string": "de'i tshe shes pa thams cad 'khrul ba yin pa'i phyir ro // yin na ma / yin te / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:112",
+        "par_pos_beg": 112,
+        "par_pos_end": 112,
+        "root_pos_beg": 112,
+        "root_pos_end": 112,
+        "par_offset_beg": 24,
+        "par_offset_end": 27,
+        "root_offset_beg": 40,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:131",
+            "T11bsa059_u:132",
+            "T11bsa059_u:133"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-36",
+            "T11D4219:358b-37",
+            "T11D4219:358b-38",
+            "T11D4219:358b-39",
+            "T11D4219:358b-40",
+            "T11D4219:358b-41"
+        ],
+        "par_segtext": [
+            "// yin na ma / yin te / zhe na",
+            "/ 'dir rnam par rig byed kyi shes pa ni",
+            "nam yang sems kyi g-yo pa'i dbang med par mi",
+            "// yin na ma / yin te / zhe na",
+            "/ 'byung bas / de dag gis kyang di dag",
+            "rjes su dpog par byed do //"
+        ],
+        "root_segtext": [
+            " tadānīṃ sarveṣāṃ jñānānāṃ bhrāntatvāt /",
+            " tatra vijñaptijñānaṃ na kadāciccittaspandanādhipatyena vinā udbhavatītyataḥ tābhyāṃ ye anumīyate /",
+            " bhrāntivaśāt kadācid vyavahite 'pi udeti,"
+        ],
+        "root_string": " tatra vijñaptijñānaṃ na kadāciccittaspandanādhipatyena vinā udbhavatītyataḥ tābhyāṃ ye anumīyate /",
+        "par_string": "zhe na / 'dir rnam par rig byed kyi shes pa ni nam yang sems kyi g-yo pa'i dbang med par mi // yin na ma / yin te / zhe na / 'byung bas / de dag gis kyang di dag rjes su dpog par byed do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 78,
+        "id": "T11bsa059_u-skt-tib:113",
+        "par_pos_beg": 113,
+        "par_pos_end": 113,
+        "root_pos_beg": 113,
+        "root_pos_end": 113,
+        "par_offset_beg": 0,
+        "par_offset_end": 64,
+        "root_offset_beg": 99,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:132",
+            "T11bsa059_u:133",
+            "T11bsa059_u:134"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-42"
+        ],
+        "par_segtext": [
+            "'khrul pa'i dbang gis ni res 'ga' bar du chod kyang 'byung ste /"
+        ],
+        "root_segtext": [
+            " tatra vijñaptijñānaṃ na kadāciccittaspandanādhipatyena vinā udbhavatītyataḥ tābhyāṃ ye anumīyate /",
+            " bhrāntivaśāt kadācid vyavahite 'pi udeti,",
+            " na tu tadādhipatyarahitatvam /"
+        ],
+        "root_string": " bhrāntivaśāt kadācid vyavahite 'pi udeti,",
+        "par_string": "'khrul pa'i dbang gis ni res 'ga' bar du chod kyang 'byung ste /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:114",
+        "par_pos_beg": 114,
+        "par_pos_end": 114,
+        "root_pos_beg": 114,
+        "root_pos_end": 114,
+        "par_offset_beg": 0,
+        "par_offset_end": 34,
+        "root_offset_beg": 42,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:133",
+            "T11bsa059_u:134",
+            "T11bsa059_u:135",
+            "T11bsa059_u:136"
+        ],
+        "par_segnr": [
+            "T11D4219:358b-43",
+            "T11D4219:358b-44",
+            "T11D4219:358b-45"
+        ],
+        "par_segtext": [
+            "de dag gi dbang gis stong pa ni ma yin",
+            "gyi mngon sum dang brgyud pa zhes pa'i khyad par",
+            "'di ni yod do zhes bshad zin to //"
+        ],
+        "root_segtext": [
+            " bhrāntivaśāt kadācid vyavahite 'pi udeti,",
+            " na tu tadādhipatyarahitatvam /",
+            " viśeṣastvasti sākṣātparamparayā cetyuktam /",
+            " tatra yathā pūrvavijñaptijñānānāṃ paramparayā spandanādhipatyādudayaḥ tathā taduttarāvasthābhāvināmapi /"
+        ],
+        "root_string": " na tu tadādhipatyarahitatvam / viśeṣastvasti sākṣātparamparayā cetyuktam /",
+        "par_string": "de dag gi dbang gis stong pa ni ma yin gyi mngon sum dang brgyud pa zhes pa'i khyad par 'di ni yod do zhes bshad zin to //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:115",
+        "par_pos_beg": 115,
+        "par_pos_end": 115,
+        "root_pos_beg": 115,
+        "root_pos_end": 115,
+        "par_offset_beg": 0,
+        "par_offset_end": 65,
+        "root_offset_beg": 44,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:135",
+            "T11bsa059_u:136",
+            "T11bsa059_u:137"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-0",
+            "T11D4219:359a-1",
+            "T11D4219:359a-2"
+        ],
+        "par_segtext": [
+            "de la ji ltar rnam par rig byed @359a * //",
+            "kyi shes pa snga ma rnams brgyud de g-yo ba'i dbang gis skye ba ltar /",
+            "de'i 'og rol gyi gnas skabs na yod pa dag kyang de dang 'dra'o //"
+        ],
+        "root_segtext": [
+            " viśeṣastvasti sākṣātparamparayā cetyuktam /",
+            " tatra yathā pūrvavijñaptijñānānāṃ paramparayā spandanādhipatyādudayaḥ tathā taduttarāvasthābhāvināmapi /",
+            " vijñaptijñānāśrayaspandanottarāvasthācittasantānādeva paramparayotpādaḥ /"
+        ],
+        "root_string": " tatra yathā pūrvavijñaptijñānānāṃ paramparayā spandanādhipatyādudayaḥ tathā taduttarāvasthābhāvināmapi /",
+        "par_string": "de la ji ltar rnam par rig byed @359a * // kyi shes pa snga ma rnams brgyud de g-yo ba'i dbang gis skye ba ltar / de'i 'og rol gyi gnas skabs na yod pa dag kyang de dang 'dra'o //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:116",
+        "par_pos_beg": 116,
+        "par_pos_end": 116,
+        "root_pos_beg": 116,
+        "root_pos_end": 116,
+        "par_offset_beg": 0,
+        "par_offset_end": 20,
+        "root_offset_beg": 105,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:136",
+            "T11bsa059_u:137",
+            "T11bsa059_u:138"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-3",
+            "T11D4219:359a-4",
+            "T11D4219:359a-5",
+            "T11D4219:359a-6",
+            "T11D4219:359a-7"
+        ],
+        "par_segtext": [
+            "rnam par rig byed kyi shes pa'i rten g-yo ba'i",
+            "gnas skabs phyi ma'i sems kyi rgyud kho na las",
+            "brgyud de skye'o // de yang rjes su dpag pa",
+            "ci 'dra ba de lta bu'i mi slu ba dang",
+            "brgyud de skye'o // / tha snyad kyang yod pa kho na yin pas cis kyang mi gzung ngo //"
+        ],
+        "root_segtext": [
+            " tatra yathā pūrvavijñaptijñānānāṃ paramparayā spandanādhipatyādudayaḥ tathā taduttarāvasthābhāvināmapi /",
+            " vijñaptijñānāśrayaspandanottarāvasthācittasantānādeva paramparayotpādaḥ /",
+            " tatrāpi yādṛganumānaṃ tādṛgavisaṃvādo vyavahāraścāpyastyeveti kenāpi na gṛhyate / [82-86]"
+        ],
+        "root_string": " vijñaptijñānāśrayaspandanottarāvasthācittasantānādeva paramparayotpādaḥ /",
+        "par_string": "rnam par rig byed kyi shes pa'i rten g-yo ba'i gnas skabs phyi ma'i sems kyi rgyud kho na las brgyud de skye'o // de yang rjes su dpag pa ci 'dra ba de lta bu'i mi slu ba dang brgyud de skye'o // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 75,
+        "id": "T11bsa059_u-skt-tib:117",
+        "par_pos_beg": 117,
+        "par_pos_end": 117,
+        "root_pos_beg": 117,
+        "root_pos_end": 117,
+        "par_offset_beg": 19,
+        "par_offset_end": 85,
+        "root_offset_beg": 74,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:137",
+            "T11bsa059_u:138",
+            "T11bsa059_u:139"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-7"
+        ],
+        "par_segtext": [
+            "brgyud de skye'o // / tha snyad kyang yod pa kho na yin pas cis kyang mi gzung ngo //"
+        ],
+        "root_segtext": [
+            " vijñaptijñānāśrayaspandanottarāvasthācittasantānādeva paramparayotpādaḥ /",
+            " tatrāpi yādṛganumānaṃ tādṛgavisaṃvādo vyavahāraścāpyastyeveti kenāpi na gṛhyate / [82-86]",
+            " paracittānumānena tatsvarūpāgrahe 'pyavisaṃvādād bhavatu tathā prāmāṇyam /"
+        ],
+        "root_string": " tatrāpi yādṛganumānaṃ tādṛgavisaṃvādo vyavahāraścāpyastyeveti kenāpi na gṛhyate / [82-86]",
+        "par_string": " / tha snyad kyang yod pa kho na yin pas cis kyang mi gzung ngo //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 91,
+        "id": "T11bsa059_u-skt-tib:118",
+        "par_pos_beg": 118,
+        "par_pos_end": 118,
+        "root_pos_beg": 118,
+        "root_pos_end": 118,
+        "par_offset_beg": 0,
+        "par_offset_end": 15,
+        "root_offset_beg": 90,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:138",
+            "T11bsa059_u:139",
+            "T11bsa059_u:140",
+            "T11bsa059_u:141"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-8",
+            "T11D4219:359a-9",
+            "T11D4219:359a-10",
+            "T11D4219:359a-11",
+            "T11D4219:359a-12"
+        ],
+        "par_segtext": [
+            "gzhan gyi sems kyi rjes su dpag pa ni de'i",
+            "rang gi ngo bo mi 'dzin kyang mi slu ba'i",
+            "phyir de ltar tshad ma nyid yin du chug na",
+            "gzhan gyi sems mngon sum du shes pa rnams kyis",
+            "go // ji ltar /"
+        ],
+        "root_segtext": [
+            " tatrāpi yādṛganumānaṃ tādṛgavisaṃvādo vyavahāraścāpyastyeveti kenāpi na gṛhyate / [82-86]",
+            " paracittānumānena tatsvarūpāgrahe 'pyavisaṃvādād bhavatu tathā prāmāṇyam /",
+            " sākṣāt paracittavidāṃ tu katham?",
+            " yadi te paracittasya svarūpaṃ sākṣājjānanti,"
+        ],
+        "root_string": " paracittānumānena tatsvarūpāgrahe 'pyavisaṃvādād bhavatu tathā prāmāṇyam / sākṣāt paracittavidāṃ tu katham?",
+        "par_string": "gzhan gyi sems kyi rjes su dpag pa ni de'i rang gi ngo bo mi 'dzin kyang mi slu ba'i phyir de ltar tshad ma nyid yin du chug na gzhan gyi sems mngon sum du shes pa rnams kyis go // ji ltar /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:119",
+        "par_pos_beg": 119,
+        "par_pos_end": 119,
+        "root_pos_beg": 119,
+        "root_pos_end": 119,
+        "par_offset_beg": 0,
+        "par_offset_end": 32,
+        "root_offset_beg": 33,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:140",
+            "T11bsa059_u:141",
+            "T11bsa059_u:142",
+            "T11bsa059_u:143"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-13",
+            "T11D4219:359a-14",
+            "T11D4219:359a-15"
+        ],
+        "par_segtext": [
+            "gal te gzhan gyi sems kyis rang gi ngo bo",
+            "mngon sum du shes par gyur na ni de'i gzung",
+            "ba don gzhan yin par 'gyur ro //"
+        ],
+        "root_segtext": [
+            " sākṣāt paracittavidāṃ tu katham?",
+            " yadi te paracittasya svarūpaṃ sākṣājjānanti,",
+            " tadā tasyārthāntaragrahaṇaṃ syāt /",
+            " atha na jānanti,"
+        ],
+        "root_string": " yadi te paracittasya svarūpaṃ sākṣājjānanti, tadā tasyārthāntaragrahaṇaṃ syāt /",
+        "par_string": "gal te gzhan gyi sems kyis rang gi ngo bo mngon sum du shes par gyur na ni de'i gzung ba don gzhan yin par 'gyur ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 76,
+        "id": "T11bsa059_u-skt-tib:120",
+        "par_pos_beg": 120,
+        "par_pos_end": 120,
+        "root_pos_beg": 120,
+        "root_pos_end": 120,
+        "par_offset_beg": 0,
+        "par_offset_end": 55,
+        "root_offset_beg": 35,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:142",
+            "T11bsa059_u:143",
+            "T11bsa059_u:144",
+            "T11bsa059_u:145"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-16"
+        ],
+        "par_segtext": [
+            "mi shes na ni de dag ji ltar mngon sum du shes pa yin /"
+        ],
+        "root_segtext": [
+            " tadā tasyārthāntaragrahaṇaṃ syāt /",
+            " atha na jānanti,",
+            " kathaṃ te sākṣādvidaḥ?",
+            " kathaṃ nāma pratyakṣeṇārthasvarūpasya agrahaṇaṃ ca bhavati /"
+        ],
+        "root_string": " atha na jānanti, kathaṃ te sākṣādvidaḥ?",
+        "par_string": "mi shes na ni de dag ji ltar mngon sum du shes pa yin /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 81,
+        "id": "T11bsa059_u-skt-tib:121",
+        "par_pos_beg": 121,
+        "par_pos_end": 121,
+        "root_pos_beg": 121,
+        "root_pos_end": 121,
+        "par_offset_beg": 0,
+        "par_offset_end": 70,
+        "root_offset_beg": 23,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:144",
+            "T11bsa059_u:145",
+            "T11bsa059_u:146"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-17"
+        ],
+        "par_segtext": [
+            "ji ltar mngon sum gyi don gyi rang gi ngo bo mi 'dzin par yang 'gyur /"
+        ],
+        "root_segtext": [
+            " kathaṃ te sākṣādvidaḥ?",
+            " kathaṃ nāma pratyakṣeṇārthasvarūpasya agrahaṇaṃ ca bhavati /",
+            " atha na gṛhyate,"
+        ],
+        "root_string": " kathaṃ nāma pratyakṣeṇārthasvarūpasya agrahaṇaṃ ca bhavati /",
+        "par_string": "ji ltar mngon sum gyi don gyi rang gi ngo bo mi 'dzin par yang 'gyur /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 92,
+        "id": "T11bsa059_u-skt-tib:122",
+        "par_pos_beg": 122,
+        "par_pos_end": 122,
+        "root_pos_beg": 122,
+        "root_pos_end": 122,
+        "par_offset_beg": 0,
+        "par_offset_end": 51,
+        "root_offset_beg": 61,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:145",
+            "T11bsa059_u:146",
+            "T11bsa059_u:147",
+            "T11bsa059_u:148"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-18"
+        ],
+        "par_segtext": [
+            "'on te mi 'dzin na ni ji ltar tshad ma yin zhe na /"
+        ],
+        "root_segtext": [
+            " kathaṃ nāma pratyakṣeṇārthasvarūpasya agrahaṇaṃ ca bhavati /",
+            " atha na gṛhyate,",
+            " kathaṃ tarhi pramāṇamiti cet?",
+            " aprahīṇagrāhyagrāhaka vikalpayogināṃ paracittajñānamapi vyavahāre 'visaṃvādādeva pramāṇam,"
+        ],
+        "root_string": " atha na gṛhyate, kathaṃ tarhi pramāṇamiti cet?",
+        "par_string": "'on te mi 'dzin na ni ji ltar tshad ma yin zhe na /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 94,
+        "id": "T11bsa059_u-skt-tib:123",
+        "par_pos_beg": 123,
+        "par_pos_end": 123,
+        "root_pos_beg": 123,
+        "root_pos_end": 123,
+        "par_offset_beg": 0,
+        "par_offset_end": 6,
+        "root_offset_beg": 30,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:147",
+            "T11bsa059_u:148",
+            "T11bsa059_u:149",
+            "T11bsa059_u:150",
+            "T11bsa059_u:151"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-19",
+            "T11D4219:359a-20",
+            "T11D4219:359a-21",
+            "T11D4219:359a-22",
+            "T11D4219:359a-23",
+            "T11D4219:359a-24"
+        ],
+        "par_segtext": [
+            "gnas ma gyur ba'i phyir rnal 'byor pa gzung ba",
+            "dang 'dzin pa'i rnam par rtog pa ma spangs pa",
+            "rnams kyis gzhan gyis sems shes pa yang /",
+            "tha snyad la mi slu ba nyid kyis gzugs la",
+            "sogs pa mthong ba bzhin du tshad ma nyid yin",
+            "no // rnal 'byor gyi stobs kyis ni de dag"
+        ],
+        "root_segtext": [
+            " kathaṃ tarhi pramāṇamiti cet?",
+            " aprahīṇagrāhyagrāhaka vikalpayogināṃ paracittajñānamapi vyavahāre 'visaṃvādādeva pramāṇam,",
+            " rūpādidarśanavat;",
+            " āśrayāparāvṛteḥ /",
+            " yogabalāddhi teṣāṃ jñānaṃ paracittākāraviśeṣānukāri sphuṭābhamupajāyate,"
+        ],
+        "root_string": " aprahīṇagrāhyagrāhaka vikalpayogināṃ paracittajñānamapi vyavahāre 'visaṃvādādeva pramāṇam, rūpādidarśanavat; āśrayāparāvṛteḥ /",
+        "par_string": "gnas ma gyur ba'i phyir rnal 'byor pa gzung ba dang 'dzin pa'i rnam par rtog pa ma spangs pa rnams kyis gzhan gyis sems shes pa yang / tha snyad la mi slu ba nyid kyis gzugs la sogs pa mthong ba bzhin du tshad ma nyid yin no // ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 89,
+        "id": "T11bsa059_u-skt-tib:124",
+        "par_pos_beg": 124,
+        "par_pos_end": 124,
+        "root_pos_beg": 124,
+        "root_pos_end": 124,
+        "par_offset_beg": 5,
+        "par_offset_end": 24,
+        "root_offset_beg": 18,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:150",
+            "T11bsa059_u:151",
+            "T11bsa059_u:152"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-24",
+            "T11D4219:359a-25",
+            "T11D4219:359a-26",
+            "T11D4219:359a-27"
+        ],
+        "par_segtext": [
+            "no // rnal 'byor gyi stobs kyis ni de dag",
+            "la shes pa gzhan gyi sems kyi rnam pa'i bye",
+            "brag gi / rjes su byed pa gsal bar snang",
+            "ba 'byung bar 'gyur te /"
+        ],
+        "root_segtext": [
+            " āśrayāparāvṛteḥ /",
+            " yogabalāddhi teṣāṃ jñānaṃ paracittākāraviśeṣānukāri sphuṭābhamupajāyate,",
+            " karmadevādyadhiṣṭhānabalāt satyasvapnadarśanavat /"
+        ],
+        "root_string": " yogabalāddhi teṣāṃ jñānaṃ paracittākāraviśeṣānukāri sphuṭābhamupajāyate,",
+        "par_string": " rnal 'byor gyi stobs kyis ni de dag la shes pa gzhan gyi sems kyi rnam pa'i bye brag gi / rjes su byed pa gsal bar snang ba 'byung bar 'gyur te /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 93,
+        "id": "T11bsa059_u-skt-tib:125",
+        "par_pos_beg": 125,
+        "par_pos_end": 125,
+        "root_pos_beg": 125,
+        "root_pos_end": 125,
+        "par_offset_beg": 0,
+        "par_offset_end": 8,
+        "root_offset_beg": 73,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:151",
+            "T11bsa059_u:152",
+            "T11bsa059_u:153",
+            "T11bsa059_u:154"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-28",
+            "T11D4219:359a-29",
+            "T11D4219:359a-30",
+            "T11D4219:359a-31",
+            "T11D4219:359a-32"
+        ],
+        "par_segtext": [
+            "las dang lha la sogs pa'i byin gyi rlabs kyi",
+            "stobs kyis rmi lam bden pa mthong ba bzhin no",
+            "// de dag la yang gzhan gyi sems kyi yul",
+            "can nyid kyi shes pa 'byung ba ni ma yin",
+            "// te / de dag kyang rang gi sems snang ba de dang /"
+        ],
+        "root_segtext": [
+            " yogabalāddhi teṣāṃ jñānaṃ paracittākāraviśeṣānukāri sphuṭābhamupajāyate,",
+            " karmadevādyadhiṣṭhānabalāt satyasvapnadarśanavat /",
+            " teṣāmapi na paracittaviṣayitvena jñānamudeti,",
+            " te 'pi tadākārasadṛśasvacittapratibhāsameva jānantītyevamavadhāraṇād paracittavida iti vyavahāraḥ /"
+        ],
+        "root_string": " karmadevādyadhiṣṭhānabalāt satyasvapnadarśanavat / teṣāmapi na paracittaviṣayitvena jñānamudeti,",
+        "par_string": "las dang lha la sogs pa'i byin gyi rlabs kyi stobs kyis rmi lam bden pa mthong ba bzhin no // de dag la yang gzhan gyi sems kyi yul can nyid kyi shes pa 'byung ba ni ma yin // te / ",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:126",
+        "par_pos_beg": 126,
+        "par_pos_end": 126,
+        "root_pos_beg": 126,
+        "root_pos_end": 126,
+        "par_offset_beg": 8,
+        "par_offset_end": 76,
+        "root_offset_beg": 46,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:153",
+            "T11bsa059_u:154",
+            "T11bsa059_u:155"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-32",
+            "T11D4219:359a-33",
+            "T11D4219:359a-34"
+        ],
+        "par_segtext": [
+            "// te / de dag kyang rang gi sems snang ba de dang /",
+            "rnam pa mtshungs pa kho na nyid shes pa las /",
+            "gzhan gyi sems shes pa zhes bya ba nges par gzungs bas tha snyad 'dogs so //"
+        ],
+        "root_segtext": [
+            " teṣāmapi na paracittaviṣayitvena jñānamudeti,",
+            " te 'pi tadākārasadṛśasvacittapratibhāsameva jānantītyevamavadhāraṇād paracittavida iti vyavahāraḥ /",
+            " tadākārānukārisfuṭābhatvāt tatpratyakṣam,"
+        ],
+        "root_string": " te 'pi tadākārasadṛśasvacittapratibhāsameva jānantītyevamavadhāraṇād paracittavida iti vyavahāraḥ /",
+        "par_string": "de dag kyang rang gi sems snang ba de dang / rnam pa mtshungs pa kho na nyid shes pa las / gzhan gyi sems shes pa zhes bya ba nges par gzungs bas tha snyad 'dogs so //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 86,
+        "id": "T11bsa059_u-skt-tib:127",
+        "par_pos_beg": 127,
+        "par_pos_end": 127,
+        "root_pos_beg": 127,
+        "root_pos_end": 127,
+        "par_offset_beg": 0,
+        "par_offset_end": 44,
+        "root_offset_beg": 100,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:154",
+            "T11bsa059_u:155",
+            "T11bsa059_u:156",
+            "T11bsa059_u:157"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-35",
+            "T11D4219:359a-36"
+        ],
+        "par_segtext": [
+            "mngon sum du ni de'i rnam pa'i rjes su byed pa gsal bar snang ba'i phyir dang /",
+            "mi slu pa'i tshad ma zhes bya bar 'dod do //"
+        ],
+        "root_segtext": [
+            " te 'pi tadākārasadṛśasvacittapratibhāsameva jānantītyevamavadhāraṇād paracittavida iti vyavahāraḥ /",
+            " tadākārānukārisfuṭābhatvāt tatpratyakṣam,",
+            " avisaṃvāditvācca pramāṇam iti matam /",
+            " acintyo hi bhagavataḥ sarvārthādhigamaḥ,"
+        ],
+        "root_string": " tadākārānukārisfuṭābhatvāt tatpratyakṣam, avisaṃvāditvācca pramāṇam iti matam /",
+        "par_string": "mngon sum du ni de'i rnam pa'i rjes su byed pa gsal bar snang ba'i phyir dang / mi slu pa'i tshad ma zhes bya bar 'dod do //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 82,
+        "id": "T11bsa059_u-skt-tib:128",
+        "par_pos_beg": 128,
+        "par_pos_end": 128,
+        "root_pos_beg": 128,
+        "root_pos_end": 128,
+        "par_offset_beg": 0,
+        "par_offset_end": 79,
+        "root_offset_beg": 38,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:156",
+            "T11bsa059_u:157",
+            "T11bsa059_u:158"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-37"
+        ],
+        "par_segtext": [
+            "bcom ldan 'das kyis don thams cad thugs su chung pa ni bsam gyis mi khyab ste /"
+        ],
+        "root_segtext": [
+            " avisaṃvāditvācca pramāṇam iti matam /",
+            " acintyo hi bhagavataḥ sarvārthādhigamaḥ,",
+            " sarvathā jñānabhidhānaviṣayātītatvāt // [87-93]"
+        ],
+        "root_string": " acintyo hi bhagavataḥ sarvārthādhigamaḥ,",
+        "par_string": "bcom ldan 'das kyis don thams cad thugs su chung pa ni bsam gyis mi khyab ste /",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    },
+    {
+        "score": 90,
+        "id": "T11bsa059_u-skt-tib:129",
+        "par_pos_beg": 129,
+        "par_pos_end": 129,
+        "root_pos_beg": 129,
+        "root_pos_end": 129,
+        "par_offset_beg": 0,
+        "par_offset_end": 74,
+        "root_offset_beg": 41,
+        "root_offset_end": 0,
+        "root_segnr": [
+            "T11bsa059_u:157",
+            "T11bsa059_u:158",
+            "T11bsa059_u:159"
+        ],
+        "par_segnr": [
+            "T11D4219:359a-38"
+        ],
+        "par_segtext": [
+            "rnam pa thams cad du shes pa dang brjod pa'i yul las 'das pa'i phyir ro //"
+        ],
+        "root_segtext": [
+            " acintyo hi bhagavataḥ sarvārthādhigamaḥ,",
+            " sarvathā jñānabhidhānaviṣayātītatvāt // [87-93]",
+            " // ācāryadharmakīrtipraṇītaṃ santānāntarasiddhiprakaraṇaṃ samāptam //"
+        ],
+        "root_string": " sarvathā jñānabhidhānaviṣayātītatvāt // [87-93]",
+        "par_string": "rnam pa thams cad du shes pa dang brjod pa'i yul las 'das pa'i phyir ro //",
+        "src_lang": "skt",
+        "tgt_lang": "tib",
+        "co-occ": 0
+    }
+]
